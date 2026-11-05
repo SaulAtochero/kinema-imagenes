@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "lotes": [
   {
    "id": "01",
@@ -719,6 +719,50 @@
     "Wide-Grip_Decline_Barbell_Bench_Press_1.jpg": "fdd31a436baf4defa4a3bba45f1f0779c7ba09299cf5ca174b5e47ae109b4c18",
     "Wide-Grip_Rear_Pull-Up_0.jpg": "a9fcc97824ff676a13f7fab38c8e3ebcf9278d96526b7824e66f695d9278ed6d",
     "Wide-Grip_Rear_Pull-Up_1.jpg": "738e361a773b309045759ef9fb5c7235f53729b382c636dd1d4d7d15d25ee1ab"
+   }
+  },
+  {
+   "id": "17",
+   "ruta": "lotes/lote_17.zip",
+   "sha256": "76c5bccd776ef5fa1e587f9217a62d2aaa3fcfbe1c480c3ca480a8c852545df3",
+   "bytes": 2307305,
+   "archivos": {
+    "Alternating_Kettlebell_Press_0.jpg": "1e84538a486509b68d5205e2c15eb49a9fff3ef4290df3621d28cd2efab063d1",
+    "Alternating_Kettlebell_Press_1.jpg": "c58990df8ab08814e17b9110cd97cb884828aedd3ca90fd16b30d5eef5ade9c4",
+    "Alternating_Renegade_Row_0.jpg": "94b660407fc5a8a457a54a2e37d19fcd7f2bbeb1cb1794fa76117bb0f2ab98f7",
+    "Alternating_Renegade_Row_1.jpg": "8326f6755b455d0b5059d5f44d20e5fc656d4a05fef248c51e6f12ccf27dc52f",
+    "Barbell_Shrug_Behind_The_Back_0.jpg": "1a424ba6abc06db5e5d5f621ca47101a9937febb56cd2457e3499c17c20fed69",
+    "Barbell_Shrug_Behind_The_Back_1.jpg": "62daeaf4e1d02786cc5f911efb2c5718f22bb78f2b9e4f57ff57e805a21de1c7",
+    "Barbell_Squat_To_A_Bench_0.jpg": "5dc9286f56ec87d5e8770e49df158a8d8e9abdaa8d24089b794cdd3ee2c97a04",
+    "Barbell_Squat_To_A_Bench_1.jpg": "a1c366c77e3c5316a22f70a2a2c4a96ddbbd0423d1ba2e42895dbf11d22f5fe0",
+    "Butt-Ups_0.jpg": "58edadb2e12ab779e8e030e8b852d1dd52611f91c49f5ae5b096e592a45b621f",
+    "Butt-Ups_1.jpg": "6f295350fe175384df17f923ff5cce7b40cfa2b7aec8790d9e53585708751f11",
+    "Clean_and_Press_0.jpg": "b5a39b5d00f466114a1d4b4682e2cec38ee91a917d242bf6a2c2d7749b5fc19f",
+    "Clean_and_Press_1.jpg": "61a1da20205ea1a66f8d0987b7b40b7eb28a7e8002e3ebb01e78c2eb00e3eb67",
+    "Dumbbell_Clean_0.jpg": "c7935551df935c599fe73a07712a30fd07925036f948cc47e4a39ecd956c5862",
+    "Dumbbell_Clean_1.jpg": "8708d145e12235fe6aff5937d602faf300af7d87c6371e951a7f480b4673df5b",
+    "Dumbbell_One-Arm_Triceps_Extension_0.jpg": "994c5a29092196c7e0072d74af34a86c9e8af2a2b60f695b2d4ab07d80146d0e",
+    "Dumbbell_One-Arm_Triceps_Extension_1.jpg": "63589393cde3ed17f264da9edb7da29c4f1fb51a1af60e1b121451fe81ceeba3",
+    "Front_Barbell_Squat_To_A_Bench_0.jpg": "fc69d98d0aa0c54a86886ddf522d0e6685110e7cbd8410ad6985d9fe60cff817",
+    "Front_Barbell_Squat_To_A_Bench_1.jpg": "0d107c1d41bc138e6ce091acedab2ae294165908f050a181bd6dca3955abb616",
+    "Incline_Bench_Pull_0.jpg": "7d566c57b78e5dbb5379ed79ee3cc2aea18e0799f046f1a617bfa63057588e79",
+    "Incline_Bench_Pull_1.jpg": "abcb8b1943d5922e101c017d2939c0294b2278bfd06da2a36695948e7054b11c",
+    "Kettlebell_Hang_Clean_0.jpg": "efb3b6d9a1bc82daf23ea5a985b1d8271f82eee920e4c1e1e64bccee3a613e4b",
+    "Kettlebell_Hang_Clean_1.jpg": "684233e9369c471191736b9cc3e07b9686c471d38ffaee328e8253cedbb2d0b8",
+    "Kettlebell_Overhead_Triceps_Extension_0.jpg": "9c59cc821190d3a4792f814b75cbfcd8711110d935e45034904b24e122ab610c",
+    "Kettlebell_Overhead_Triceps_Extension_1.jpg": "dd4e81e928f8d7f91a714924d45d853b954484873e3659d08088f4126db1ae96",
+    "Leg_Pull-In_0.jpg": "0fa7284b9e77883b0ab13c8d1843bbb8dd4e50f5172d0f482f79529180ab69af",
+    "Leg_Pull-In_1.jpg": "3d7e9bb051eff3f882f8b31062e80d057aee74eed5f146cb3dba07f9833020d2",
+    "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head_0.jpg": "6fc08f7680de337c4e93416197ad74010f0e65362bb19aa70e14a07f5a87c594",
+    "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head_1.jpg": "406912a9a79657b52b61cc930a6c18d848f328453990ff433089bc6844e7b0b7",
+    "Lying_Rear_Delt_Raise_0.jpg": "2e602be808742fb789f3f237f9b2902af53abfb81a1dbdac28be31221d71afcd",
+    "Lying_Rear_Delt_Raise_1.jpg": "01e68f0c3d466a555f97888b2e6bd7a4efe6d507f69f257312d815e84d203aeb",
+    "Scissors_Jump_0.jpg": "02a53e362d95cf225cd9119ad9866711273066f4a08eb31338fb9a9378626b8c",
+    "Scissors_Jump_1.jpg": "66608dd1f2dab94715aeec99d512a2427e57dd37e5f02119e721c1610ae5ae92",
+    "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension_0.jpg": "d13f3f53adb194782b76423b315854982bf411a7163f032824d57f764af3b59d",
+    "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension_1.jpg": "e0b2be8423e942339ea335613756d5fc64d57831da4a694aebd777686b99347a",
+    "Standing_Inner-Biceps_Curl_0.jpg": "c3115a8bc507ca2b6a6a47640076d50028c1a90bfaa66791342a55d9468f2812",
+    "Standing_Inner-Biceps_Curl_1.jpg": "da9ea38f29078f30e1360aa2c0a98ba8a0c9582304f3c207dab8d5254b1eefc1"
    }
   }
  ]
