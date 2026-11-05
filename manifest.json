@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "lotes": [
   {
    "id": "01",
@@ -763,6 +763,50 @@
     "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension_1.jpg": "e0b2be8423e942339ea335613756d5fc64d57831da4a694aebd777686b99347a",
     "Standing_Inner-Biceps_Curl_0.jpg": "c3115a8bc507ca2b6a6a47640076d50028c1a90bfaa66791342a55d9468f2812",
     "Standing_Inner-Biceps_Curl_1.jpg": "da9ea38f29078f30e1360aa2c0a98ba8a0c9582304f3c207dab8d5254b1eefc1"
+   }
+  },
+  {
+   "id": "18",
+   "ruta": "lotes/lote_18.zip",
+   "sha256": "96c9f2cef1c27d372e1ee6e56fe96e8c3d43a0ae4f209432244d3c51fbb57884",
+   "bytes": 2590465,
+   "archivos": {
+    "Alternating_Kettlebell_Row_0.jpg": "2c3602f5b74e38646dfbf22771b424d1d5199d394da4abd452ebc69868c5dc9f",
+    "Alternating_Kettlebell_Row_1.jpg": "32442f1307c28ae08ffb2b887edcab2b97d60d836715292490803a961429ee92",
+    "Barbell_Ab_Rollout_-_On_Knees_0.jpg": "cc49cc15c69c952e085eb3dd67d0f5b1bcdfcdb44a8fb1c2ffb35120b511f8a2",
+    "Barbell_Ab_Rollout_-_On_Knees_1.jpg": "7af275e32fc296c3145792c3ad6bbce42faf9ec4053deea510a367102d7f4193",
+    "Barbell_Curls_Lying_Against_An_Incline_0.jpg": "eb1a7d0e4d6df6dce436b862aa4c219dc53202e1dd92ce93db6947079574049a",
+    "Barbell_Curls_Lying_Against_An_Incline_1.jpg": "746af7f9ed3f6bb3f695d0bcf0771bc16335b5f5993274c8b721a4c336a6bd27",
+    "Bent_Over_One-Arm_Long_Bar_Row_0.jpg": "81bc2984ba208d804134a4d0a8714a4b1bd186159a0518ebad31c9a9e98cc7d7",
+    "Bent_Over_One-Arm_Long_Bar_Row_1.jpg": "15ae5f5500e9954b493e67f99cbdff19bf21b39c9f1be91f3189efc8fba939ab",
+    "Cuban_Press_0.jpg": "94325336a096b4d457636ad5b7ec0d4bbcb8a138d01a161cbb8ca2ba915b3c3e",
+    "Cuban_Press_1.jpg": "9793224aa2d5577bcaae3cd25359d299fab10b4ea38e09798c5e5653b8303713",
+    "Double_Kettlebell_Push_Press_0.jpg": "03e3ddc1ee610d22cda3f17bc61662b84bb8722fcafd3238cd83430956bca644",
+    "Double_Kettlebell_Push_Press_1.jpg": "1998934e68a511f75742b3b5345f7c991c3ea7fa50125eb4dd23acf609a8cb5d",
+    "Hanging_Pike_0.jpg": "1b54413ea09c9a1dc0aef23e5b9dfd43fd4ed94e44d0334e62a7d5653725455f",
+    "Hanging_Pike_1.jpg": "7e5c18c5eae01cfed1045fc496f9ae1b4ecea800bf8005b49376ed1f337db234",
+    "Kettlebell_Pistol_Squat_0.jpg": "6faef2e8a5174b6d43ad1341f6e597d15c2ca97752b9e9a4ac01ec79b8816c6d",
+    "Kettlebell_Pistol_Squat_1.jpg": "0c885cc94eaf7450a26ba9fa88d512addf438983ef394d0e27c6a6913dbb3095",
+    "Lying_High_Bench_Barbell_Curl_0.jpg": "93d22e583343049caf9f81f46e8c28154c25c079395f76a09c351785dce6b2c5",
+    "Lying_High_Bench_Barbell_Curl_1.jpg": "c2a9057f746fde3aed3a81d2504a4a662ef6c2c01073cba1023c0c5dcba3c07f",
+    "Lying_One-Arm_Lateral_Raise_0.jpg": "c564dc806521c1f961d8c4ce038c2b5846ec6bd781c514b4b144171373cb642c",
+    "Lying_One-Arm_Lateral_Raise_1.jpg": "77e1cb6c410a5ab30932ce074c322e07c7df513308e8b1d8f4613fd060bd43a8",
+    "Reverse_Triceps_Bench_Press_0.jpg": "94040e7b248c1ca2aa96b743ef24d01634c177104e4a8fc98c5b6dd4396fc715",
+    "Reverse_Triceps_Bench_Press_1.jpg": "825a50d7affcb5afd2952b6c0719dcd9770ade46ebaa646b9c99d0014888e841",
+    "Seated_Barbell_Twist_0.jpg": "f42245c379c9a6e386ac14df2d95bac1192f209ceb7f63915e1eebbf135a118d",
+    "Seated_Barbell_Twist_1.jpg": "adcf364c48424b6eec071efa426f19ff557d364f3e0b2052433662cde225f845",
+    "Seated_Dumbbell_Inner_Biceps_Curl_0.jpg": "f722f353950240b141da57831b7ff1937afdd22adb6f822f3fa19b6134e2a025",
+    "Seated_Dumbbell_Inner_Biceps_Curl_1.jpg": "8427cfc4be2d947c185581299e5a75604d9b5f0fb59008cc7e75e3a4f4282b90",
+    "Seated_Flat_Bench_Leg_Pull-In_0.jpg": "381e3d7ce508efc5326714b1756d8c07df06978350e6be215761b8bed7aaa9a6",
+    "Seated_Flat_Bench_Leg_Pull-In_1.jpg": "9f0a008eae194b20c5e0fbd933e18f92fd8d800acc03b8552e59d59ef9fd867c",
+    "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head_0.jpg": "78d6a48da42bea594dddacb5508da29a8988638499e8010c3ac44448c0c8cc33",
+    "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head_1.jpg": "67bbcc3bc938e23399ea492e439f35ba5e64f36107742cce364ea8def79db48e",
+    "V-Bar_Pullup_0.jpg": "54a88401d1fb7dd8fcda7844e7ba291fed19bb781d6ce6f20803c3b9b93a4b8b",
+    "V-Bar_Pullup_1.jpg": "23126025353d8c870cb3db8a502945a013d540a235e41b530bfd540b7c261e86",
+    "Wide-Grip_Decline_Barbell_Pullover_0.jpg": "1fbff798afdc153b6dd5cce53430241b84c1536ee56f306465a8d5f968c8c8ea",
+    "Wide-Grip_Decline_Barbell_Pullover_1.jpg": "c84f7558ffacad35729ce71ebd4320252ad74b082fb14f02d269e803d4f78794",
+    "Zottman_Preacher_Curl_0.jpg": "2047d3635edd833cf50da5d45e669d1b5939486ed7b8ec8aac3ddf72a2e0ac58",
+    "Zottman_Preacher_Curl_1.jpg": "3713a7e7bf056f0d687956f5fb3729510622259d42f6554ce07bc48ce0d553ac"
    }
   }
  ]
