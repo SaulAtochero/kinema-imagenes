@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "lotes": [
   {
    "id": "01",
@@ -855,6 +855,40 @@
     "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench_1.jpg": "9319363e61efe860512e23ff088bbba067975873c767e2e3eceb3955c0ece3e9",
     "Two-Arm_Kettlebell_Clean_0.jpg": "f07c5b3735ea3a815530c7ba983e076c3d3456889c29403e4d6603f1c6b00f3b",
     "Two-Arm_Kettlebell_Clean_1.jpg": "1f26237ec11a96d132db2d9bff52c912e9f4fdc190b00b422dea5993fe2548d1"
+   }
+  },
+  {
+   "id": "20",
+   "ruta": "lotes/lote_20.zip",
+   "sha256": "d54477dee235f3096ac399f9cf74e17198212a92ca64271a2935c28a8db7dbff",
+   "bytes": 1582584,
+   "archivos": {
+    "Deficit_Deadlift_0.jpg": "290186a1ff394f407d39e6227b1f3e85990dfc94b3ce6fd630fc2682119cf633",
+    "Deficit_Deadlift_1.jpg": "d59d4783f01c5fa4ecbfae3842d1b034b286a906619c61c3d7afc5ba6a072319",
+    "Double_Kettlebell_Snatch_0.jpg": "ab79641c63184cf027710797a45fecfcf4efecffc87b63520a80a1fe9d5729df",
+    "Double_Kettlebell_Snatch_1.jpg": "e2241568b580b445a4b648a966d590af83f3e6b1a76c0dcc7572da3734100d73",
+    "Exercise_Ball_Crunch_0.jpg": "cdd781b82a3764685378a16fa85df8f861b9cc441918e9d9425a1b11ceb949e1",
+    "Exercise_Ball_Crunch_1.jpg": "e75b395464ce5cfb103bdc7cab833d8db4ea742a1d7061a5b72fbbead679b6b1",
+    "Front_Raise_And_Pullover_0.jpg": "45ab31348d8547cbfbbc0e46cbb2e4c59b707ce760d086f90176735a5db78b10",
+    "Front_Raise_And_Pullover_1.jpg": "097e36227fcee2366b45e2847d3311f4594f7b6f35f452a7818fcf171287f5b5",
+    "Hang_Snatch_0.jpg": "fd70108cf39ed1e7b95183645c6936cd027f148f9bdb046f7889884bf38646f6",
+    "Hang_Snatch_1.jpg": "2df32e8660b1a30c5b60385d7c7c7d59ba527af890b16c1aa5a443b6cccd9c19",
+    "Lunge_Pass_Through_0.jpg": "5a64513dd25de7560390d59f3872290c0784c3eb3a104fb46625f3d70dea1247",
+    "Lunge_Pass_Through_1.jpg": "3f21fdb1cd5712296987fc98e7534f8ed6f73ca87f2b9a3c0bc56cd3b538068e",
+    "One-Arm_Kettlebell_Clean_0.jpg": "71976f4f7ddc406d9526b9eb6d5b9af4e4e069112a2adab4001fea73979b3a84",
+    "One-Arm_Kettlebell_Clean_1.jpg": "0970c8d743a8ed79dac7b8c9eb87fe297f6cedd04dfc73c9880175a376809227",
+    "One-Arm_Kettlebell_Snatch_0.jpg": "38949663ccf61ae54605f2fdf05e95aee7ab2f7b15d22fcf9f012940cf023cb4",
+    "One-Arm_Kettlebell_Snatch_1.jpg": "50aee2884fe2c0bb3f2bc889ad3364a28b99eef8f169bfc7f63ab9629e946c8b",
+    "One_Arm_Pronated_Dumbbell_Triceps_Extension_0.jpg": "c8dccee8b232c057ec0a833f9efbaecf527104662d3f71c5ac8420cf75e111cc",
+    "One_Arm_Pronated_Dumbbell_Triceps_Extension_1.jpg": "737ccf5a669287fb52e72f8f11b52edc3d15d0269caae6ec84a5351a4a55a9f8",
+    "Power_Partials_0.jpg": "2f222d06349b55add74a2e59bbc29f6b8dd331757976f32742de1da3dcdea334",
+    "Power_Partials_1.jpg": "3735760bf9297cdcdbc581f3d30369eae303a053b44e78dfe0e2b745a875d9c3",
+    "Single_Dumbbell_Raise_0.jpg": "04892f3ff19b5d0976d5d5d4cd0d11b4ff7a47b690834d1f8647b73a9c3baff7",
+    "Single_Dumbbell_Raise_1.jpg": "36fc7cb9df81ecf3197f8663ba61d3d4eaee8b88aa4d3cfe5e6956091bcaed73",
+    "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension_0.jpg": "ebb32d433bc0a9813fcf4bd47d1e6fcea49ec522a40ba13aeafd077d53636f49",
+    "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension_1.jpg": "89043c1f088d4a7bd0db6b28df17910fd8f69b6cb119302ad517cb89b2a8bf36",
+    "Vertical_Swing_0.jpg": "ce03033d46b0c52a31a325775df8a2795ceabcd2cce352f2a71d6d565f06eb22",
+    "Vertical_Swing_1.jpg": "013f42ce5267a3dd1484b046186aec3ff76371975dd8711c12a0f87e1913e669"
    }
   }
  ]
