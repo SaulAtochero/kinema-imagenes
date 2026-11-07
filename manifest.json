@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "lotes": [
   {
    "id": "01",
@@ -929,6 +929,54 @@
     "Upright_Row_-_With_Bands_1.jpg": "298163db2a17931b44b20e812132f3c1f22c2e8730f0aedcd981de8658c18d8c",
     "Weighted_Crunches_0.jpg": "d56ad7a60ceb00fe9103b031372c14377f5d18eb1308da5396de74087d4ece14",
     "Weighted_Crunches_1.jpg": "46c6341dbd7b514e75586003ff39ed4752be62468dbeeefa77aa838557a20f03"
+   }
+  },
+  {
+   "id": "22",
+   "ruta": "lotes/lote_22.zip",
+   "sha256": "597222cce0eea4b89cbe2d4bc1034d9ee03b17b59bcc5941f12121b141eaeda3",
+   "bytes": 2544893,
+   "archivos": {
+    "Alternating_Deltoid_Raise_0.jpg": "11a212a2c8ee6933c236c7dd685aa9161a3b83104837c12d582b1702e36195ed",
+    "Alternating_Deltoid_Raise_1.jpg": "dbd022cfa332f953053924482ed09670e8ab319b93651e532da2c9ac9f503399",
+    "Back_Flyes_-_With_Bands_0.jpg": "a81fdfa605db35135ed4450d8d6e949edd0bad4598ea434f2ffbbc28a8493e0d",
+    "Back_Flyes_-_With_Bands_1.jpg": "e4e8846203969318b644df039e77efdf1b305756cd4026b57d54afb3acae76ee",
+    "Band_Good_Morning_0.jpg": "0ae749286bca762570f215cfc0076c626c9174057f367cf24d5e676149ff6306",
+    "Band_Good_Morning_1.jpg": "f779a95fb559370e5436f6c53e20d606a8c88a7932db45ce824d6c11262308b3",
+    "Calf_Raises_-_With_Bands_0.jpg": "ecf50cc62a07946c1f3c3c8a49cda4bbb53157b83de89a02ac4bb3257dcd0291",
+    "Calf_Raises_-_With_Bands_1.jpg": "b33c627a81edd7c3e0c4ef82cb92fd3cc50c4cacfbeca20073fe1a0febed186a",
+    "Clean_Deadlift_0.jpg": "f2c6a61495a644d097bdc51a9726040ea75d045fc22eccaecff06308ee7f29aa",
+    "Clean_Deadlift_1.jpg": "4d26796e24df63efb04daeff3db66e0aaa5f454801e24d950f1834cfa97f3b76",
+    "Clean_Shrug_0.jpg": "3a929df277f9dba079927185beb0adb81121e038b2b810d563723889e25b8445",
+    "Clean_Shrug_1.jpg": "ac84e4582e5a04574d88cfa024d5a6037d29f965f97fd568b917f91972a9dbb2",
+    "Dumbbell_Raise_0.jpg": "bc2b0280bec2f294de04330aab489f0df5f0a301aeded84cb9da8817b833c435",
+    "Dumbbell_Raise_1.jpg": "4a506a810a827631d07655fdf1b96e13b03eb69a3d01dc9c4b0b9a16cf317dee",
+    "Kettlebell_Dead_Clean_0.jpg": "95f39279fc0b96478da9ad8e57813e00641717b8f6a62b9eb5e172a781401544",
+    "Kettlebell_Dead_Clean_1.jpg": "fe5e34256c327ed4eac70c79421ad20ab0379aa4a5204f4a8b73f661dd3cab44",
+    "Natural_Glute_Ham_Raise_0.jpg": "32f8a4f2a9233a46cf2ff7d1fbcfc7530d94d0dcdceb419fff3e64aaa8c035a0",
+    "Natural_Glute_Ham_Raise_1.jpg": "8a0e7279eb3800d4a8329f1e187c46ea4055e6ea568656ab8ea40b0568fe574b",
+    "Oblique_Crunches_0.jpg": "80af608608bebfb3653affc99db65bf2242be564b59acc19420f1fd264e21004",
+    "Oblique_Crunches_1.jpg": "368a52b355ef48ac4b5ea3e1cd33cb75837aa5fad3cd7a376c79d31731400c5f",
+    "One-Arm_Long_Bar_Row_0.jpg": "5b9a892ab15e508e03e5650ed3019557d1a3c1b2c904d15ee3fc03acbf9c2043",
+    "One-Arm_Long_Bar_Row_1.jpg": "16e162e57ded1b0efb55e5e61425664f8f94c0e091943ccddbb0d62a05f13853",
+    "Power_Clean_0.jpg": "6639ab2462a5c265c7ac8476e5a45f0f5950f965af4b5c00009f5fba74e43d82",
+    "Power_Clean_1.jpg": "d9138b3628452ca0c5f486985dbeaa14dc9ac50aba002cbd55015ed9ffeb6395",
+    "Push_Press_0.jpg": "8aa55c45abec2fcc37f4cebc7af97f4149567a75d96dc7015d4a13c1ad949063",
+    "Push_Press_1.jpg": "8259f500ac5445bd6a357c5fedeb94c4e553d4f032fb8248d8bd83f0ef50951f",
+    "Pushups_Close_and_Wide_Hand_Positions_0.jpg": "663194fd2fbaae85efab0a7c5c4371d328c4aeafd7d5a2268fdcb7b92196c8d4",
+    "Pushups_Close_and_Wide_Hand_Positions_1.jpg": "adde66b0a078c4225a98520f3e63ac39add3448858de8455089b983fe7400b54",
+    "Rack_Pulls_0.jpg": "16a90dfb3aae12691b026f7abce7973837edc2e70bb7893ac54afe3f18b18047",
+    "Rack_Pulls_1.jpg": "535f30d676afa8ed1c012a34faf9040688eadceebd737ada2791040b75fac998",
+    "Romanian_Deadlift_from_Deficit_0.jpg": "8f3cda70b16d9826577cf81d5cd98f05955b47404b3f16347af0679748a40c58",
+    "Romanian_Deadlift_from_Deficit_1.jpg": "7525e390b7b0ade4b5726e0cfe733e1b33d484615aed6a67fcd27c1c60d0c6ec",
+    "Scapular_Pull-Up_0.jpg": "57b5a5baa9aae697d4d5b5ead762cff8a15ef212c81e69e07570a7cf9c547fd3",
+    "Scapular_Pull-Up_1.jpg": "b4f59400669068e540c1faef61e0692d343a68615cdee6ca23b91c6f5e618c11",
+    "Shoulder_Press_-_With_Bands_0.jpg": "d1e115065569dd72ee871bf34658419477738d1e428e9083b0c031f5df16e1fa",
+    "Shoulder_Press_-_With_Bands_1.jpg": "e6102da6f86d30e477b2999294e09a924a5d16f1c9e71383b4ef5753d1c601e2",
+    "Snatch_Deadlift_0.jpg": "c9a860b37a7c1eb025c2cae609e0e60d8e3a12c43f03c0f37ff7f2b1e385d635",
+    "Snatch_Deadlift_1.jpg": "d1548f565ab28b9e3b67af0e0a2f35d879293e72dd571580af72c5b1c8965b48",
+    "Wide_Stance_Stiff_Legs_0.jpg": "d5f15ffce4fe48e45f2f8cd46625f282693606e14c9c0b9cfdd9a188f2b5cfa2",
+    "Wide_Stance_Stiff_Legs_1.jpg": "5095c1a8024b21e9a9a57363c946c023c43c0158cc9669431068bcfa0779df4f"
    }
   }
  ]
