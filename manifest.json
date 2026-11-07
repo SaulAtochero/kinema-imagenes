@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "lotes": [
   {
    "id": "01",
@@ -889,6 +889,46 @@
     "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension_1.jpg": "89043c1f088d4a7bd0db6b28df17910fd8f69b6cb119302ad517cb89b2a8bf36",
     "Vertical_Swing_0.jpg": "ce03033d46b0c52a31a325775df8a2795ceabcd2cce352f2a71d6d565f06eb22",
     "Vertical_Swing_1.jpg": "013f42ce5267a3dd1484b046186aec3ff76371975dd8711c12a0f87e1913e669"
+   }
+  },
+  {
+   "id": "21",
+   "ruta": "lotes/lote_21.zip",
+   "sha256": "ced5d34fb0e5b6a8498d251dcefa955bfa5e8fe646eab034d282fc7409267097",
+   "bytes": 2315964,
+   "archivos": {
+    "Band_Pull_Apart_0.jpg": "04bc96c72c4209cd49b9c84d5d0243775bdc4096b822b4368135358df71d3512",
+    "Band_Pull_Apart_1.jpg": "fdbe3b21bc9e2aa3f20864836e60cd206381fa8d9ccef736af705f0c753a4769",
+    "Cable_Deadlifts_0.jpg": "a85d49c81f7bb402f9ac65308b0154ea3fa6e87059f045207e1595037233afeb",
+    "Cable_Deadlifts_1.jpg": "edba096b54cdad093c5a95742c1f51c1d3b585862857b889a33c50123a215f21",
+    "Cable_Shoulder_Press_0.jpg": "638c7b165a8d6966955592c69d38e90a02a8449a8713ea195c406ff204eecf7d",
+    "Cable_Shoulder_Press_1.jpg": "f71fefc8247565bac16124773b6f1f4c7e0bf670f2f0148f329287e9624131cc",
+    "Front_Plate_Raise_0.jpg": "43b2d2f13ea54a7d4df6948dea76fdb6d81aade42ed44a99c357b109480034c9",
+    "Front_Plate_Raise_1.jpg": "b2b41ae82537c26f3336799019cc36a817ab81ebcb36cf3e44c962ca0617d140",
+    "Lateral_Raise_-_With_Bands_0.jpg": "48b07fd93094ce9994a6a0003138a0e209a34206ee27b5674e3ce545f4d35078",
+    "Lateral_Raise_-_With_Bands_1.jpg": "19ecf237e74af045e6d8632f2482b58c45ac3a44f2a2be170d5b50b20257d922",
+    "Narrow_Stance_Hack_Squats_0.jpg": "6ac47eeaf9f28b07d11481dcfc9dfc3099b623479ff2a9a103c4dbe30d3b82a7",
+    "Narrow_Stance_Hack_Squats_1.jpg": "cbb5a5d4f5e9e21d9eba0f7ac3e5c6c360e60b111c61cce93e64337c0347a933",
+    "Overhead_Cable_Curl_0.jpg": "08de7685e4aaa0f4c026dba685e4e3cf8eeaf36714e65f7ab609358810ea09e6",
+    "Overhead_Cable_Curl_1.jpg": "5c810f1c41be9647c8d22c383cb82bd1a9590c6234cf6ab4995ec2e6588c2fc9",
+    "Overhead_Squat_0.jpg": "7f3a06a7f509cc49ae51bcb7dd8f7d7e7953d9c47a1a3cd54872b42c3c07da3f",
+    "Overhead_Squat_1.jpg": "999763cff854ac817e15bca7ae9cf0d33378cfb9d5aa4a02f1b687152d265f34",
+    "Parallel_Bar_Dip_0.jpg": "c7f2a3003db0af0f16a0e71a6dbf93b7177f0f21eb01358736e7c467bbf0d081",
+    "Parallel_Bar_Dip_1.jpg": "897bd0d05d8c13d801841354eab93e7aaec30f0d6f8f11dc2cbf04ff469a7f73",
+    "Squats_-_With_Bands_0.jpg": "f9ae3fc862bdc33521533fbb8fc6a022b5d2e1ad9127e5ac1c23fff77a0f75aa",
+    "Squats_-_With_Bands_1.jpg": "51fafc80980f5114eeeabe6d583d50f714972538a63688f04caf54ce0a4cb980",
+    "Standing_Low-Pulley_One-Arm_Triceps_Extension_0.jpg": "c3bba0d7d8ec506852360038f4a4811487c4bfc172cc855698e887af77ce163d",
+    "Standing_Low-Pulley_One-Arm_Triceps_Extension_1.jpg": "a4bf9b08b2309eec939244f32051720b21e46c3bfea6cd868887683a86618075",
+    "Standing_One-Arm_Cable_Curl_0.jpg": "096764f7aae5c92fb8603f12f9116102fe31caca21d463bde115cf88991e91b9",
+    "Standing_One-Arm_Cable_Curl_1.jpg": "b3668458243b40617d8594ea8eaec4ddf3f20b97bcd9e227fb1c15e5f21cc96e",
+    "Standing_Rope_Crunch_0.jpg": "0c8472ceff69e4bbc1d324260eb3e006cc0e309069f4b48e22d358cedfcf9651",
+    "Standing_Rope_Crunch_1.jpg": "a32e87b399ab7ee2a71bec3da383219d4379112d27ef3a95250fb1698459f390",
+    "Upright_Cable_Row_0.jpg": "bfbe8053e9f7ddb7d9f4455efa9d9087d0a508dd857ba8accef479350ada5c52",
+    "Upright_Cable_Row_1.jpg": "41697b951d9041c6d304dce359474c91f9a9e400d57e9c7c4827a7a8cb8bc3bd",
+    "Upright_Row_-_With_Bands_0.jpg": "a8c923a96c79add03408734943f4d907752ebc646c7a18c5f8cc4ec9b44ede25",
+    "Upright_Row_-_With_Bands_1.jpg": "298163db2a17931b44b20e812132f3c1f22c2e8730f0aedcd981de8658c18d8c",
+    "Weighted_Crunches_0.jpg": "d56ad7a60ceb00fe9103b031372c14377f5d18eb1308da5396de74087d4ece14",
+    "Weighted_Crunches_1.jpg": "46c6341dbd7b514e75586003ff39ed4752be62468dbeeefa77aa838557a20f03"
    }
   }
  ]
