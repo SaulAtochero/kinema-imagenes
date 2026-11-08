@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "lotes": [
   {
    "id": "01",
@@ -977,6 +977,48 @@
     "Snatch_Deadlift_1.jpg": "d1548f565ab28b9e3b67af0e0a2f35d879293e72dd571580af72c5b1c8965b48",
     "Wide_Stance_Stiff_Legs_0.jpg": "d5f15ffce4fe48e45f2f8cd46625f282693606e14c9c0b9cfdd9a188f2b5cfa2",
     "Wide_Stance_Stiff_Legs_1.jpg": "5095c1a8024b21e9a9a57363c946c023c43c0158cc9669431068bcfa0779df4f"
+   }
+  },
+  {
+   "id": "23",
+   "ruta": "lotes/lote_23.zip",
+   "sha256": "cd44efac30cb38976087758e20f93b8aac8f2c821bc5a2228ed62fa8482b60fb",
+   "bytes": 2413665,
+   "archivos": {
+    "Advanced_Kettlebell_Windmill_0.jpg": "dc42797bafbc609d32845ad651c43bf5c8e9ef9d46710426d32409db66f8f8ea",
+    "Advanced_Kettlebell_Windmill_1.jpg": "37f1f521a5f61750daea49822289a2d16a0e3194680a20531b415860e2366386",
+    "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench_0.jpg": "b07ec71822f8e197a690158f56988a878a0d0d588d53115b18484f07f6fe8479",
+    "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench_1.jpg": "964be931ccc2598c92c0d53876a54972dbab599a85964fcbd19a4da0d77a627d",
+    "Bottoms_Up_0.jpg": "700e5e9031b5699353c0ff0eb701d258a84ca76ff0c1c561ee66254aa28751d7",
+    "Bottoms_Up_1.jpg": "6a3b687d6e70abf2f61047ec119e0d1d13d958146124dab94f4cddff69f1fc87",
+    "Clean_0.jpg": "cc9ec4c3d5724b20640a3c254facdbc850dcc89b4ef4f7755c1596f29df69ea0",
+    "Clean_1.jpg": "2a267a193f5fc0500e33db003d3962c7120648e532ea85610dd6860821b249f1",
+    "Flexor_Incline_Dumbbell_Curls_0.jpg": "7d1245928fcaa14371268cf92cebdfde0f2e8d2b985aa2fe79040e7d0a9fccab",
+    "Flexor_Incline_Dumbbell_Curls_1.jpg": "9bb3d291e6f033a26835b6987a66e7f5b7525894b04e07454fe1525987487f14",
+    "Hang_Clean_-_Below_the_Knees_0.jpg": "5ec8a88d03f8bd7934276bdcb35d5ab0d2d0f60f2a2433e4aa3f88c4ef408853",
+    "Hang_Clean_-_Below_the_Knees_1.jpg": "df70115c5acd0593ea2f93bf6b6d44be9b16d03c4584515b7201e8f53641caa2",
+    "Jerk_Dip_Squat_0.jpg": "d37cb8f46e75a8afc4baa0de778563855569c3a7ae70d520485e5ffd7d7716e3",
+    "Jerk_Dip_Squat_1.jpg": "c11b657b17cd0788153b500b6f2440040105363d3ffff07c1adce91f57e60519",
+    "Kettlebell_Seesaw_Press_0.jpg": "a21e359435184ff65543a65352afab2be2fafb39bba119564b908f3e6b9ea702",
+    "Kettlebell_Seesaw_Press_1.jpg": "40b9c8f54f0cda6e574d4f75b450f250917f4e5889d30f7f614789f4184d6b7f",
+    "Lying_Cambered_Barbell_Row_0.jpg": "1065742d8dc4d164a6940708ae0c61b6203b31c933da0a9ef096395a90e310a7",
+    "Lying_Cambered_Barbell_Row_1.jpg": "8bf4ae5f594a18842fc9e9e2107424434d8187e899493a6a4d06eaa1db0264f8",
+    "Medicine_Ball_Chest_Pass_0.jpg": "040fced242ce17195ba8ddcff2109f8d31dc39f3d3428c14f205742efef881df",
+    "Medicine_Ball_Chest_Pass_1.jpg": "782502c74a894a1ba999875bdaeee468c14a87e97452229c941742abde570520",
+    "Monster_Walk_0.jpg": "d526bef4adf9304c431a6f7a6ebc572d4d03f97a067249d6f8c3862bcd7e2113",
+    "Monster_Walk_1.jpg": "ecadea116d47de2afff5676f59700a67a98bcce8fd8b612b36f33e22b9f1a20d",
+    "Muscle_Snatch_0.jpg": "ee95693d6e0f820d4fe11b9be3429bb3c83d56ca09f6bbf620b2692221ad9f98",
+    "Muscle_Snatch_1.jpg": "c914a11bac4450aa9061509d116952d78bce6b10723da2cca4128710d25cc4f7",
+    "Olympic_Squat_0.jpg": "1f01809c7a138a60ab1e69e77421fa8eccc11eadf440316d9b07cfda37227e9f",
+    "Olympic_Squat_1.jpg": "8a739d2bca7e65cee303b798e8cfb0fcdd208c1c745ae9484cf3343291593bc4",
+    "One-Arm_Medicine_Ball_Slam_0.jpg": "46e0a4fb6e11d9efa3edfcf6931dc90155a07c2bc4a0fc7249a97a8aef4b0975",
+    "One-Arm_Medicine_Ball_Slam_1.jpg": "4c93b79a9d55c63f8cb0a966c14f8a8ce7c3bc6643117ec07e899e7bf6430e51",
+    "Push_Press_-_Behind_the_Neck_0.jpg": "2f86f065f94966f2dc990221dc3f338486db7651310166aa4c2762ea51e0dd34",
+    "Push_Press_-_Behind_the_Neck_1.jpg": "98e30d4bd55db56f334681c9d49ad542ee0ce93c60c780efbf2a91a58f911454",
+    "Spider_Crawl_0.jpg": "80b44c1fd1700c02906b711d362955c3f812af6152ff53b7a7021a89e1e3425e",
+    "Spider_Crawl_1.jpg": "7f7825712c7e13d6424006ed238e25de951caa43bcff3e572b7710932662eb63",
+    "Two-Arm_Kettlebell_Jerk_0.jpg": "f60196f8eb2936fd6ab3b5cf1c30c8ff5ede55cd4541c7faf44af834fc20d051",
+    "Two-Arm_Kettlebell_Jerk_1.jpg": "6f0c6dc9cf35dd4f181db7b8d13988e7df36178b3b8cf4ae1502616bb9d03e17"
    }
   }
  ]
