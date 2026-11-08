@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "lotes": [
   {
    "id": "01",
@@ -1019,6 +1019,50 @@
     "Spider_Crawl_1.jpg": "7f7825712c7e13d6424006ed238e25de951caa43bcff3e572b7710932662eb63",
     "Two-Arm_Kettlebell_Jerk_0.jpg": "f60196f8eb2936fd6ab3b5cf1c30c8ff5ede55cd4541c7faf44af834fc20d051",
     "Two-Arm_Kettlebell_Jerk_1.jpg": "6f0c6dc9cf35dd4f181db7b8d13988e7df36178b3b8cf4ae1502616bb9d03e17"
+   }
+  },
+  {
+   "id": "24",
+   "ruta": "lotes/lote_24.zip",
+   "sha256": "629213d9860391555acf0f535dfe89ea4ce6f470a0461e887c45c2d865c1062b",
+   "bytes": 2268577,
+   "archivos": {
+    "Band_Hip_Adductions_0.jpg": "cd47aa154ef2ed406b721869653a5fde11ff46ade75a8bb916664cc5a0bfec87",
+    "Band_Hip_Adductions_1.jpg": "c92e284dafae49e859a44049ae99208218401f74b60af29f76885ce2f20b53c9",
+    "Band_Skull_Crusher_0.jpg": "18a76b1d4c09227979d9f73d13dd8145095fceee390fdd674c9e6c14bd57d4ed",
+    "Band_Skull_Crusher_1.jpg": "413c3cb3533ff2304e3cb3fd64b008356e774f2e47a6c9731ead89794e82de32",
+    "Body_Tricep_Press_0.jpg": "cdb8c096d75f0cd78337e4fdf11099030c23a1c0cf0ee2634237f4fb133a984b",
+    "Body_Tricep_Press_1.jpg": "94007a0a6954c89950478711bf8db7d81dc29359f138f0c1306b728cb22db535",
+    "Close-Grip_EZ-Bar_Curl_with_Band_0.jpg": "6e6f154e8a0b53145b109dd23bc0d94af405438518f14b8d6567e6c3f0518de5",
+    "Close-Grip_EZ-Bar_Curl_with_Band_1.jpg": "319edaee4e692221938a1262952b4c5061f6931ca09c384391066568d4d32168",
+    "Cocoons_0.jpg": "317697644bf48a4fa63d6369dd60d1a4ee61973d3bc68d0f9c46aecbcb35b687",
+    "Cocoons_1.jpg": "b3972ce3d51d380690135385ab7649133611bc687664a71a96992884e291885b",
+    "Cross_Over_-_With_Bands_0.jpg": "9bfd3f3ea16d7312824577d02a142d964279654b465bc6d3880cf3d1ece86cf9",
+    "Cross_Over_-_With_Bands_1.jpg": "6c2defa55f56d7e17308daaab47d064346c4e92f2431687ed37184574fddaed7",
+    "Extended_Range_One-Arm_Kettlebell_Floor_Press_0.jpg": "d8fd2213b10826894ffdbd3dfc969b23dd29809f5e99abd243b10cdde0d6b6c7",
+    "Extended_Range_One-Arm_Kettlebell_Floor_Press_1.jpg": "b527770b8796da361c71756d1416708a79d4cdbd4ac74118f4f909029e97c050",
+    "Frankenstein_Squat_0.jpg": "0a92ea1965aed84ba9c7a8ffeb92924c785118626153e6b04ef767d85042c677",
+    "Frankenstein_Squat_1.jpg": "0d8d7785c05f0e8d4df2e2388f1c583f5f2d44920122903dcd900f131a6485f7",
+    "Gorilla_Chin_Crunch_0.jpg": "e69b24ec12fd72a7f6d9f24ed5b5bb45b8cb90581cb61dc8e8d7f37a3bf584f8",
+    "Gorilla_Chin_Crunch_1.jpg": "fc3eb24d75d33b6698629acde5ee95cf2a34333775568518d16805c16a9aba32",
+    "Kettlebell_Pirate_Ships_0.jpg": "6226ed9590d2cc2ea076a8b13c305dd2f8c5345eabe0660688b50d7582f827e9",
+    "Kettlebell_Pirate_Ships_1.jpg": "ad6c92ee63a71b700c00aab033d6ca99be4eeea1603b46ebdf0c621f5f76cf73",
+    "Landmine_Linear_Jammer_0.jpg": "c496251b27df573c248935efa9a8b04c1c682eaa61b53a19acb3cf80a79bf3bb",
+    "Landmine_Linear_Jammer_1.jpg": "bb8a4f7bd3a5a06e73207e810accba1ea759988532f04d2099dc2cd40bd43c31",
+    "One-Arm_Kettlebell_Jerk_0.jpg": "97650afb8ae7d3fdd97b7dc30e559309a4106b43328c578c0a46c26df40b1527",
+    "One-Arm_Kettlebell_Jerk_1.jpg": "1c8abe1cf61680ff696af7ab608c369cb0fdb2576c76333072d6812c7106c7af",
+    "Seated_Good_Mornings_0.jpg": "11da406004fdf02276e22ec20cb1313793289d4a254f9392553cbe9de0a86309",
+    "Seated_Good_Mornings_1.jpg": "1b11d5c6eaa6dc0c6665a61bd289194f5866a14bafee8239e3e19cd2ea4fc03a",
+    "Snatch_Balance_0.jpg": "edf02d6012850e356b37182d2904782f0e8d49c581447611ec5cadccead22ea1",
+    "Snatch_Balance_1.jpg": "d8a4ca094a296008bbb20f4f9d524abdf3a897725aa5d939a9c60b1a87013bc1",
+    "Speed_Band_Overhead_Triceps_0.jpg": "6d213fd073852603401ccbecd7b26342c27d0e4bdcac9c392eca0d0cab01758e",
+    "Speed_Band_Overhead_Triceps_1.jpg": "775b7efa3169cb1dcc87ed4a69c6f9adaebd2685d8419ecb7e5dc0ceefaceba7",
+    "Split_Jerk_0.jpg": "cad70dc2f03a0b61460afef3868bf477ccc690996760ed3bab492c1a68612d31",
+    "Split_Jerk_1.jpg": "ef8c1a3ecaf38dbca23da34ad414a69aecd86cf0472a111962d00b09167998cf",
+    "Standing_Two-Arm_Overhead_Throw_0.jpg": "ba572dabf71d2f2e28e7b092b9ca8f87ad0a945b1a8d221ba3de24240ffed75d",
+    "Standing_Two-Arm_Overhead_Throw_1.jpg": "394cdd488d08179dd4fd25343c7523de6617fea4fb06278173f4a71e249b8688",
+    "Supine_Chest_Throw_0.jpg": "85c9a022768a4cbe8ff3bd84540ce5ee5b27e9368aa22c37bfc079517ad6d2e4",
+    "Supine_Chest_Throw_1.jpg": "55f957a5c1ed94b34b492f32ade80b290801ab5ef0059a588007591db3c60bb0"
    }
   }
  ]
