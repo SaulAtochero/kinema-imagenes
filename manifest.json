@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "lotes": [
   {
    "id": "01",
@@ -1063,6 +1063,30 @@
     "Standing_Two-Arm_Overhead_Throw_1.jpg": "394cdd488d08179dd4fd25343c7523de6617fea4fb06278173f4a71e249b8688",
     "Supine_Chest_Throw_0.jpg": "85c9a022768a4cbe8ff3bd84540ce5ee5b27e9368aa22c37bfc079517ad6d2e4",
     "Supine_Chest_Throw_1.jpg": "55f957a5c1ed94b34b492f32ade80b290801ab5ef0059a588007591db3c60bb0"
+   }
+  },
+  {
+   "id": "25",
+   "ruta": "lotes/lote_25.zip",
+   "sha256": "40f5ce565d02ff4b5652bef468e82b04d106a741035ca7c8e25bd2dcc4a4eb53",
+   "bytes": 1110826,
+   "archivos": {
+    "Band_Good_Morning_Pull_Through_0.jpg": "93cad60851352b8ab7680b8e8452e1762c4843d8511632517dba228e11754a4a",
+    "Band_Good_Morning_Pull_Through_1.jpg": "89992e18955e0d5995878854a09361bbf271613a67d71274c0f0fc633c0b030f",
+    "Bench_Press_-_With_Bands_0.jpg": "991774a06c4fc651e7ff27349d362a0c1b3eb23e7f1154aa35310abbb3420ebf",
+    "Bench_Press_-_With_Bands_1.jpg": "cf3ec05406150dc6c4145ab6f73157f5d7f07893d78e956ff037e555bff743c5",
+    "Crunch_-_Legs_On_Exercise_Ball_0.jpg": "3fff03c27e9e130aadcb14d5bd4462545bf2f1561d8af70c5660e09cf34f3c51",
+    "Crunch_-_Legs_On_Exercise_Ball_1.jpg": "1f0abcc46bf3f05e8edf9f2d4256a1702e62e6c1dbf87fc976a072ff46789126",
+    "Hip_Extension_with_Bands_0.jpg": "c077da43cbb5dd8cc8255f10f786f5edb801c8d166a20e8901a5068fc2360907",
+    "Hip_Extension_with_Bands_1.jpg": "1aaae409023797dd186845877a2418c4206d4b4d2cbd99139c56a3f5ee96e109",
+    "Hip_Flexion_with_Band_0.jpg": "47b79023e802a5ff19fa9d299fb51d88526b5818aea3cdd6a2870ece02a9053a",
+    "Hip_Flexion_with_Band_1.jpg": "3485cf77c844397f272e290c1bc22bdc8a8ec767c60f283950b36e44c2922e28",
+    "Kettlebell_Halo_0.jpg": "734d2c9d49216391d6e25fd31d5c2232610cf7d31dcece76312048b813c76ae5",
+    "Kettlebell_Halo_1.jpg": "8086ee5222ab6e5bb078a3aa1f42061fe6882ff10156bf8e7354ee70c3b56902",
+    "Power_Jerk_0.jpg": "dddf1b77e1b93145ef6aa4fcdf3572244ea8abc66543bf0c1c26064cfa5c95ea",
+    "Power_Jerk_1.jpg": "bd0f89bfe0ef93c246ffabb2636aa864cc0830ec0ae77dc81622e27142d4fec7",
+    "Split_Clean_0.jpg": "3294e41bcd206c401931ea8e65f2d398d237d29286219ae065c110ee264ea0e3",
+    "Split_Clean_1.jpg": "9d012e0908634d12c8d3bb234bd3a2fd8eab79971e3874ed206d0d0d15e12354"
    }
   }
  ]
