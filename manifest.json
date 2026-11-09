@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "lotes": [
   {
    "id": "01",
@@ -1087,6 +1087,52 @@
     "Power_Jerk_1.jpg": "bd0f89bfe0ef93c246ffabb2636aa864cc0830ec0ae77dc81622e27142d4fec7",
     "Split_Clean_0.jpg": "3294e41bcd206c401931ea8e65f2d398d237d29286219ae065c110ee264ea0e3",
     "Split_Clean_1.jpg": "9d012e0908634d12c8d3bb234bd3a2fd8eab79971e3874ed206d0d0d15e12354"
+   }
+  },
+  {
+   "id": "26",
+   "ruta": "lotes/lote_26.zip",
+   "sha256": "9040ef0e6ddd9b4074747ecaf1f118a39baf55aeb2d9a4a254b703db20445666",
+   "bytes": 2717625,
+   "archivos": {
+    "Backward_Medicine_Ball_Throw_0.jpg": "f7043b468467d87ae8e88e53d139f0101f42c6c901fdd6d4a5cbe3e45a7b3479",
+    "Backward_Medicine_Ball_Throw_1.jpg": "b72fcf6d591ed298acd1ed38af8a69d9477b2027ab16ba36344a08ffd4231680",
+    "Body-Up_0.jpg": "0b8036c9318a3c462dc2142fcb41be2b95e8c3c29fe04a71a16daf0eb778dd8a",
+    "Body-Up_1.jpg": "996b0fe322f53382bc9f0bdb77226d1a43ac506af10b84688d780d9856dac44c",
+    "Double_Kettlebell_Windmill_0.jpg": "0a7f09258fdb307bf19e80765530a347adb78d405e7a2143e59b27666b47843c",
+    "Double_Kettlebell_Windmill_1.jpg": "8e6709a8885d073a0b6525f1d7e0519ae51111b155b53172ef0beca0c27c590f",
+    "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise_0.jpg": "bc1c5aa1437eb36433ea5ce5a9579d680d19dd17a486795eedb28539cfaca1ed",
+    "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise_1.jpg": "62eeb7e5fa93ee12c2e2e16c292cc60d089729f7f22155675bbe7e1064169466",
+    "Dumbbell_Tricep_Extension_-Pronated_Grip_0.jpg": "78b869dd085a6d58f14cc4808c3f5c4402b168770e419268c1021e6d9af9b6a3",
+    "Dumbbell_Tricep_Extension_-Pronated_Grip_1.jpg": "ea47c0ef7b329dbf1acb6ad616beba519584f46864b62577a5dc5cbbe466b746",
+    "External_Rotation_0.jpg": "f74bf387770ebfed7d9e4d802987dda30bb359d26a4315f5694aa717a1012647",
+    "External_Rotation_1.jpg": "1d6b178b421c96742cbc7cc919c6910b67b530b60afbf6a7a44d3d6e31b11893",
+    "Hyperextensions_With_No_Hyperextension_Bench_0.jpg": "6eb08576dd35de32d5c0c59b00619c67dbc4611db8815555e37a1dfc9144b2d5",
+    "Hyperextensions_With_No_Hyperextension_Bench_1.jpg": "5a8abdcd26c9abfcf163a71826a4fec77b0c34bb35946b51f4f6bef0302f2724",
+    "Incline_Dumbbell_Flyes_-_With_A_Twist_0.jpg": "366a2c099b5a80ba5679919ea473d918d8d34e783c1b61792546fcd9b9e53912",
+    "Incline_Dumbbell_Flyes_-_With_A_Twist_1.jpg": "49ce4a2d2c1608e97642941869107ab293228f5fe7546452f93cc950c67f4a6d",
+    "Isometric_Wipers_0.jpg": "702de3294b364b5cb1f6cd47d22fb14d773b0f6b728c627c882051e2421394b9",
+    "Isometric_Wipers_1.jpg": "a002d60711ff3d6573787c9afb2c58b34b432384cf1633acd7cd9645e8c6f7fa",
+    "Jefferson_Squats_0.jpg": "ea132046d47ffedd2e7dca62a7c7fdf4c6dcb14c6629cf230b2476ff3deb3c48",
+    "Jefferson_Squats_1.jpg": "2489bd9c2cc53aa63d46f748f7e108a52b73c327a6a2bcd11023a9f7185c28c8",
+    "Kettlebell_Pass_Between_The_Legs_0.jpg": "329be1a3acf36a38f6ff66bdbdd1c9f74f6344f8a8ee53cd960bf5463530460c",
+    "Kettlebell_Pass_Between_The_Legs_1.jpg": "87fe6e96ce1ec2fd489b889e1d5d93914af2228e61556bcd1261d3f59f36a9f3",
+    "Medicine_Ball_Scoop_Throw_0.jpg": "d16f451055bb114c4559d37e1143c5847732e3bd44d7c17ef3adcadbfe069b8f",
+    "Medicine_Ball_Scoop_Throw_1.jpg": "b6006571caafd196908857279f0168f72816f871519c52b733c46f9356f849fb",
+    "Power_Snatch_0.jpg": "cb211e667f78b1c1fc8487849d30b5795cfd5baa695e9f11bb8564bef13c94e3",
+    "Power_Snatch_1.jpg": "5c61aa98802583c157b0e4cea24f2a1e4396e9e12b15a97e19f53c95154825fc",
+    "Reverse_Flyes_With_External_Rotation_0.jpg": "6cfcbc12938c8dda05300d6bcd0157b10f331f25ce801adf105e4dd39cd36e67",
+    "Reverse_Flyes_With_External_Rotation_1.jpg": "572bbe13333951f4023109a58b48ea709787e1e224246c59e3ee6aa54a325ddf",
+    "Seated_Close-Grip_Concentration_Barbell_Curl_0.jpg": "ac253da02d046bb120ba4a12e168184fe2ad2e76fd9e22a8610f7f05145547e6",
+    "Seated_Close-Grip_Concentration_Barbell_Curl_1.jpg": "11ebe989657f526a3d6f2c541fc5b1f910d9570ce73588b7fa7b6221a554de27",
+    "Side_Standing_Long_Jump_0.jpg": "c3a7473c549081b425fb0e697065d5575d9311f0d57aa3dd609fc69c30a73513",
+    "Side_Standing_Long_Jump_1.jpg": "f7c0920d14edc5a8f623bf93d72d6170d4a6d6c23fffd3be4a900ba98f7b810f",
+    "Snatch_Pull_0.jpg": "ad67bb54230102a261d9ac54234345d972d5aeaf034fd23db708cb3a2d066dc3",
+    "Snatch_Pull_1.jpg": "c2617318489894ae4da3318c7103fc1182967f54fc4f69b3767f484d0f22b1a7",
+    "Spell_Caster_0.jpg": "4f0bc8f508a342f04d51670ac391ed7ab48b3def7a24e93e1919d6b80a0095ba",
+    "Spell_Caster_1.jpg": "db61d15b180a809fd9b8bc52ad0bdc9f4406d54e0af58fa8feb75d50a7cee8b8",
+    "Supine_Two-Arm_Overhead_Throw_0.jpg": "16b70875ef6f2b7ef68dc4dd8528e747bc5c60480947de733c9c167a6da9ef74",
+    "Supine_Two-Arm_Overhead_Throw_1.jpg": "0fb1f74876e76c2db742a9878cf69bc8ca520305feb363e831c59fe9ec202f9e"
    }
   }
  ]
