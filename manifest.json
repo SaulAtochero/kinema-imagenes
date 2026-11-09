@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "lotes": [
   {
    "id": "01",
@@ -1133,6 +1133,50 @@
     "Spell_Caster_1.jpg": "db61d15b180a809fd9b8bc52ad0bdc9f4406d54e0af58fa8feb75d50a7cee8b8",
     "Supine_Two-Arm_Overhead_Throw_0.jpg": "16b70875ef6f2b7ef68dc4dd8528e747bc5c60480947de733c9c167a6da9ef74",
     "Supine_Two-Arm_Overhead_Throw_1.jpg": "0fb1f74876e76c2db742a9878cf69bc8ca520305feb363e831c59fe9ec202f9e"
+   }
+  },
+  {
+   "id": "27",
+   "ruta": "lotes/lote_27.zip",
+   "sha256": "4902f3a0b8fca46b1f86f86d5ca67b55d09c189e3b0dd3ae33be808b252cf389",
+   "bytes": 2430677,
+   "archivos": {
+    "Bottoms-Up_Clean_From_The_Hang_Position_0.jpg": "afe643d4aa171345e4d4617279cabe1c15af4384103bc183bdba328ea852c1d5",
+    "Bottoms-Up_Clean_From_The_Hang_Position_1.jpg": "50bcf19ef33d28bf01062d914dbbc816c32d867be11c3b2bacbcb76357baff0e",
+    "Car_Drivers_0.jpg": "8bbb3f8379b8bb5c5e4f2ca388689c8be69f27604b764c853c31a6430367d110",
+    "Car_Drivers_1.jpg": "332cdc52ece412356b6e87eb63ec82c7b2621bb6440dd2dabdcb1dd43b8378c0",
+    "Catch_and_Overhead_Throw_0.jpg": "82296c8a8f27439fad7882d0f319bc093f613fe50ebcf591bf176e5ec3162e28",
+    "Catch_and_Overhead_Throw_1.jpg": "fa53f542483b9437f943bfd802dba7ed9b035a7ccd5583a422198b390d5fa84d",
+    "Chest_Push_from_3_point_stance_0.jpg": "4bb1554cbc32da5181810a69795777e2f5fba7a6ccd142b297badb1f76a742c6",
+    "Chest_Push_from_3_point_stance_1.jpg": "a555e40bae11ba710cfc151bde1cb6ae3d6deac2e2b20ffa79273679d9aa097f",
+    "Clock_Push-Up_0.jpg": "b108ba3cbaa6cf3ced64918c1ad60cd9589a1393fe600fb0fcf5ed23f3cfec01",
+    "Clock_Push-Up_1.jpg": "57d4b39e907479042121d6b7ab2c848dd09ce842033e375e2242001c7ab3c140",
+    "Decline_EZ_Bar_Triceps_Extension_0.jpg": "2f74c04f20991abf5b252b4543e9b7164a444373080006f4dc84e94ba275117f",
+    "Decline_EZ_Bar_Triceps_Extension_1.jpg": "b52911d916b6240ce7f5b882c285679d851359dddcd49e157bda6943d854eb9a",
+    "Dumbbell_Seated_Box_Jump_0.jpg": "f92fa6ee4dc6b5dabffa5e65b0fd7f115919296c765d4be99ea25188cdbcd4f8",
+    "Dumbbell_Seated_Box_Jump_1.jpg": "bb36afcfa1fc170971397485ee955db6474c8e0e3603e31f1023c5da3996fb7c",
+    "Kettlebell_Turkish_Get-Up_Lunge_style_0.jpg": "e8cb08d8c2ee1855f87fdd0eba2ee39dea1f151aa647fa00b3f896246f39fe1b",
+    "Kettlebell_Turkish_Get-Up_Lunge_style_1.jpg": "28d8448b74298950ef706be6537432b410e71bc0f30c28a97a123136960d2a3f",
+    "Leg-Over_Floor_Press_0.jpg": "3d62b80f3597d1a4a1c84d204f882738db397ba8299e0e3fe097c9f27d683db5",
+    "Leg-Over_Floor_Press_1.jpg": "08ef7cc79e9d1b0f6eec9a1aa14a929a6fa91b552bfa90cba0c2d3438f9749eb",
+    "One-Arm_Kettlebell_Para_Press_0.jpg": "d2998570dded89354fc42c15c08adab266738fd0a079e7e884abe375d5faa18c",
+    "One-Arm_Kettlebell_Para_Press_1.jpg": "64c567db8144c19c4abe31692d5e91d00645fee2b65bba60ccf6fb5b30cd131d",
+    "One_Arm_Supinated_Dumbbell_Triceps_Extension_0.jpg": "63f76bac7c711682d0675a012fa2f4ebbc5fda0c0f298b6e9ba463db7ed92bb3",
+    "One_Arm_Supinated_Dumbbell_Triceps_Extension_1.jpg": "fb37e1e07ec075e4a180fdebb61e7b5e1deaef0441a24106b6a1d9e04809778d",
+    "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench_0.jpg": "3c26d85de2a39694a8d04623b91c7da553972e3db15e8e7d61c5fc9e8c381eda",
+    "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench_1.jpg": "18d7cc029ad5de46ff08130519070d052f1d85e2805317c53390398d4f589ec9",
+    "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench_0.jpg": "b1911abd81287a7de034515ecdf9a43cd12fadf0732d85fa046bb0ac26459fdd",
+    "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench_1.jpg": "766119ff440999aac96730cd379e17ad9b3b00255ba3aeaef4779cb6699ee929",
+    "Power_Clean_from_Blocks_0.jpg": "29c11ae9d618baed9790e3e012d0c77ec5aaeb82eb252b41bc828438ca7e5427",
+    "Power_Clean_from_Blocks_1.jpg": "bc25e6db2777047b3b85c5860f42ded88ad2914384b5afe2f378a19927bde140",
+    "Snatch_Shrug_0.jpg": "dfbfc26d4d7bbe45db2346793a5621e17b08dba30835b3ed0fd7797af2246066",
+    "Snatch_Shrug_1.jpg": "9763bbc6e9ebb9b9efa9fbb08283868f9253399f8726cb5e50215aa7d0714033",
+    "Squat_Jerk_0.jpg": "8b1aaf62342f20e92c25839da98f21e66de24812dc816d6a583e010bf24eb649",
+    "Squat_Jerk_1.jpg": "dd761279403f0ed9d063d5fe8088c1b41a0bbd96da9c099fca305a0573aebb5f",
+    "Straight_Raises_on_Incline_Bench_0.jpg": "b91ef20e3ef5cbb291fe0e79d73c5eac377d7356404769a1b18f1d389d90cac8",
+    "Straight_Raises_on_Incline_Bench_1.jpg": "6a456be37606fae563481b14c29ccc5bf9820c70220053a790e680647f7ed68e",
+    "Supine_One-Arm_Overhead_Throw_0.jpg": "f63296e3ba27615a098d5ade30045e50ed6a2f713c7611ac79b8e49ea358936e",
+    "Supine_One-Arm_Overhead_Throw_1.jpg": "cabb08b8fb659b28be23319a57a1ac06e5e24deed08bdb3aebc54361a74de38c"
    }
   }
  ]
