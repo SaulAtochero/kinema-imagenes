@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 13,
  "lotes": [
   {
    "id": "01",
@@ -1177,6 +1177,54 @@
     "Straight_Raises_on_Incline_Bench_1.jpg": "6a456be37606fae563481b14c29ccc5bf9820c70220053a790e680647f7ed68e",
     "Supine_One-Arm_Overhead_Throw_0.jpg": "f63296e3ba27615a098d5ade30045e50ed6a2f713c7611ac79b8e49ea358936e",
     "Supine_One-Arm_Overhead_Throw_1.jpg": "cabb08b8fb659b28be23319a57a1ac06e5e24deed08bdb3aebc54361a74de38c"
+   }
+  },
+  {
+   "id": "28",
+   "ruta": "lotes/lote_28.zip",
+   "sha256": "711229a4efd0a4053fe36c2aab43fd3da2003bfe5a50e81c983f304643fbac6c",
+   "bytes": 2599976,
+   "archivos": {
+    "Atlas_Stones_0.jpg": "d1b63fed87ec59e8930fb7482b5e5cf5e4c4a620109acb6be93207b22c090078",
+    "Atlas_Stones_1.jpg": "a88de241c6e40c3f65f5a670fcc906f652bfa95540521267fba829904594ba76",
+    "Bent_Press_0.jpg": "4c3b224eca500ce010754786b0534aa90c2f823d6e807e2031453b4264ffd8cc",
+    "Bent_Press_1.jpg": "491e3a26bc2b6d45b64c9e814763b790ebee2f790f94dda639be77c5e112660d",
+    "Clean_and_Jerk_0.jpg": "60725838ee84f093b27bd52e9ee7e91771098b34c5d9a5266ae87a450f2411e4",
+    "Clean_and_Jerk_1.jpg": "08f0f472b885d3c384267a17e123680b39a2fe00a70d9f54dc05a7ecc1eb7318",
+    "Double_Kettlebell_Alternating_Hang_Clean_0.jpg": "4f2e1a72327909ebb8c418c383d747d1f42c066f8481ae9f96a4ccd04db4a777",
+    "Double_Kettlebell_Alternating_Hang_Clean_1.jpg": "6465599eb99a8c7e2593f04fd6e27413144abddbb2c6976bc2e0fe5ced829a73",
+    "Hang_Snatch_-_Below_Knees_0.jpg": "8fda3752e2a6ba7052bcc40a12137710379445e4e004a07fb71ead76a59475a2",
+    "Hang_Snatch_-_Below_Knees_1.jpg": "daf9445b0d548a18e5e4c99cc1fd3ac30c595067766dfc02e2d287f810599683",
+    "Kettlebell_Turkish_Get-Up_Squat_style_0.jpg": "f2f305bbcb3e8466cc8dba2b723350f349eda617b322d845fa993d3466df835a",
+    "Kettlebell_Turkish_Get-Up_Squat_style_1.jpg": "811c8bad0ecdaf45889c6e7e21d0d51c796baccbefddb99fd719de49ce0a2227",
+    "Lateral_Box_Jump_0.jpg": "1a28819f1aff54e48683485710cc0f2dd67a5fe6a85426fed4acbdcbff5c8026",
+    "Lateral_Box_Jump_1.jpg": "20b8a13723a09946d1cb392fe284899b22fc4007f05b1325e253b13e06f3473a",
+    "Log_Lift_0.jpg": "62a2647696d2124d2523bfa6ab7e8912b93f482251bc9d5767371cfdf7237aaf",
+    "Log_Lift_1.jpg": "9c34b446f1fd73b726c170c78deb9b3b04ef651ef11db4f652978b47386d7c6f",
+    "Muscle_Up_0.jpg": "79f99395cccf999ef912d0d0aef53968b98726f2cdae6f31cf4d083008bdc735",
+    "Muscle_Up_1.jpg": "4febe8e9c694907d24657defa92251e2a79837f13947ddec0e69c49091b90410",
+    "One-Arm_Kettlebell_Clean_and_Jerk_0.jpg": "a9c71048e0b63907a54b7e4fc75da8f89a43cfefe759d0bd1d39ce0d37b935db",
+    "One-Arm_Kettlebell_Clean_and_Jerk_1.jpg": "8cf39debf1da2bbe132f7101e929b850652318bc8b3cc0d330b1d9ab3ad8a339",
+    "One-Arm_Kettlebell_Split_Snatch_0.jpg": "21b346885f08530bed3820c887cd2da264eda82d297d69290db78ff68dd4db9f",
+    "One-Arm_Kettlebell_Split_Snatch_1.jpg": "00f053219d388eb1073b63fc8eaeb764971546d253c160bdfe140d145bbe2259",
+    "Ring_Dips_0.jpg": "0d98f6c3fae4b58c00a4a661afa506458fcd7503134d42ca640ff87fb6cbbbb2",
+    "Ring_Dips_1.jpg": "262340835be16f9865a31a0be9f3e32bcb448c944596e8e71d2e73ddf09f7510",
+    "Rope_Climb_0.jpg": "52da087939de1e9f92d8d843cec4515469a14e2ef531dd341b0ddea12fd3bee0",
+    "Rope_Climb_1.jpg": "2cc68e9b2af089dd269f999a17a95a70aa951913ad253d0cfb939bd4960835d0",
+    "Sled_Push_0.jpg": "33f42778ef6119f8751f17b9df7e6d35dc2b2cd7a96e8f5e869e379562505dc3",
+    "Sled_Push_1.jpg": "12e1206417b5671fef8f104b6753dc1f75ccc02a357b938a3581d1e8e11b9704",
+    "Sledgehammer_Swings_0.jpg": "0318c7aaf341b5faf7e15e33c7309b4ace417c307cff84fced031bc669f40d82",
+    "Sledgehammer_Swings_1.jpg": "56e8d2695757bff2857b31fc325721883e29a5c70201a8916ae54ef3c7fd236e",
+    "Snatch_0.jpg": "c19177f9cc9363baabff72a35b59a37f69362174c213dfb678758865fcffda9d",
+    "Snatch_1.jpg": "91371672f69ac60a7f2b44732308de01c89269f68a72ebf56c64d3a4527def17",
+    "Split_Snatch_0.jpg": "a0c593539311dbfde0c3c0e35a9930e3236461853eaa0a5f9d75852a5dc34291",
+    "Split_Snatch_1.jpg": "1dd35e9f00e8494871f7f92a74d609c9e56f3f7b999fb00d657fdac65135c20d",
+    "Svend_Press_0.jpg": "3d34fb1e5bf4cbde1315817020928c77192bab3d4df94e29a6e72157da01be02",
+    "Svend_Press_1.jpg": "048505a0dc38fe1ecc149ae2107da1a2e4cb7d1c9b5c70ca5da8016773eeeffb",
+    "Tire_Flip_0.jpg": "decffecf5d3242b9a1817b9fd6d252b8a74797a0ea1ab806f42676978ffbf96f",
+    "Tire_Flip_1.jpg": "620c9f0999884cac59de28b872fa5dc23b57f5b16d3b30a4ff93b115f6d6592e",
+    "Weighted_Ball_Hyperextension_0.jpg": "618ba1fca53f6a8db2986e8f4238b30af548173dbcf6146d934d2e40f427bca8",
+    "Weighted_Ball_Hyperextension_1.jpg": "08eb90377f3725f9257264123685897270d89ec0bacad5647258dffea778241a"
    }
   }
  ]
