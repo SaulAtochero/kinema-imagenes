@@ -1,5 +1,5 @@
 {
- "version": 13,
+ "version": 14,
  "lotes": [
   {
    "id": "01",
@@ -1225,6 +1225,54 @@
     "Tire_Flip_1.jpg": "620c9f0999884cac59de28b872fa5dc23b57f5b16d3b30a4ff93b115f6d6592e",
     "Weighted_Ball_Hyperextension_0.jpg": "618ba1fca53f6a8db2986e8f4238b30af548173dbcf6146d934d2e40f427bca8",
     "Weighted_Ball_Hyperextension_1.jpg": "08eb90377f3725f9257264123685897270d89ec0bacad5647258dffea778241a"
+   }
+  },
+  {
+   "id": "29",
+   "ruta": "lotes/lote_29.zip",
+   "sha256": "3eee9f8ec4388cd379b516d842f86a2622a4abb7680873240eb3cc60c2ca3e8b",
+   "bytes": 3072374,
+   "archivos": {
+    "Bench_Press_with_Chains_0.jpg": "ef164f000541bcb7cba67cef09851bea85ac2d8d4250e5bd128f20405200587d",
+    "Bench_Press_with_Chains_1.jpg": "25eacc5063472f85c89628b5f55b97230092b4f27334d1c23c5ffc618bdf21d2",
+    "Board_Press_0.jpg": "7675795037cefdd80968665c1b0a65acabc9a7dc9ac5ba71cfe15e7c9743d7b0",
+    "Board_Press_1.jpg": "f7e74f4a1050959e8a358b3bb927e66dd3adea0cac00cf0ff25d8368ba00fcc6",
+    "Clean_from_Blocks_0.jpg": "1d5cebc2633aa0193907729e876378172f1fcc84204d7fc5f860ec5b2329d115",
+    "Clean_from_Blocks_1.jpg": "78c02379beb2a0b2493d43fc2e5e8830220c6415d509ff37f8cc6e8e2069b2d2",
+    "Deadlift_with_Bands_0.jpg": "f3db20cf71381f6ebcc083ca4add049e617728642e8ec96d05a0792651cdda73",
+    "Deadlift_with_Bands_1.jpg": "055628a5cf74f44358a98ad6642655be4e6b2d8959cac1dbbf88116ba4b26d90",
+    "Deadlift_with_Chains_0.jpg": "4039b39e56d8511e3e93e682d8d2390bc833a095e2d0ed23f7a94091e119951b",
+    "Deadlift_with_Chains_1.jpg": "2228939f9951157cb38aa9d3e1d54b4ce69634710c658ea1833a9f6a052a269c",
+    "Decline_Close-Grip_Bench_To_Skull_Crusher_0.jpg": "dad2100b25219fd13449df23e9b3e48a03b28f665b6a67c0ee56fbde865b326f",
+    "Decline_Close-Grip_Bench_To_Skull_Crusher_1.jpg": "3a7c2ef718862dff633482770570b26f95c3f9d706412630226a95ef7c28b910",
+    "Heaving_Snatch_Balance_0.jpg": "31fd691f986cb04a092efe5734d86df999847ef0274b75ebe50b7193434f8617",
+    "Heaving_Snatch_Balance_1.jpg": "6dc270da735a2a46eb0261bd838089588f8f0d82b07dddc476f6e219e040a13e",
+    "Jerk_Balance_0.jpg": "f72656c162fca85e2030c8d953068715fa52b47628996b355bb5dccfefc5d3ef",
+    "Jerk_Balance_1.jpg": "392dcbfcbbbef1276f39a4a1ccf27937dd3ecbab6fcde6ba2fc96fa6c8922087",
+    "Keg_Load_0.jpg": "e42c3aea1ee77051ce0221691a65c9d4a52f0459e720d6a3078582c0e55f3198",
+    "Keg_Load_1.jpg": "809a9e3ad11e3bba815794cc23bfbb1792f83050478797e445e4e1b94cef5ac2",
+    "Kneeling_Jump_Squat_0.jpg": "88bf1baf3d39c4d050aabacb92199ad3bacd4515fb61b397384d7e7c977c8652",
+    "Kneeling_Jump_Squat_1.jpg": "c293ded0bcc38372cff0bd6a9319dec121cb9442f8f7b58c3a9197c11c252b52",
+    "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin_0.jpg": "7d87622aed1c997d375fa3f0de1307d983e43340d2e0e817c68c36620f238cb4",
+    "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin_1.jpg": "513f0eb96591ab7923694c74d46d446f05dac8694cee844f3483f9a51c9e3e6c",
+    "One-Arm_Side_Deadlift_0.jpg": "bff5b431e40194c5333f3c00ef59ad1dcbc60dcf74675e07d0ca0d91d8886b99",
+    "One-Arm_Side_Deadlift_1.jpg": "0974076d41cae372e27b23fd73a7fba15150df539fd630af327f448664671f37",
+    "One_Arm_Floor_Press_0.jpg": "842735e7fe83bdc997d419a16582a64bbdf0eccf652a6e752923a0664f40ec49",
+    "One_Arm_Floor_Press_1.jpg": "819e67ae36fe32ecb491f1b2623218415bc5dbada9cbd41a0d07bd0b759c101d",
+    "Power_Snatch_from_Blocks_0.jpg": "0f838ce35a23205e812ec01d089c81df4a4a3f1d7bcd392a8fb17c5f32440e81",
+    "Power_Snatch_from_Blocks_1.jpg": "1e59c18417b8f27b6446680356f09aebc8520f5b7a7982496540a9160ed17d36",
+    "Press_Sit-Up_0.jpg": "04bb43fff0c23c5ddc3c90a6a1e1ef2c1a79f91ab833ec60a5c1f9bf16266b8f",
+    "Press_Sit-Up_1.jpg": "219316196116a34e9279d19adae671fe4f07ec35d0b46925645364c873a95ef1",
+    "Snatch_from_Blocks_0.jpg": "eccb94bfb10da4b8865ccc5113c6a4d05c458972f3f50ff05edc4aa36aa2af3b",
+    "Snatch_from_Blocks_1.jpg": "b64ebd38ad8b358cdafd9775a8378deeadecc2470bd8a1e2cbb02c271ea3ec42",
+    "Squat_with_Chains_0.jpg": "4c1a128b21823989791db0b77f4822cef32a14d7f9e4a901dd8d27e9a709d3a3",
+    "Squat_with_Chains_1.jpg": "d9cfeaa5fe57bc47ff2eb1793376d24ecd376b128453fb1a768bd0be7c848929",
+    "Sumo_Deadlift_with_Chains_0.jpg": "37debcb23c4621d3988bef7e1e971341a4c3f3d19242ab977455c626c5e0965a",
+    "Sumo_Deadlift_with_Chains_1.jpg": "2532b32616fe9a72ad70fde349e59f1fb5c219ee0931a16fd3a0f6ea08dea3f7",
+    "Weighted_Sissy_Squat_0.jpg": "04ed86e1110e8df5d643947f7bb9d94cd911c99e80099d482429e35ac7d6b6aa",
+    "Weighted_Sissy_Squat_1.jpg": "da3817e8362b0f120cb1b4a78c9eac726f6d18cf3cfcd4902f1a1043a02ec86b",
+    "Wrist_Roller_0.jpg": "75dca314166796a790d7fcd2e5ce24b94592cc707fda43e2d52df8c54ca0ba7b",
+    "Wrist_Roller_1.jpg": "1add8751be76fdc533e43b629f50e972fe86c2b087514b091c358733c1bf227e"
    }
   }
  ]
