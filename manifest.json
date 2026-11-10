@@ -1,5 +1,5 @@
 {
- "version": 16,
+ "version": 17,
  "lotes": [
   {
    "id": "01",
@@ -1369,6 +1369,52 @@
     "Suspended_Reverse_Crunch_1.jpg": "7820aff22a7abb12760785449fea1cd02f5b2e559f2607d57a510e2e5c3cd9be",
     "Weighted_Squat_0.jpg": "a2d9615167fd831ac80cb191c6d50bb1a111e7de4050faa4b0fc3a2c8d103653",
     "Weighted_Squat_1.jpg": "93eedca8caf5db30fea9614720be6c31c29c1316945baa6a2883f3c9539b0346"
+   }
+  },
+  {
+   "id": "32",
+   "ruta": "lotes/lote_32.zip",
+   "sha256": "da236ff50c8fef6e3c1ec95be84564a301c73b77891721df42bb9d44601e4366",
+   "bytes": 2406539,
+   "archivos": {
+    "Calf_Stretch_Hands_Against_Wall_0.jpg": "19fab095cd27590291448e5944d82f4758fb809017e108d1b75a1e151fc84ff7",
+    "Calf_Stretch_Hands_Against_Wall_1.jpg": "f45392f1d996193c80b46d0f1468a297e8f434cdb3a4c99be14da6fcaf856ee5",
+    "Cat_Stretch_0.jpg": "22a266d7240e6b4d9814b22ff216192f062ed2459adece7c149b1db409a65eda",
+    "Cat_Stretch_1.jpg": "df76ff74e7e021a83f4fd3b1807fb312d97307ab58b5c981280a47223eef9d21",
+    "Childs_Pose_0.jpg": "998d917d9e8722293b3f41a6c43de840361c55f148648dfa2f8e9c61b0f93fa4",
+    "Childs_Pose_1.jpg": "e5c28f26434db92ca47e4ee4874a03c497b1a3694e5f9bb9a3f02ba9d04e4a7a",
+    "Crossover_Reverse_Lunge_0.jpg": "10340b2117be951ef3dc120852dd5a7dbb5608f9ee785a7daf5eb169722ac0d9",
+    "Crossover_Reverse_Lunge_1.jpg": "37f7896f45d0335246568d51dbcd43a582c1d4d239a13588c9a7553be17bd3be",
+    "Front_Leg_Raises_0.jpg": "aaf4bbe518cf75c86868bbabfe035dba27e37b46409a201c32947bad0b4afa2d",
+    "Front_Leg_Raises_1.jpg": "64a5a515e5bd342a3039bdeb4224a6ccd9ed64e1f3ac3243fbc7d28557e34812",
+    "Groiners_0.jpg": "855723599433d57d0830d89292b003f3e1027571bc5c9e4e3a5588cf25b98b20",
+    "Groiners_1.jpg": "dc31ff7d82ac9e7cba49b02c0553a640868e6db9b08d531e56013f98aeaae40e",
+    "Hug_Knees_To_Chest_0.jpg": "528244a620bac01728517f9a0803a16558a11a8d896dfae6c6c05d1214b117aa",
+    "Hug_Knees_To_Chest_1.jpg": "ca3775a94acc196c7cc1ff321f3146f479fea4c80f6af0d8d6bf196bad02f2e0",
+    "Inchworm_0.jpg": "f361e73e668f9b7007455585f653d8483e23fbde4dc7617a78a2cf557ebc8661",
+    "Inchworm_1.jpg": "d8195798d2b3b9528c71cb4b6ca7fc80941842cb76711d4e7d0143e4a08c7532",
+    "Kneeling_Hip_Flexor_0.jpg": "004a129da189d9a7da01c31d24388260123816fcf92049656819401b8a60d17a",
+    "Kneeling_Hip_Flexor_1.jpg": "3dafb027615938f447e3e604dc2a497c10fbbd12428e4baea9f10b03b738a43c",
+    "One_Knee_To_Chest_0.jpg": "6a4996ae7f60d70171dd72bd06785b2d3aa0e66fb58f5712e67863244d16b589",
+    "One_Knee_To_Chest_1.jpg": "1738d9d0207117a6d4146d7018cbe50833853002dceb53eb851912a92cc36504",
+    "Pelvic_Tilt_Into_Bridge_0.jpg": "924c767f6e817838b4463947c1179755b7ddd950cb03d4aaab7fe48dfa073760",
+    "Pelvic_Tilt_Into_Bridge_1.jpg": "8377eb1cd3dcd4110e4e2d54001f721677675873093fc6bac0bef321400506a5",
+    "Rear_Leg_Raises_0.jpg": "85bbe23408c8989dd2e9652691c33912267b102bdb81d3852b21e174aff9514b",
+    "Rear_Leg_Raises_1.jpg": "c3d4752fb78a96bf3ab78c6000145ad1fb8d90cc1366a9e5eb906f30b5763573",
+    "Runners_Stretch_0.jpg": "8e691d40dff879f5231c15076ecdf6bc2b830e4bf1f6dce1ae5f3ddf0ac8cb60",
+    "Runners_Stretch_1.jpg": "661d2a586ed6ef01d775e02894b0ab85e2189c05b4b07f0535f09b742ba0da1d",
+    "Seated_Floor_Hamstring_Stretch_0.jpg": "6549bbd9dc266b328e6155439e1ccd94a94bb9d4995a01608036eca3c2825984",
+    "Seated_Floor_Hamstring_Stretch_1.jpg": "c63855ce2b9702fb21ce25df0dfce2db3877048692d97561a7366519c1e980d8",
+    "Standing_Hip_Flexors_0.jpg": "0b1d9ff1b4b6eb54b7d0cf5879aa2287e6d78d3875ddb29f480cd6865975aec4",
+    "Standing_Hip_Flexors_1.jpg": "21c76909e3a40839c207ba765225aaaad9c549f265c96ae6cf53289f147146a8",
+    "Standing_Lateral_Stretch_0.jpg": "951fbaf70c2814101647bfbb0af77afa56a0f817e85247813266664832035237",
+    "Standing_Lateral_Stretch_1.jpg": "17c096e5bf320de968561973129824ac0f23754c0c8ccc2e81a528723a9f441c",
+    "Standing_Toe_Touches_0.jpg": "be5f4d04e69842d6e4538fdf12175a7c67b9b4d330a233b02693f3addef3d1f1",
+    "Standing_Toe_Touches_1.jpg": "a37b1a2dd6ad204b6e2dd9dada299cd9cc6f1a4f7e830cb59db65721a7cfac94",
+    "The_Straddle_0.jpg": "259557db534f127b99888fb174852d74a7d9f5b5c0686d82fe2a62427d4d0273",
+    "The_Straddle_1.jpg": "83e8eb747ebbe44952c183de27c64c57eb43f6b45c22ffb95faf91be66825071",
+    "Worlds_Greatest_Stretch_0.jpg": "d55f73e35be3334c2ffd9638a3ffc8b4412e67c5b5359bf7bc6950de23356877",
+    "Worlds_Greatest_Stretch_1.jpg": "2c7e69edc68bce0f23a5ba26a73e107628bb3150349c2a85e7ae4b3437cd6f97"
    }
   }
  ]
