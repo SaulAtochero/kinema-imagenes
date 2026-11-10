@@ -1,5 +1,5 @@
 {
- "version": 14,
+ "version": 15,
  "lotes": [
   {
    "id": "01",
@@ -1273,6 +1273,54 @@
     "Weighted_Sissy_Squat_1.jpg": "da3817e8362b0f120cb1b4a78c9eac726f6d18cf3cfcd4902f1a1043a02ec86b",
     "Wrist_Roller_0.jpg": "75dca314166796a790d7fcd2e5ce24b94592cc707fda43e2d52df8c54ca0ba7b",
     "Wrist_Roller_1.jpg": "1add8751be76fdc533e43b629f50e972fe86c2b087514b091c358733c1bf227e"
+   }
+  },
+  {
+   "id": "30",
+   "ruta": "lotes/lote_30.zip",
+   "sha256": "f577dc73a9bfdacc835ad333162ec9dd030cd75d95db7ca12899de4cffeaf269",
+   "bytes": 2713297,
+   "archivos": {
+    "Anti-Gravity_Press_0.jpg": "806761f791e59ee6164e61f988e10e44fdbf3525afe5fe2f2255e0ab210d6db7",
+    "Anti-Gravity_Press_1.jpg": "9459dc894c87c08de98ca7d2a65b4462a0105d413f421c15c9f6c5ada9b4d144",
+    "Barbell_Guillotine_Bench_Press_0.jpg": "f060bb6e29f4560839f7fdb7c5a970bea8704718877598380a4304646e8fc5da",
+    "Barbell_Guillotine_Bench_Press_1.jpg": "8e3dab22c642f0406b108d4ca87cac8568d8a1683069fa923bce0b6c5501e5d8",
+    "Box_Squat_with_Chains_0.jpg": "20c23d57ae1d3c76c3ee1e5599aa773a929c05b166881c39c8db4cf2d9467a28",
+    "Box_Squat_with_Chains_1.jpg": "f056bca6a2ecf1214943a19e2c3a70ecfb6906e884dab6e41dea315d79f8d368",
+    "Circus_Bell_0.jpg": "e94396376f25daef4987b04faa8712f30ecb59b8c5f7dd7dab8ccbc7de159d18",
+    "Circus_Bell_1.jpg": "4ea3e05abd937df0172848ae1fea1bf61f3ae5de6cbba9425574f48af7ce9bca",
+    "Floor_Press_with_Chains_0.jpg": "846a852e44ec7676018529a3be66b5c53dd5c0580a7aa38372ebc5981477109a",
+    "Floor_Press_with_Chains_1.jpg": "7321b4e1166910c082839c9b00d30151bdab0dd2c71482bb72fe991840ea6c49",
+    "Hurdle_Hops_0.jpg": "38d2fcd0ba7a3dca38138c2fd95efcba93f85a26182064ab7b1cd4f5ce98fda7",
+    "Hurdle_Hops_1.jpg": "06f267d731cce9b688b434a14df9f40409edf839cfbbf5dac904590e379af6ce",
+    "Kettlebell_Halo_With_Overhead_Extension_0.jpg": "3bd23ed9a3237005d2ec81abb97d7b6925eed7ea3f32296bc34ee03b9ac5c6ec",
+    "Kettlebell_Halo_With_Overhead_Extension_1.jpg": "a6caf0995a504be616faabaceeb5e06ba8910fd66bc561b2624066c7103df4b6",
+    "Knee_Hip_Raise_On_Parallel_Bars_0.jpg": "8ee6d0034790016e8a6b5f1e9034b858b94d3dae3406ccb60e1e4ae98669a643",
+    "Knee_Hip_Raise_On_Parallel_Bars_1.jpg": "b9bc4b055619fa712961bf5c2bed08b5f7e83da0f3a889393f8a7bccb4faad77",
+    "One-Arm_Kettlebell_Split_Jerk_0.jpg": "2d454b2e05b33d576d1ee9ec92cc4e341a37ae7d8be80d1b56f1fe85b761ac7f",
+    "One-Arm_Kettlebell_Split_Jerk_1.jpg": "25efcc46cf27f50bbc6ef9f2e0edc2e7b3d474eb1e9de4314e82117b45dd8fc4",
+    "One_Arm_Chin-Up_0.jpg": "c889c179f277cf7268172169ee5ba7f346bac26a771ab95f6f71f35006ad73ec",
+    "One_Arm_Chin-Up_1.jpg": "d54d9a88f747010886803a767a9f8a6682d9d2fb45a8023738c897957db09039",
+    "Open_Palm_Kettlebell_Clean_0.jpg": "8ec6c96ed507cbd2b581a1978ab01e9fdfdbd3477d96d131e6fe7a5eaa5617e6",
+    "Open_Palm_Kettlebell_Clean_1.jpg": "d30dea9db8d18e64a5061fa0f9eb752c720a8de58102a3b3265e760052cd939b",
+    "Sandbag_Load_0.jpg": "2edfaab60a71b4dc71f1fd6db4c60838d7b65c6047eda23adf73e5995b0cf002",
+    "Sandbag_Load_1.jpg": "1dbe2c5f4a26833b8c47bf202f5e3b7aee7819980b7a2329731dbd99676bb52c",
+    "Seated_Palms-Down_Barbell_Wrist_Curl_0.jpg": "e29214debc6b692027fbfe1fe731247fec3083c1f4346aed29001c00756dde65",
+    "Seated_Palms-Down_Barbell_Wrist_Curl_1.jpg": "d956351ec3f4ab215869f44fa4c17c1796d4896fefd7da500cf60c8ebcb9cb23",
+    "Squat_with_Bands_0.jpg": "81edd83c23a2782544a6c286055aaf77d3808ea824ab7a68d4de85d2d296d61f",
+    "Squat_with_Bands_1.jpg": "6098a7a9bbd82c49634effdbb673ed33ede7d5a96f09aa5d09e8acc4ac116c8b",
+    "Sumo_Deadlift_with_Bands_0.jpg": "7dfaf239eeb757edbc6c98fadc2c6d93cc06a69c631394a1d7f166593fa879c3",
+    "Sumo_Deadlift_with_Bands_1.jpg": "70d340509f3c98b69fe27b1eef6a4163a3c07fe5cc0729583498cee6cb9b2659",
+    "Suspended_Fallout_0.jpg": "792bdcd8133ee9dd9d4a2573e7ccde8a8ef05a8c33c93f7c3a93121fd721ad33",
+    "Suspended_Fallout_1.jpg": "23ae4cb68b0ed0ebf72d62e29bcf6b291a5d76ca7186223589ca05227502840e",
+    "Suspended_Push-Up_0.jpg": "f521943c9285268d3365e04b26a0852df83c6570d07f0a4a1fedc155f30d81db",
+    "Suspended_Push-Up_1.jpg": "c744409d725947b7de81d7f37f0b9e2c46c570811bdbbd8a3459c501a3938db1",
+    "Suspended_Row_0.jpg": "ce5418abb69c6bc19d625f26f965ed5ce723a16bfb62db778e9cc03783e24a10",
+    "Suspended_Row_1.jpg": "e326560e0fe64c50948f55865c084e6c602f072f6a761580d567bb0ffa26a74e",
+    "Suspended_Split_Squat_0.jpg": "0428b31887387741961c318dc3c0ad2cb0126601e4b0ba6ca4ae9b0fbb16d82a",
+    "Suspended_Split_Squat_1.jpg": "c19b4032c81706d2d5b7ee9f28f2d3ef3267fbd17333f22b181382918e6061c3",
+    "Weighted_Bench_Dip_0.jpg": "9aa64bb513fde08055fa008d92610c499669a45508f364d6bf8cb0818f3bdc54",
+    "Weighted_Bench_Dip_1.jpg": "8da389955850dd21b24a78ef38d42d9a86ac0e0a5c4a9661a780d7a8d17a35c3"
    }
   }
  ]
