@@ -1,5 +1,5 @@
 {
- "version": 15,
+ "version": 16,
  "lotes": [
   {
    "id": "01",
@@ -1321,6 +1321,54 @@
     "Suspended_Split_Squat_1.jpg": "c19b4032c81706d2d5b7ee9f28f2d3ef3267fbd17333f22b181382918e6061c3",
     "Weighted_Bench_Dip_0.jpg": "9aa64bb513fde08055fa008d92610c499669a45508f364d6bf8cb0818f3bdc54",
     "Weighted_Bench_Dip_1.jpg": "8da389955850dd21b24a78ef38d42d9a86ac0e0a5c4a9661a780d7a8d17a35c3"
+   }
+  },
+  {
+   "id": "31",
+   "ruta": "lotes/lote_31.zip",
+   "sha256": "02cbfd98bf1bbf80cc21e7c33fd6fb3170cbd6ca1d06a368f58c25f33d1b8df3",
+   "bytes": 2733452,
+   "archivos": {
+    "Axle_Deadlift_0.jpg": "da0ad250289b9871741e5f6bed8f44d468b193b3a94728a6bdd612a2ebada03b",
+    "Axle_Deadlift_1.jpg": "9aeabc28b2a5f5d679d9eec1b9a2c2698a0028d83f121e87b4877f9c65511156",
+    "Band_Assisted_Pull-Up_0.jpg": "3e0e8918efb17dcb62a5b4eef790e5a1c054cf1319a81c3bb34747c8412d64a5",
+    "Band_Assisted_Pull-Up_1.jpg": "eb2d0b5774e114de1bfc6cda508f74b7598bf03f9f68f1196b0829b5cbc50df3",
+    "Bench_Press_-_Powerlifting_0.jpg": "0fef73385c7a1de3aed17c95fac35e606ebed9f38f27f8a9bafb1dc3a6cc8d30",
+    "Bench_Press_-_Powerlifting_1.jpg": "bca1f55c5c8881011ca87e32988a5b0cb0989e495b5164596b0af76a3b4f984c",
+    "Box_Squat_with_Bands_0.jpg": "bd74ae7df9a4a911cb7573aba27868da5e7493c013ac38887432de5d4e3a474c",
+    "Box_Squat_with_Bands_1.jpg": "143b63a91770e93b1ed4b10b7c7ed318c8e174727898cc976f6640a1192cea17",
+    "Gironda_Sternum_Chins_0.jpg": "299e6f5696263a83484c3f1b818b394594a1bca40f1dd075d94e530ac2207f72",
+    "Gironda_Sternum_Chins_1.jpg": "cbc5520ab7fa9849b7d50d469e9e323877828f4ced6b7082ae876f01d2735720",
+    "Good_Morning_off_Pins_0.jpg": "09fd66f91d7d50517698d12c22d535ac98bb760f1d806a89653cce9fb3a40216",
+    "Good_Morning_off_Pins_1.jpg": "d3f67ca31186270598087c4c1b080ea2e7128ba82ff2723721c0ba916d3ec29a",
+    "Linear_Depth_Jump_0.jpg": "7d05fa8ffdcd6d6a3fe53a1093c9685098e4e085c09976ef58b818a4696ab4dc",
+    "Linear_Depth_Jump_1.jpg": "cbd9a5be721cec03d29f0cea0c69e7bbecfe300b2532b7c117481478eced4333",
+    "Pin_Presses_0.jpg": "3c6c0fa388bd2fdc1c8fb7561ef314cbc4d64a9fba17f01fdc56b9417b6170fa",
+    "Pin_Presses_1.jpg": "0dc17147c09742561cdf80c40c5a40831701f8ab1fbc81decdf633835cbdc55b",
+    "Rack_Pull_with_Bands_0.jpg": "671add31b78fbc6a1f94884229eb71272a320b4a57712607bf7f6c8874813494",
+    "Rack_Pull_with_Bands_1.jpg": "54780f75a5cde83f053fe5b08605680d3be90031175b7601a78c4ef9f6de9186",
+    "Reverse_Band_Bench_Press_0.jpg": "c62ceb61a81b3fefe10b4e778085bf4e086d8bcf1ebb1a480f4df11ee85db330",
+    "Reverse_Band_Bench_Press_1.jpg": "ab1a5b360f93ca1222437e8319d8ad1cfee44ca92bad68ba42b9a9348e5c705f",
+    "Reverse_Band_Deadlift_0.jpg": "6e4f1d7d578ab9dd92ff3a44782b5daa428d36856ee676b03e38a75ea0b28a05",
+    "Reverse_Band_Deadlift_1.jpg": "3d71af2d2efd90fa21c06c765e6dabcb88560dfaa9b30ce903476c31fb28e307",
+    "Reverse_Plate_Curls_0.jpg": "9f82b8ab76af446179ec70e7348d463043d7321cdf899d71699d985687ab73e7",
+    "Reverse_Plate_Curls_1.jpg": "49fd796ccd2d49f6d7a79e21add907fa034977fad9228998d84410daa7841eb8",
+    "Rickshaw_Deadlift_0.jpg": "49728015714fd9b593ce3bcf917be31e29b78511963e73e26990f815797b5340",
+    "Rickshaw_Deadlift_1.jpg": "dc84be7377a32086cbca9f8c497e39f52ae392b11233522a531073cab24feed0",
+    "Side_To_Side_Chins_0.jpg": "1304ba603f63efd4739cb426c28018a6a8dbf89c009be413a4bd220b9951480e",
+    "Side_To_Side_Chins_1.jpg": "01d96cff28064fdb28b70905cb5867ce1f306eea26a282c6430b8bfbda747319",
+    "Single-Arm_Linear_Jammer_0.jpg": "52ccf89320f37a89d9894748f823ed5b7827f9ddb48ed06b3f390f4d26878363",
+    "Single-Arm_Linear_Jammer_1.jpg": "02049986ddac891374f50b81f9a26373a20294bd812f75336a82712b6535ba39",
+    "Single-Leg_High_Box_Squat_0.jpg": "700604a7b277e275923bde838ad3d0a7d5340fd7b01ef93a74b0006f187a03d5",
+    "Single-Leg_High_Box_Squat_1.jpg": "369181ac523e61bd4ce221003152582b910c433eb0960a13c559b74ab7fb17b9",
+    "Sled_Row_0.jpg": "d5a5c75c7eb1fa00cd749abd29ade830fcfd9124dab0cfd3554f191c77c35b63",
+    "Sled_Row_1.jpg": "9b13f4694c633bc1581bfbcb5739a289c914191f1bd6322dec9929fb995636cd",
+    "Straight_Bar_Bench_Mid_Rows_0.jpg": "d31bcc0f14b746bd0ce9468ab6ddd4a8d8c6e263e5fbeba1b0bc4312f6bba418",
+    "Straight_Bar_Bench_Mid_Rows_1.jpg": "ee7a3311dbc2b96bb39ef7b5254d3cbc9c55c05a9c429c3f683774304e0db899",
+    "Suspended_Reverse_Crunch_0.jpg": "67a1f87ec45c69f5582f78d5c85b1f67ce694e968fc3aee092a5c4b83f69ea38",
+    "Suspended_Reverse_Crunch_1.jpg": "7820aff22a7abb12760785449fea1cd02f5b2e559f2607d57a510e2e5c3cd9be",
+    "Weighted_Squat_0.jpg": "a2d9615167fd831ac80cb191c6d50bb1a111e7de4050faa4b0fc3a2c8d103653",
+    "Weighted_Squat_1.jpg": "93eedca8caf5db30fea9614720be6c31c29c1316945baa6a2883f3c9539b0346"
    }
   }
  ]
