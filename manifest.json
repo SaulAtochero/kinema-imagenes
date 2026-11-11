@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 18,
  "lotes": [
   {
    "id": "01",
@@ -1415,6 +1415,40 @@
     "The_Straddle_1.jpg": "83e8eb747ebbe44952c183de27c64c57eb43f6b45c22ffb95faf91be66825071",
     "Worlds_Greatest_Stretch_0.jpg": "d55f73e35be3334c2ffd9638a3ffc8b4412e67c5b5359bf7bc6950de23356877",
     "Worlds_Greatest_Stretch_1.jpg": "2c7e69edc68bce0f23a5ba26a73e107628bb3150349c2a85e7ae4b3437cd6f97"
+   }
+  },
+  {
+   "id": "33",
+   "ruta": "lotes/lote_33.zip",
+   "sha256": "64bf299efd39a480a776cca1768e4519496bee215a10be7d91c798323d4d04f8",
+   "bytes": 1571414,
+   "archivos": {
+    "All_Fours_Quad_Stretch_0.jpg": "35fdc89d42de3ecbcd6c0f5e33fc7ad210f247f7a78251bd67aa0edad46e5fad",
+    "All_Fours_Quad_Stretch_1.jpg": "e13d9aa3847c962fb4311bacaf29935a1664a6d9c6b55f1a2157bbffb6a80996",
+    "Chin_To_Chest_Stretch_0.jpg": "05caa02d2081ec6b0ae52925896286467706df3e5d9fe6c7f561224ff71737f0",
+    "Chin_To_Chest_Stretch_1.jpg": "a941d0734b952e93397431832abc4d44628701c1f6c8abe78444ea11c19dc875",
+    "Dynamic_Back_Stretch_0.jpg": "15149cd92a08117e320af10001feae83f2e662e4bfbef1b1b259a7c53b64a431",
+    "Dynamic_Back_Stretch_1.jpg": "7a1b3f7ce4d49749ed2826461a9643ff0092b665e9c9162d7041e9bb396ffeae",
+    "Dynamic_Chest_Stretch_0.jpg": "239efc39ce5638ba2a30eab9578a982dfce9ebeb407e8456e7ee45743c4f6fbb",
+    "Dynamic_Chest_Stretch_1.jpg": "ae7fa366a5f35bd29234e3b85605a4b736c427fbcd5fc04e049c3ce12f797069",
+    "Looking_At_Ceiling_0.jpg": "bdc67a40faf20930825c67983b958644939eb07fdf0363640daa0645fd2ec1a7",
+    "Looking_At_Ceiling_1.jpg": "eedd92a7bf7f86dc663b8e038b58704fa976931b3fb0fbf018f07fd43272f1d8",
+    "Lower_Back_Curl_0.jpg": "8756c47341d61e49d0c77107abbf1f3cc74210497391ff1d26a4936c19195a4a",
+    "Lower_Back_Curl_1.jpg": "14a62a94bc11f4142e88bb808813fea153cd8377d737d9e75c197be816d5819a",
+    "On_Your_Side_Quad_Stretch_0.jpg": "3792b67ffde154f2acf17d8d917b41440666f3212842d8e638addbcb8f474765",
+    "On_Your_Side_Quad_Stretch_1.jpg": "1eb8c5fbe42f946f19d18903b087685d1c1d25bef6b65fbae4c0207f6a458853",
+    "One_Half_Locust_0.jpg": "f255a79341169ba71241c35a25e2c15c71e13f830b33a4ad811d479bbd06efa5",
+    "One_Half_Locust_1.jpg": "3f223b4af686e14f3bff21f77ecdeb4784e3cb7a139a5b04cd6c6a724f36aa14",
+    "Overhead_Stretch_0.jpg": "49cecfe659d81db633053cfd8b24d1f3745c561e89e229d91ddda6f0fea271f8",
+    "Overhead_Stretch_1.jpg": "9e1ded47234c120813ff53d0acd6ed039517560c101eb0de31eede59e4d9c825",
+    "Side_Neck_Stretch_0.jpg": "63857143a6135f567e65e29b13d439ea7eb855c08da2b75fc38ba0267c499a5e",
+    "Side_Neck_Stretch_1.jpg": "b5c4e5bea20dac4a049bb97f27ed39d30683d34dd0bd8b24c670312524bc3b47",
+    "Sit_Squats_0.jpg": "e03c4e2f8aeb468b3763079fccaf22399fb3a57294d5200215184f7f3dc2cac6",
+    "Sit_Squats_1.jpg": "5ed10b9cd21a88586a2d7091e6cf9804aab2d1b4ff4ffd297f2cece1e1afbc80",
+    "Triceps_Stretch_0.jpg": "342a0448e79f19914beabfeae83476898947a2733d200e69d03fe3e458e3c5f1",
+    "Triceps_Stretch_1.jpg": "61c4c90a9007b1f0e6c094d8957d517d0fcd27e0a58b0bd400067a8d6f48825b",
+    "Upper_Back-Leg_Grab_0.jpg": "134731809986a9afee8767403f28cb6ec4f17ea3585e52e9275a1e09e5ea8f04",
+    "Upper_Back-Leg_Grab_1.jpg": "b5dda41ee16053627731a8a43c59d3c781307adbb8f3cf9c6ab81c4ae5cae435"
    }
   }
  ]
