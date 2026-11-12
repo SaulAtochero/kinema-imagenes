@@ -1,5 +1,5 @@
 {
- "version": 19,
+ "version": 20,
  "lotes": [
   {
    "id": "01",
@@ -1489,6 +1489,46 @@
     "Upper_Back_Stretch_1.jpg": "05329d8c6af498499e293d9de9ee1cf070ddfe96a8d90968c986dd491ffb5a41",
     "Upward_Stretch_0.jpg": "4bcdba12f88d05ed658b875d545d8aed213e4de02fbd200ad4096173e9ca0f46",
     "Upward_Stretch_1.jpg": "7796dd7e62c7826b17839be145e7f3e1fbd35b37d42b57a0f224f5e2f8358a70"
+   }
+  },
+  {
+   "id": "35",
+   "ruta": "lotes/lote_35.zip",
+   "sha256": "3691da048164b1876a38cda77005843ee79cfe28944f6a0edaac2ac7610d2888",
+   "bytes": 1941873,
+   "archivos": {
+    "Calf_Stretch_Elbows_Against_Wall_0.jpg": "01419661869709bb400bff2ca15b5a56183f5c2e21ba36015295510dadc84fe1",
+    "Calf_Stretch_Elbows_Against_Wall_1.jpg": "70264e44912b9901f113a23f14ce05947af00a2eea49bffa5dccd94d57a3a251",
+    "Chest_And_Front_Of_Shoulder_Stretch_0.jpg": "5055462d9756615f772727dfc71e33f6f81019f6c6895b652615613aaa63816d",
+    "Chest_And_Front_Of_Shoulder_Stretch_1.jpg": "24296698b3d78e865928f1627c3c4025d43a1d031b616201b2f274083a28daf1",
+    "Dancers_Stretch_0.jpg": "4f5db0462700e9c5e3f54deab1582ba37b21f05bb454528aecd66e085aab677d",
+    "Dancers_Stretch_1.jpg": "80a2691a5da194a2b2e133d20597545e1a508c6f15af0d8017903f999fc8cb4a",
+    "Hip_Circles_prone_0.jpg": "8b81e0a73650ec998e434043e569a9066571f04ebf119c3998a5ffbf6475b158",
+    "Hip_Circles_prone_1.jpg": "4360c58d2bdaea108fc66801d14cd21482ce2a6d2e935e05f1c45d4ccbc5280c",
+    "Intermediate_Hip_Flexor_and_Quad_Stretch_0.jpg": "3884a49b81c564f0087bebda66f8eef8db7093ef89d9e8f641ce82fd75b2fdcd",
+    "Intermediate_Hip_Flexor_and_Quad_Stretch_1.jpg": "2ab3a5d74901efbe1fd123469ea442d92a6c737039116cfe5293681a9f0f2534",
+    "One_Arm_Against_Wall_0.jpg": "bbbfe956fe460be3ef531a57f83dd51dc844141abf0f1a6de584608e7a5b755d",
+    "One_Arm_Against_Wall_1.jpg": "8dba362ebc0a4763a849596d73b10b011b48b148f242fda02b63eee24b65c101",
+    "One_Handed_Hang_0.jpg": "a0da4ba48cab1cddc9796a2b69c565087459fbe22c060f2a003d943bb1eeb69b",
+    "One_Handed_Hang_1.jpg": "c3d12673bbc497cba65df43e004ae6216ce9d32c3b94b39e4f83cf20fe54029d",
+    "Round_The_World_Shoulder_Stretch_0.jpg": "d607cd2045ff4d79ccf2af960cb35ddbe7e7a3c2851d76232a6819218f1a8861",
+    "Round_The_World_Shoulder_Stretch_1.jpg": "d14dd6d4c96eda8e66811ff3d6f172e364e194be9893b765cb877dbf52cf9ec1",
+    "Seated_Calf_Stretch_0.jpg": "697d826df78b7c0e504c48aa9b3ac8d1949a10b425f669a86f0cfb47b053db69",
+    "Seated_Calf_Stretch_1.jpg": "ab429a98ea6d5228d85f10ab5de56c30dd22e1eeafa0eb8350a4f2baaecc9d96",
+    "Shoulder_Stretch_0.jpg": "c1d1659762443d3c0a73e9b2cb558fbe4448fdecb03b84927c560d04f5b2b059",
+    "Shoulder_Stretch_1.jpg": "ff57b649462c2db97a36da80650bcb8a8ef32ce190eee9bd78e544fb32949b51",
+    "Standing_Biceps_Stretch_0.jpg": "3b11c75e3feaf13248414ccc941713fa1fcb34ea753f963c9c64036801e72b17",
+    "Standing_Biceps_Stretch_1.jpg": "c59bec893e94f4a6b73223245a51d09872fb15ef5564be7a53066757a49ba3e0",
+    "Standing_Gastrocnemius_Calf_Stretch_0.jpg": "9c2248bd36190a77eb53e2e70552a46bbe09eb528208fdcc2ab4e0b378f14c3f",
+    "Standing_Gastrocnemius_Calf_Stretch_1.jpg": "05d0808701cb26907b316315ec5d4ba8336419a8530d146afad13b57742a5b4a",
+    "Standing_Hip_Circles_0.jpg": "c6cb10e55a79107ad8072a0cdb925def80b6197e24ea4ef97d4e43eb9a6d0d82",
+    "Standing_Hip_Circles_1.jpg": "6b548cbf0982e5b5aa49d19929539351fd79fa8610b6133a5679d836b0c89d96",
+    "Standing_Soleus_And_Achilles_Stretch_0.jpg": "7ad3423f33db10dafebf8ca6bec585b9c0433619cf3a7e27ab5e7b6fe97aa938",
+    "Standing_Soleus_And_Achilles_Stretch_1.jpg": "ca382d627c02b66e7a8fb309dd64857f95e8743cfea41f8503152f7d6b6dcd50",
+    "Torso_Rotation_0.jpg": "8a26b9ba73a019b7d71b4c49016476200c7c7815c9910f7f615e1abd76283922",
+    "Torso_Rotation_1.jpg": "e748a427dc17d2c596ff46e9108bd89bfc7cc8c76e4256443d8a41b6ea38324e",
+    "Tricep_Side_Stretch_0.jpg": "c1d1659762443d3c0a73e9b2cb558fbe4448fdecb03b84927c560d04f5b2b059",
+    "Tricep_Side_Stretch_1.jpg": "ff57b649462c2db97a36da80650bcb8a8ef32ce190eee9bd78e544fb32949b51"
    }
   }
  ]
