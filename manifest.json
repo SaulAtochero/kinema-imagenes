@@ -1,5 +1,5 @@
 {
- "version": 20,
+ "version": 21,
  "lotes": [
   {
    "id": "01",
@@ -1529,6 +1529,48 @@
     "Torso_Rotation_1.jpg": "e748a427dc17d2c596ff46e9108bd89bfc7cc8c76e4256443d8a41b6ea38324e",
     "Tricep_Side_Stretch_0.jpg": "c1d1659762443d3c0a73e9b2cb558fbe4448fdecb03b84927c560d04f5b2b059",
     "Tricep_Side_Stretch_1.jpg": "ff57b649462c2db97a36da80650bcb8a8ef32ce190eee9bd78e544fb32949b51"
+   }
+  },
+  {
+   "id": "36",
+   "ruta": "lotes/lote_36.zip",
+   "sha256": "94ad9159f8e66d7767cabf57f89efc0b47fddfffb9866a5d8c5c84bd6f860875",
+   "bytes": 2246577,
+   "archivos": {
+    "Arm_Circles_0.jpg": "abac8e4772ca40128469bab4285f37c5b69840522dfb55de2b633d8a1cd422e1",
+    "Arm_Circles_1.jpg": "7db4ca26e10741fd5043253bb7cd7759973a3ce28d9fd7743092f4027b6afd8f",
+    "Chair_Leg_Extended_Stretch_0.jpg": "92e7b73599cf8f154e54be3dfa95a7112f7e4565afca51bf931be30e4872b4c0",
+    "Chair_Leg_Extended_Stretch_1.jpg": "cd5796e9c39ab067d173e3768a5e2afcc2d3b7c446e101fa7b0a7380ba30543b",
+    "Chair_Upper_Body_Stretch_0.jpg": "a13e5193fa4c05483472ade7424cff0cfb556d9d6f30a7176f7a9823d1951207",
+    "Chair_Upper_Body_Stretch_1.jpg": "6a465030cf848505d7552a15e3e64358a1cc8ba3b8c558c8b23b2855f8c2771a",
+    "Chest_Stretch_on_Stability_Ball_0.jpg": "f0f9808a44846d8b62fb58e1557f039200f210bd3650f6e54ae3946bab2f1a7f",
+    "Chest_Stretch_on_Stability_Ball_1.jpg": "1675ab0818f84bd397852a41c6e4e8910e05872e22ba71786aa0091d2dc478b2",
+    "Elbow_Circles_0.jpg": "c85d3198cbb0d9c2940a459cceb0c05db1b17f9df7b091055d5414bbb2429543",
+    "Elbow_Circles_1.jpg": "04381d0a773225b13c97749c92aaf84560491bf59bcdefec8424b3afddf07320",
+    "Hamstring_Stretch_0.jpg": "9e7b5674184ec8c17ce821850851e00f97da3221e3776596dc8f78505dc56cf8",
+    "Hamstring_Stretch_1.jpg": "944ae97ec56d2868f4e3bc8fc2abcf4015bebd17d45510768a0af1fbd25c003c",
+    "Hug_A_Ball_0.jpg": "86dd508afa7eec7d5a9b20a28717a8dc65f33d40b66ea123e56897d1b5021d7b",
+    "Hug_A_Ball_1.jpg": "1bead353db629972b7d687c8f750dd4fe5197a94b5b32f504f9725719a21c5a9",
+    "Intermediate_Groin_Stretch_0.jpg": "48abf6fb2bc97fc734f9436d65b263f19340d408ade5d5aa147eb15fd5c814d4",
+    "Intermediate_Groin_Stretch_1.jpg": "8e59001d1999c488f8d95906c008daa28c82b39a851ed6e7a4cc88cd71ebc560",
+    "Knee_Circles_0.jpg": "acee62316455122489a0d3f726c679311dd5231579d8cc4947ae7b2ae967bdf9",
+    "Knee_Circles_1.jpg": "1ae5ec537bd29225622769201e63f6209bdaab6f0e9b6668ee55c8c2f6394ba2",
+    "Peroneals_Stretch_0.jpg": "3c2a2c8a30e505a2c23beff77b0350d325b3f9b7cc35315c37cf3124b827ece1",
+    "Peroneals_Stretch_1.jpg": "65252792c7ffedfedaf87c9b0da0be69242769b41f1bbaf0c8d2de2b719ef351",
+    "Quad_Stretch_0.jpg": "75f252b240e2250d8955f2be5e7d2ab6a09d9c21e3a13d42f11ab75fa42b231b",
+    "Quad_Stretch_1.jpg": "fae3a795a36213b61afd4fc50b18415e26a41f51a4c0f2701daa1d2d00f450df",
+    "Seated_Hamstring_and_Calf_Stretch_0.jpg": "b364c31f6398722a8a4f327a8e7fed36e0f67fb33b9c4e1511e7cd706bbb373b",
+    "Seated_Hamstring_and_Calf_Stretch_1.jpg": "cb68e5dfca753762acc95361925c34fcf1c1a5d46f91bacf303e604d576dc771",
+    "Shoulder_Circles_0.jpg": "18b398cc5fe40c197b6108f485ee6a9a28fa614a1f28985fd2c5fd0deade4e00",
+    "Shoulder_Circles_1.jpg": "b91aaf251abb3e44020a19659d783ba3018f4e9054d4c8304635c8591c33225a",
+    "Shoulder_Raise_0.jpg": "8159ed7709b60128e462136d1a03483dd7148d50688081bda70e47f31ef9cac5",
+    "Shoulder_Raise_1.jpg": "a0f3af2546ce62442f134e712e15d080195bc20f22ce83bde7249945a07b8f89",
+    "Side-Lying_Floor_Stretch_0.jpg": "c176192481061394104b81644dbb1f4892afedf8f1c270d1ac2066d07c368971",
+    "Side-Lying_Floor_Stretch_1.jpg": "56a45b05dcff35371d8d635295a1aa1be82e3aa946c8a4b8580cf74fb122ace3",
+    "Spinal_Stretch_0.jpg": "47b147ec8c7a7e44fbd9879cf6a1d1584064e1da4e719f6070d49d2bf889982a",
+    "Spinal_Stretch_1.jpg": "34a7c4f1d999ee2371e88de3579362e02ab5e814ea14485cdc6c9a04a1fb0c45",
+    "Standing_Pelvic_Tilt_0.jpg": "3e73a3590314bd3800b09cb64b7011e7f8a977f2538311e110e90391dae0dad0",
+    "Standing_Pelvic_Tilt_1.jpg": "91a5141f0313ccf680ae79e389e1360712aa66ca881cdc954832b6318d862851"
    }
   }
  ]
