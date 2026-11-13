@@ -1,5 +1,5 @@
 {
- "version": 21,
+ "version": 22,
  "lotes": [
   {
    "id": "01",
@@ -1571,6 +1571,48 @@
     "Spinal_Stretch_1.jpg": "34a7c4f1d999ee2371e88de3579362e02ab5e814ea14485cdc6c9a04a1fb0c45",
     "Standing_Pelvic_Tilt_0.jpg": "3e73a3590314bd3800b09cb64b7011e7f8a977f2538311e110e90391dae0dad0",
     "Standing_Pelvic_Tilt_1.jpg": "91a5141f0313ccf680ae79e389e1360712aa66ca881cdc954832b6318d862851"
+   }
+  },
+  {
+   "id": "37",
+   "ruta": "lotes/lote_37.zip",
+   "sha256": "53675a21e8b9daa395e7f39b1aa43254045de4afea37837c78147d562ad3f841",
+   "bytes": 2173675,
+   "archivos": {
+    "Carioca_Quick_Step_0.jpg": "b7c33d9bc72cb943f6683bf5336789ce9d198c43f7e5eb2294228f39ebf5f622",
+    "Carioca_Quick_Step_1.jpg": "4c95aff41d9d6d76adca0f0adc9e706ea285438cde171cf7d5c66d045430254f",
+    "Chest_Push_single_response_0.jpg": "0c48c4d7b860a9a994c6c58083fc44dae01cf41fb691e0f6dcadfe03182448ee",
+    "Chest_Push_single_response_1.jpg": "4029661a67cc8ca9782ed2deb78b25a9b434779cd67a9655c89830288bfc5f5a",
+    "Downward_Facing_Balance_0.jpg": "c40712df35131c880828c07afb10cc94c8eaab9f38ebb09142d08191999d249e",
+    "Downward_Facing_Balance_1.jpg": "da491c9cdf1fea22d8f0ebadc760f1ff4953582ab903a9e2856db876a298271f",
+    "Hanging_Bar_Good_Morning_0.jpg": "165d9049247378c394c39524662cde9910db741ec60edd8909db01efaafa548a",
+    "Hanging_Bar_Good_Morning_1.jpg": "694d38c2f4c38a736eecc9d9c889d85d360e03772ca79cf1e45fceb41589fe0d",
+    "Internal_Rotation_with_Band_0.jpg": "ca7eabf531949142da39dd32978017ee1b884725154c4f6eee248c106597c30c",
+    "Internal_Rotation_with_Band_1.jpg": "2e92f5791552433865312fa6bcfd5fb5d4a18b5ce8bc7fe8798c49ff2f5b0fe8",
+    "Isometric_Chest_Squeezes_0.jpg": "9c4cc5bbcaced7ea12d792516471c873684ff62be00c446875f6d0d14e5033f5",
+    "Isometric_Chest_Squeezes_1.jpg": "b60a7ce4203ecd5becb9be282a0f52a13d1eb79d041cfe87d17192333933bc2c",
+    "Isometric_Neck_Exercise_-_Front_And_Back_0.jpg": "09245ff6e2813c33213bc22b0dff3d4bf2aa5bc1b2d71351f8aad2f3906d84c0",
+    "Isometric_Neck_Exercise_-_Front_And_Back_1.jpg": "76b6639c14d18dc90b1256091036d5d9db52fe20de0b6e9cae155f8f73df1789",
+    "Isometric_Neck_Exercise_-_Sides_0.jpg": "cd1b0fdfd6e6b3ef3363dec8d9b6227aacc063d3a3c39a26e1e97af5796825a7",
+    "Isometric_Neck_Exercise_-_Sides_1.jpg": "7760e1ba765266b9358873e0ac5de919c83f5cd16e61b0d56dda94bb1f617299",
+    "Kneeling_Arm_Drill_0.jpg": "930065f34c22e9567f8115347a2174731fed187c7a4af4b2d0ac955ae74b2cd3",
+    "Kneeling_Arm_Drill_1.jpg": "e9b5518395dbeb8dbee83ea06a6dddfd012d4c31542075802346a451b3a6aa75",
+    "Medicine_Ball_Full_Twist_0.jpg": "a124674c3da6d6805bdb74f94003f07cb31c20837c1b4e29cd811ffe07f976df",
+    "Medicine_Ball_Full_Twist_1.jpg": "918a9eae1d71535884d1633c6ef0aa3663a5d964508e39d4ec7880dc95bd4467",
+    "Neck_Press_0.jpg": "6982aaf6ffd7c6c56afdcd96b2f8b1c48cbb14333aba93dd67dba350c4393e21",
+    "Neck_Press_1.jpg": "e1a3f231d4e3a5a8aaba95d0668b1bb4c8669ad9b93502d8d911b7545bf405e2",
+    "Overhead_Triceps_0.jpg": "2d379aa2471d682f4216c864d7f5e8cd42b18e4afcc0e65bec7f4f47f2df06cc",
+    "Overhead_Triceps_1.jpg": "99e4c8d3a43c829a6ad69244128642d5295eefec239a89a4b5ce3614de5dccfa",
+    "Speed_Box_Squat_0.jpg": "1493ccd10e9131619d98035fa3e48a185d0d39751799a35d3dda2f6de74e122b",
+    "Speed_Box_Squat_1.jpg": "2df6ebc1ba89b1707b90e23a3ac3b513006938fa9ca22f74c68fc6f747696687",
+    "Speed_Squats_0.jpg": "2c16fdb76c00ec0930ec35d8c3b2fc5ee841c32c485fe02e351fed0808793c40",
+    "Speed_Squats_1.jpg": "e3a3d5b36f24fcdaa1452465545f86b57b8606b73de2eba3d096828b3ea13705",
+    "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl_0.jpg": "3cb55fb3ede4352cc2b52b6f81813dff657aefaba58c887c298830b087a579fa",
+    "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl_1.jpg": "9bcc81ab4a040fe5dc701679796fd7bd7327c9d151efbe18d8bf9126eebb8a11",
+    "Standing_Towel_Triceps_Extension_0.jpg": "be60acdf41379d7e76d486236bf2edc9adfd1af1f5f6bfac294d8192730fd17c",
+    "Standing_Towel_Triceps_Extension_1.jpg": "19eac71e4890eb919dfd6ab306d52da4478a081e9e5f4412ae6f510e6fb1a804",
+    "Wind_Sprints_0.jpg": "c007ceb06e2c2aae1dee992b5f9f0e702be2760532ea30e11b77256f1e9bcb3a",
+    "Wind_Sprints_1.jpg": "aaec39a94b66bd17c0bc13c4cc2c50cb77f6afe288d678b0339e263ed604337e"
    }
   }
  ]
