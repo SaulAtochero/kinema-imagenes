@@ -1,5 +1,5 @@
 {
- "version": 22,
+ "version": 23,
  "lotes": [
   {
    "id": "01",
@@ -1613,6 +1613,54 @@
     "Standing_Towel_Triceps_Extension_1.jpg": "19eac71e4890eb919dfd6ab306d52da4478a081e9e5f4412ae6f510e6fb1a804",
     "Wind_Sprints_0.jpg": "c007ceb06e2c2aae1dee992b5f9f0e702be2760532ea30e11b77256f1e9bcb3a",
     "Wind_Sprints_1.jpg": "aaec39a94b66bd17c0bc13c4cc2c50cb77f6afe288d678b0339e263ed604337e"
+   }
+  },
+  {
+   "id": "38",
+   "ruta": "lotes/lote_38.zip",
+   "sha256": "08d66bb1c49fdf018103052d7c831b2ed6dbb81cc16f40b003fcc6d35fe0e22a",
+   "bytes": 2913437,
+   "archivos": {
+    "Alternate_Leg_Diagonal_Bound_0.jpg": "7ce7efbf4cd55af3ad9a925720a0f45fe75ca48eca0ae5a69b9e1fedf5e685a0",
+    "Alternate_Leg_Diagonal_Bound_1.jpg": "87985aafd1bf3802b312d0d8037065966afabd6c929ed776c5ebc106337b6e16",
+    "Barbell_Incline_Shoulder_Raise_0.jpg": "f9ebdd2bb80e62ca0fd435d89bd64338a9941f6692702c3017978466dd525ebd",
+    "Barbell_Incline_Shoulder_Raise_1.jpg": "b9f7b33644234e38b32403fe21918758ccabf9e16e04bda4fc0a92595c126c46",
+    "Behind_Head_Chest_Stretch_0.jpg": "9e3bc8ad6fecfea5e14b2bc8001483c4b5d378d3d93802a7f4727702697ec46b",
+    "Behind_Head_Chest_Stretch_1.jpg": "b700b2b281ce9157006765f2927a108b0a037316684030ca8765248673cc0756",
+    "Chest_Push_multiple_response_0.jpg": "7af16c7a045bc71a3fa109a376d165fa1c7a3db451e6602d29828e2f3d2145ee",
+    "Chest_Push_multiple_response_1.jpg": "9c6071c64d69815b100d75a218798dbf70e7f6d22a9da704b663e9c55a9d0114",
+    "Linear_Acceleration_Wall_Drill_0.jpg": "d14a84117ca5e76ece88b9fd1e3d3003b35c23bac446551ca7fedf26dd95495e",
+    "Linear_Acceleration_Wall_Drill_1.jpg": "3514d4903ddd80b1596bcb069c491e14e6a42b5a80deab964ec7e45dc54b9bac",
+    "Lying_Bent_Leg_Groin_0.jpg": "254046fcfa1d8e07d0111ae2ba9399f90bfe041612cd2486ee62c32c497f127f",
+    "Lying_Bent_Leg_Groin_1.jpg": "3e2fd95bdb4fb6f88c09e1828977f74f55211e3dc01bcbc99b08084e6002125c",
+    "Lying_Glute_0.jpg": "e4a09f2c33a77b3fc2e2a6c09b07aef5b99f73190fb40c5e1779b4ab54f76101",
+    "Lying_Glute_1.jpg": "efca731ea685aa2538aed308fed9c5b948de91ca3eae72b64445b41e50d605a0",
+    "Lying_Hamstring_0.jpg": "017518fd7ef0338b3d8bc668cac4575ab4e0163bca1bf0cb9d011c10f6b2bd4a",
+    "Lying_Hamstring_1.jpg": "4b22746590c28206837c8efe838236c3110ca286a106d8fbc42393273df2e7d8",
+    "Lying_Prone_Quadriceps_0.jpg": "bb27f4c5e22c8c3fd938c4433e4c44efdc9eec7335a44e92b6b5c1d09686fc47",
+    "Lying_Prone_Quadriceps_1.jpg": "1813f151e7e2d9afe07b6999bad65777676853393802084a27da80bb4ed5e802",
+    "One-Arm_Open_Palm_Kettlebell_Clean_0.jpg": "650263cf69b155c12a2b077f0edc972f477750b1fd4a38307a137bcf2b209400",
+    "One-Arm_Open_Palm_Kettlebell_Clean_1.jpg": "0e7a6e57515d9ac612e7e84c0444cd5b7659be1aa5d3064b42b07fef9ddd26e1",
+    "Overhead_Lat_0.jpg": "4189142b12467aaa336a8ee0f204ea3855ea7bc12b6acfc45410ec641ab85c8d",
+    "Overhead_Lat_1.jpg": "cc57281e52ac5703a625f4686514a2cba16ab66f2d50f6a651e1b129fc4b01fc",
+    "Posterior_Tibialis_Stretch_0.jpg": "096d1ed4febdb0c6893dd1647579548df49fa75a61e8ab4a63bc57b4d1e26e67",
+    "Posterior_Tibialis_Stretch_1.jpg": "f6b1b41c92b93c2942b341fef40de46d913f88462f6500c442003958a3e2f706",
+    "Pyramid_0.jpg": "3bae303309c4796c95ebc63909b9b29025eb2eb9729c0f62835b33368c7f0f09",
+    "Pyramid_1.jpg": "cac59f327cc57a76bddb695fc5e30152093ab4e2a4b076a34c89b7d3c765c9fa",
+    "Seated_Biceps_0.jpg": "85f937aae561fb5b76aee1f5d8d99c8fcacc06b207903d771c9ef76a7988bd2f",
+    "Seated_Biceps_1.jpg": "f8313d03328e4e39f7b028d197e9724109ba7fbc80117fc04577c611c889647e",
+    "Seated_Front_Deltoid_0.jpg": "4d4b6821792f1fbf4a58aa73fd0f12b89bde74320a4aea945592ebdc93c2aaa6",
+    "Seated_Front_Deltoid_1.jpg": "6122491c5a86b28d2bae734c534c91dd8cf907bc3f4d1cf799d5018fcaf5d979",
+    "Seated_Glute_0.jpg": "3be7e093b8266cd16b528313efc4310d6630bf4d9dead29c9b4bccd422d326bb",
+    "Seated_Glute_1.jpg": "7d5b9e023d8b635e000464f29aaa0e4e68fe7ea94d181218d80e542ef98c67ea",
+    "Seated_Hamstring_0.jpg": "52c191e0e63fbbaf3606285fcb49bb6ca2d3c0a81c8ab32c553173af27a34d2b",
+    "Seated_Hamstring_1.jpg": "c85ba69ca3e1e83bed1abce3037c33477bae0ba1bd3a77a6bf59533e3971cbc7",
+    "Stomach_Vacuum_0.jpg": "721c9d869fa955976ceaefe249303188017e64d609d8e551bd85bbeae836bda0",
+    "Stomach_Vacuum_1.jpg": "79e9ed9514c1383974763e2cdb0d30de0d99e86bc1c53fdb3cb7358eed6b1d8c",
+    "Trail_Running_Walking_0.jpg": "5ba69397fab95fd89f410b4b1cb8b91151302e15765df854adb3c1454e131820",
+    "Trail_Running_Walking_1.jpg": "a42d24f3bdd508d7fbec7722f828090b34b49b8f3025f8a26a19a1775491f777",
+    "Wrist_Circles_0.jpg": "2fc75a47d0dfd8f18a3ba7fd74c7bfee79c00d1da8c22a0a76c323a8391ec09b",
+    "Wrist_Circles_1.jpg": "a505de32c3dd1f868a33a13546958c0a9fd28eb0ff3db6dbf67d7a4e82a4b543"
    }
   }
  ]
