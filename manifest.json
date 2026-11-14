@@ -1,5 +1,5 @@
 {
- "version": 24,
+ "version": 25,
  "lotes": [
   {
    "id": "01",
@@ -1707,6 +1707,54 @@
     "Rhomboids-SMR_1.jpg": "231156a6a448dd4ec2163b7763abc151d9d45c70f21cb4962ab49e59394c4e8a",
     "Single-Leg_Lateral_Hop_0.jpg": "820e279973a8617ee07813820ac22df0fb5c866849860e1c057eef4529325fda",
     "Single-Leg_Lateral_Hop_1.jpg": "514e8d582e24d55410d44f7b06a279069c938d37e31f79d2cdda01331f706dd8"
+   }
+  },
+  {
+   "id": "40",
+   "ruta": "lotes/lote_40.zip",
+   "sha256": "938153147d4e75dbd33c7f773ecbbc8baebd5735e33987233cc379e1606c4c78",
+   "bytes": 2670885,
+   "archivos": {
+    "Anterior_Tibialis-SMR_0.jpg": "1ed1e9bc64b09ad6c937a78ffeca1eedcc947f8f58d69ed6e7b16a15e486882f",
+    "Anterior_Tibialis-SMR_1.jpg": "1b8b0445ff0171d2497f761d2fb35cb47c92a3df2d0beff58d6216b6a7cceea7",
+    "Balance_Board_0.jpg": "823b0f4c1c6d56a28f79998960f76971a2b91c7a86a5d714ba38551abd6d7827",
+    "Balance_Board_1.jpg": "a4924b640a79dfadeac6745951dd87b64cc58c5fe58a05158e7b866f59c505f3",
+    "Bench_Sprint_0.jpg": "f32d4eb77fe7d395bb0d4e69ff6e7839111db56e13b85d05a4cefb9bfcadb5ab",
+    "Bench_Sprint_1.jpg": "eec7f1002d49d6f438d5ae3f22e4c05817a8c5896cf8144e396e99bc03ee4689",
+    "Brachialis-SMR_0.jpg": "2dd835c5e120fa8ba7a3e02ae0cfba8a82055aea62ee5230180a269bd9668ecd",
+    "Brachialis-SMR_1.jpg": "803ebecf594c64aa48a0ade4fbd13871e35028ff4fb20a2605745e8bf496bdb8",
+    "Chest_Push_with_Run_Release_0.jpg": "e94d98c3a29970e3bbaa21a87a971ccbf90cfc0547467d5f1174a30ba051a053",
+    "Chest_Push_with_Run_Release_1.jpg": "bca8131cb2d9ac8129240adc72795655ead34ee049ddf0a424f61dcbd21e5d90",
+    "Depth_Jump_Leap_0.jpg": "98043dac19cfcbd832efdc36e87922068816f0c5520c3320254207bf8a75ba16",
+    "Depth_Jump_Leap_1.jpg": "2fa8359622a30cf1c03eab6fa52cb5827b2ebfec017cb61e3f833796a094ca36",
+    "Drop_Push_0.jpg": "230112c024f3c063853ebc9539bf64c5fc4d8d5e1a0942c02c22c0bb2b72395a",
+    "Drop_Push_1.jpg": "53855d4749a853c45dd1fde0299397dd680935bfefc3e2d381eb8bb9b297f26a",
+    "Foot-SMR_0.jpg": "bd51326bac8b7f5b4802dd077700853e1a0761a359387b8bf20f01a8f13919cd",
+    "Foot-SMR_1.jpg": "0f24951d7f07f4d8d7462a2d7ea7535b17903460fc0ab30aa59dbc773e1a6e6d",
+    "Heavy_Bag_Thrust_0.jpg": "c4b0a13c830e270aea742dc73e4954e2dff0fa851e635fbbe6ff5b3e7585e205",
+    "Heavy_Bag_Thrust_1.jpg": "613b196a1efb2ee74208ee436a8f15cd9646aa66c966bd1cc96addadc6f44a46",
+    "Incline_Push-Up_Depth_Jump_0.jpg": "05daad1c816de7d07f96c3deaf21ad933eb5908162ab436b86e87d95ed90fa9f",
+    "Incline_Push-Up_Depth_Jump_1.jpg": "25922447bc142f3d73cf8247ab2563ae3d0dd471756e6b411b17c6e58b56afb5",
+    "Inverted_Row_with_Straps_0.jpg": "26e48cf1d2a0e4adb1c707f44243dfbf035f1a995c20a8ef661f6d3804e23b54",
+    "Inverted_Row_with_Straps_1.jpg": "84bbcbfc8f59a9c38827dff6afccf2fe8f7e48fbcb6de7eeece95d349174c3fe",
+    "Lying_Face_Down_Plate_Neck_Resistance_0.jpg": "247a35c0bc957b4d06facff1fb82689f55c8765bbc48a5722e0cc65ffbd66743",
+    "Lying_Face_Down_Plate_Neck_Resistance_1.jpg": "750a721906635438465686eca1c9500fb0a1e4b847e8ad390f65b5a1a69e5642",
+    "Lying_Face_Up_Plate_Neck_Resistance_0.jpg": "b919fb1652abe80114735f64422cf3208bede4ef646fee26cc368af1b656f8fb",
+    "Lying_Face_Up_Plate_Neck_Resistance_1.jpg": "f6bd0f9db6fb6079dffcbfc8554449c8cf185e8d4eac45498eb537a0a7e9092e",
+    "Plate_Pinch_0.jpg": "bf391876edf8483a1dbc45a8f4e74743b8294a180e8aa053b763e1d0b66d33dd",
+    "Plate_Pinch_1.jpg": "7592477d2091d464c0ec02b0e37c80efe84b918d070aacb60939bd6839398889",
+    "Quick_Leap_0.jpg": "728d80697f6b3749d238495c05be48b813981f7c8144917ce707b1e2a3cfdef2",
+    "Quick_Leap_1.jpg": "09dd87fb52f0c6bf17e138d6836803f87ccceb2ac7d9232abc1acb42e639fdc1",
+    "Side_Wrist_Pull_0.jpg": "d7f4276a5e91d41fe6d95109e0c1aec1c97c43591115a88a25b6d2b8c813fff7",
+    "Side_Wrist_Pull_1.jpg": "4e46826a9d7fcc3958af3ace9184b1efba0ea3e8cfa8cf7eeed5f46dbd93a82f",
+    "Single-Leg_Stride_Jump_0.jpg": "4190034f31aef12173e65824c556639576c7dfa56034e0eea28b97129d952c5d",
+    "Single-Leg_Stride_Jump_1.jpg": "77175019083d666c294867f7cc8662ad934937eac1a6a0d8aacc7d68068bc593",
+    "Single_Leg_Push-off_0.jpg": "1366c68df287fa39eb72e35e370e8e830f87c7b2fdeb26bad1d2ba018489f92d",
+    "Single_Leg_Push-off_1.jpg": "25a1dc682fc8fcddb028e8155d03f9756d64616be7d5551b77bbe3b521b6853d",
+    "Skating_0.jpg": "6c7dcff70ceb622f62b3f34b4f09b2a2f5ef9ac1cb55be68735fab6bd9f6b7d5",
+    "Skating_1.jpg": "49631fa925f3edab29f56ff76d7dcdfcca38febbebf4a46e78e74fbf5e7cacd4",
+    "Stride_Jump_Crossover_0.jpg": "05e8036107e47ce2bc96d33893164cc2ecd5da0719b593d86435d1d12041e680",
+    "Stride_Jump_Crossover_1.jpg": "2a15a0b22db100f1794b678a05279f747865ac3cde3cca256c47a74acca2bf13"
    }
   }
  ]
