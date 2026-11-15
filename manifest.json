@@ -1,5 +1,5 @@
 {
- "version": 26,
+ "version": 27,
  "lotes": [
   {
    "id": "01",
@@ -1803,6 +1803,54 @@
     "Stairmaster_1.jpg": "fb9fbeeb613a923ad8bcf639f9cb57df1eaa5780bde4cd419455a4654851894c",
     "Step_Mill_0.jpg": "914a5c6745b23edc18712db2eea38b818246d96763e18d0266abb673838a2ead",
     "Step_Mill_1.jpg": "fb1c98ffec8e30ade93b5fa65cdce678c2768301553c06ee4356e6cb3ed12af1"
+   }
+  },
+  {
+   "id": "42",
+   "ruta": "lotes/lote_42.zip",
+   "sha256": "94f450f065d45344edf4b1c18ad8bff64d242c28a5fa4a087bda0ee173bbc3c6",
+   "bytes": 3291281,
+   "archivos": {
+    "Alternating_Cable_Shoulder_Press_0.jpg": "fdcc8ccd2d967c6340ecc5762665648da2b563bfc24d6a40c0d53b4a4344f777",
+    "Alternating_Cable_Shoulder_Press_1.jpg": "14691e23c2c4bdb3b8efc0d9cd6a60cc8b6c4048a088a41dc93dbc02c76cbac9",
+    "Bent_Over_Low-Pulley_Side_Lateral_0.jpg": "a2b6d1d513b8cd33116f638e162389e7fb8bd9f3bcdadddf02af9c871d2034f1",
+    "Bent_Over_Low-Pulley_Side_Lateral_1.jpg": "7b500ae8899875c9eafc3e71a4f2fd08c5c7afe60f08c0e672286a367b01d801",
+    "Cable_Internal_Rotation_0.jpg": "db48aaa509d180d747976eaece5b6e882e77d2ecdd0180f09a710614a4775cd3",
+    "Cable_Internal_Rotation_1.jpg": "88964c22776c1a18b72dc5415c2ae7c748e8c962e04d36291f8e18b9bfcb7d5e",
+    "Cable_Reverse_Crunch_0.jpg": "44e43b0915dca82b3c3f38fb773e5b9782c559b46f954736aa4f2ddf80b24f7c",
+    "Cable_Reverse_Crunch_1.jpg": "f0fbd8282a3c298061eb3afa57a0f0af2c809bed86549142f356bf3342640b92",
+    "Cable_Russian_Twists_0.jpg": "c820355c4a42458abfcd7b75d86ad394ccf8302be2d99dc6389b2b3aa7b9357b",
+    "Cable_Russian_Twists_1.jpg": "d237b492aa9f0220ece865f8c84d8c6640b6c264acdf6c3c733f152c304cde1b",
+    "Cable_Seated_Crunch_0.jpg": "b8a4d59559003c334292043de5f99be3ee52303bbb630b2a23d1d970c55a7c9e",
+    "Cable_Seated_Crunch_1.jpg": "613e7ac0d7803dbdfbbab0201fa06807ab5c2b36fa243a586bcb99cdbdbae9d6",
+    "Donkey_Calf_Raises_0.jpg": "2bf81e7c76a524e4fdccc8c75ca81552447ce7038f5c4cfe9580ed2699414964",
+    "Donkey_Calf_Raises_1.jpg": "4163e7c068aae888bf822d30e664b8f7440faf9418f74966a3183387dda2132b",
+    "Elevated_Cable_Rows_0.jpg": "cf85d467011cccb7d203f4dc2ca7bdd96586d6894fab0f5527459531f5fe9c9d",
+    "Elevated_Cable_Rows_1.jpg": "15cb869889a30f503b05efc49cc86705459bee8dc356ddf1b033e0e285e1594d",
+    "Full_Range-Of-Motion_Lat_Pulldown_0.jpg": "11015b90feb621b2193107ef70edb4a5d101d3563bb9b809969225afa52d6c9a",
+    "Full_Range-Of-Motion_Lat_Pulldown_1.jpg": "6ab3e8a19d6b1d208f1e6b39dbce87e0c3aa31b9ddcd6b88cf1295fdb7eaf55f",
+    "Kneeling_Single-Arm_High_Pulley_Row_0.jpg": "7b806ed5f20389ca80213ebfc21a739bf710e8806bac25f829f36a210be95ed4",
+    "Kneeling_Single-Arm_High_Pulley_Row_1.jpg": "dbc5e848f171475a41876be6344d887f2401601ec94a77cb634170ab0fef169d",
+    "Low_Pulley_Row_To_Neck_0.jpg": "ef738e7054ae4dd6ca8210196c5853b0efc86a6f9736b438c1cb56a7d299e753",
+    "Low_Pulley_Row_To_Neck_1.jpg": "b724c8cfe50e8a708e584ba28d7a852df21adae32f4daf3433c21c7100fe6e7c",
+    "Lying_Cable_Curl_0.jpg": "4ea2366f86b794366151412c5f43eab928328246856750b8570ccd60355ecb02",
+    "Lying_Cable_Curl_1.jpg": "0af9a24ff7dcb159540adda72feef1f5de71de78fdd093f03ae80a4444c4b331",
+    "One-Arm_High-Pulley_Cable_Side_Bends_0.jpg": "031be9dead2f283ee8a87acc5f8e0c87cfbd3a0ecc19075da125e4d70080df04",
+    "One-Arm_High-Pulley_Cable_Side_Bends_1.jpg": "52a9d2d4a4e12a320f81b341dfeaa1effc7eab8929fba4233402c95735bc082e",
+    "Pallof_Press_With_Rotation_0.jpg": "4a2aacd7efb6d49f05d0ebecc6ab70eb6f6ad5cb7c8c6ea049b50c82fb69b7b3",
+    "Pallof_Press_With_Rotation_1.jpg": "d3739acc1e3f2b58bb2cafff4d47f24fd6a0f3cb8ba7d9b25e6b3b8dff27d6e9",
+    "Shotgun_Row_0.jpg": "246b6d00c76662eab005644edce7a4cce62e8cb3a315d3164f020c2d0f8cbcbd",
+    "Shotgun_Row_1.jpg": "f6b8c5292831a60c9e517b778c9795000d8f4afcd5768ac9d8e1aecfbe7ddcc2",
+    "Sled_Drag_-_Harness_0.jpg": "dbc122514c474d3748d7ff0894a4ee5f49e41ff26a094a9068840568a25f3c70",
+    "Sled_Drag_-_Harness_1.jpg": "2050a4e335672e1afd39cb997860070bca9d32014bf6a087462246b64b1b8f70",
+    "Standing_Cable_Lift_0.jpg": "4f9847d5985f74f4c5ea41d9f36852f759a5d77f248d5c766c371610e3b05f88",
+    "Standing_Cable_Lift_1.jpg": "4f768a0a353276378d76fb086e43abcaa9ff7a3d5fc5b50709b258579c67e426",
+    "Standing_Low-Pulley_Deltoid_Raise_0.jpg": "a7740853b838f4d7c6dd0847699154d73844b7f42b66533e50c79fab90295b7d",
+    "Standing_Low-Pulley_Deltoid_Raise_1.jpg": "d9db976b4b347f60ebd5b38eaecd00d8b32c9d52faf0ec0cf782cc3347c64ac3",
+    "Wide-Grip_Pulldown_Behind_The_Neck_0.jpg": "989dc869e7b67444101abf29635a921b6d6feca3d281e1978a232ea61706264a",
+    "Wide-Grip_Pulldown_Behind_The_Neck_1.jpg": "48a65f265af583471c03bfa44591072312d387ef7fa957d7adcd5f9c420d5722",
+    "Yoke_Walk_0.jpg": "83183fe589a68405c0d49e52a47938849dbbe96d71a227406465f429a0e7d9c9",
+    "Yoke_Walk_1.jpg": "456151e22227be33a74a594f513c4af7caa79310dc20ba477dbb5682478a212d"
    }
   }
  ]
