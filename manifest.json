@@ -1,5 +1,5 @@
 {
- "version": 25,
+ "version": 26,
  "lotes": [
   {
    "id": "01",
@@ -1755,6 +1755,54 @@
     "Skating_1.jpg": "49631fa925f3edab29f56ff76d7dcdfcca38febbebf4a46e78e74fbf5e7cacd4",
     "Stride_Jump_Crossover_0.jpg": "05e8036107e47ce2bc96d33893164cc2ecd5da0719b593d86435d1d12041e680",
     "Stride_Jump_Crossover_1.jpg": "2a15a0b22db100f1794b678a05279f747865ac3cde3cca256c47a74acca2bf13"
+   }
+  },
+  {
+   "id": "41",
+   "ruta": "lotes/lote_41.zip",
+   "sha256": "19f32e64f15b6984c34569e1e3a4a940b25c10b576bde0efb0b5487b0be5f5e7",
+   "bytes": 3602648,
+   "archivos": {
+    "Bicycling_Stationary_0.jpg": "7f3ee620ed70fac32af93263d6ed9dfc37e4335f3a8aef49f8a5b728a6737d23",
+    "Bicycling_Stationary_1.jpg": "4df115ca89852b6bb03c98a26dbdff947361639aca38ef23ee32eba32145eaf2",
+    "Chair_Squat_0.jpg": "9c85add98a254e7bb57105aa4a2228350a7e82bcf4c0fe60d28a6fe7d00a3a1e",
+    "Chair_Squat_1.jpg": "343c971605f3210f25c1274b60901cec692c6648f8e02658ea3d0029ea09e2dc",
+    "Decline_Smith_Press_0.jpg": "205f99227775a5d9181304f8935e4050120f1ce69dd4d04e0307425d038071bc",
+    "Decline_Smith_Press_1.jpg": "416f9f946fe8a111ea09e6676f04a4db6e449c90e8b8ca9b1e510abf6ea3fb9b",
+    "Glute_Ham_Raise_0.jpg": "fdae8e7ba6a87941e6588dd132d505ca03ef9c0cff1e5267bbca6b9d452ec310",
+    "Glute_Ham_Raise_1.jpg": "7316c0b64d69d92573010cde325fa9b604f665dbdace4d77cb9887e25f05d25a",
+    "Jogging_Treadmill_0.jpg": "da92474078c3928261de288493efcbf73177ec5c6c030c9738ef431702a4173f",
+    "Jogging_Treadmill_1.jpg": "ee13fa38cc83ff9581e5e65f7e0edadc96f5695cdfe526b6251d4c16f19927fc",
+    "Leverage_Deadlift_0.jpg": "01f491a51c08b06367febb53dc909d1e6169d36ca0e659ecb3fbd9303d5325b5",
+    "Leverage_Deadlift_1.jpg": "5403768421208795eebf00cf2038072fecf25d366bc6414fd055fe42fb5f3b05",
+    "Leverage_Decline_Chest_Press_0.jpg": "3cc3f866be4ac6384ee13f4e9a407f20aa7c61f14953a7ce5116c55d09dda6fa",
+    "Leverage_Decline_Chest_Press_1.jpg": "20b489a5b751710de6b69106089457340028c6c1fd5842ee600c8747bd9cadf3",
+    "Lunge_Sprint_0.jpg": "0874d43a6e8c2704870f408759aebc9ecfb9118c7e1bf2a73c2cb86f282f3d7b",
+    "Lunge_Sprint_1.jpg": "0620f1c6801ba81ee9f8d80432dc973fe5e3c82614ed355d36f5121b1b48265f",
+    "Lying_T-Bar_Row_0.jpg": "c72bed18e1e235cc2c97a6753e681a838c42cf36b4f1e38ce63fd88ec11ff4d8",
+    "Lying_T-Bar_Row_1.jpg": "8f640ccae21955ccfae2e703fe443b70e8c0dcd3fd4d58975123ca0123e2b3be",
+    "Reverse_Hyperextension_0.jpg": "deb9053069f3abd95b719174d071bcfe0c874629ee0627c74b7a4df893cf756b",
+    "Reverse_Hyperextension_1.jpg": "7d900094e377224684102e17b7a59cf0ec21479bd06c7d22d7e1573bf64742d6",
+    "Running_Treadmill_0.jpg": "bb96156ca5b690df61e9d1a2b8729bfceb5e68150f46dc70f782e2b3c6e8944c",
+    "Running_Treadmill_1.jpg": "b7926121d3ad2180f4f15f4e84811a9a452c80dbb644c1a95fed10e9678a507d",
+    "Side_to_Side_Box_Shuffle_0.jpg": "e674fe90cf0b7b13c0f68ae6d1240bb98408b87cb992c269d9378c5883f51384",
+    "Side_to_Side_Box_Shuffle_1.jpg": "398541a07e8066755f68e244cf35887d85cc008aeb11b97ed3b0169855ca7717",
+    "Single-Cone_Sprint_Drill_0.jpg": "099c104e31e8a513b54166d9e40613ffa900e90e650ec084d3858a1c3146e168",
+    "Single-Cone_Sprint_Drill_1.jpg": "59b6f914b4d5b226938e5e29e63052ce6bd95c6b7d9242375a368360eb762a64",
+    "Smith_Machine_Hip_Raise_0.jpg": "c79b637fee970c7353baa9a4436dedbc13478c39022533d3c54735f12998d3a3",
+    "Smith_Machine_Hip_Raise_1.jpg": "18a75cb91f1d368c52e2e0d1cf938705fe83705d7ebfe0018d4b6180fb79be87",
+    "Smith_Machine_Leg_Press_0.jpg": "0a53cfd167720106afe36cf25f25accadd10b42a984c3fca57cbfa117100b317",
+    "Smith_Machine_Leg_Press_1.jpg": "f2d56c426518eb38dfba85415ba60def238c98bd9aba265b3b9c0cd140ca0cbc",
+    "Smith_Machine_One-Arm_Upright_Row_0.jpg": "2fe1163df747211d8a0e19a00c8917b6f1f2142a80eeb54407abc5df2065ea28",
+    "Smith_Machine_One-Arm_Upright_Row_1.jpg": "7eb3955498f52463dcc5ed1c5e800e7729795ff46428319ef4c89113fdecec53",
+    "Smith_Machine_Reverse_Calf_Raises_0.jpg": "f6639967c0f145c27a23b3afd5293cde40ca764464601caaf51382d3892ff677",
+    "Smith_Machine_Reverse_Calf_Raises_1.jpg": "815799577f888f7bb3d30592a9aa16aae293b8d6a3cf008b8b08bdafef9085db",
+    "Smith_Single-Leg_Split_Squat_0.jpg": "fd8fc294386fc91ed0021e3132a5d1aa29b68eb013905825c5b6a802f675ad25",
+    "Smith_Single-Leg_Split_Squat_1.jpg": "beaa61c794d157a2e3cb8e5da008b750498454017ec27677715b2cb7bd047f8f",
+    "Stairmaster_0.jpg": "31dd5df99e081de3cdad1d1a1f33b83c12cf683ac1e541dc56c006b57d16cdf8",
+    "Stairmaster_1.jpg": "fb9fbeeb613a923ad8bcf639f9cb57df1eaa5780bde4cd419455a4654851894c",
+    "Step_Mill_0.jpg": "914a5c6745b23edc18712db2eea38b818246d96763e18d0266abb673838a2ead",
+    "Step_Mill_1.jpg": "fb1c98ffec8e30ade93b5fa65cdce678c2768301553c06ee4356e6cb3ed12af1"
    }
   }
  ]
