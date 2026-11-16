@@ -1,5 +1,5 @@
 {
- "version": 28,
+ "version": 29,
  "lotes": [
   {
    "id": "01",
@@ -1897,6 +1897,54 @@
     "Sled_Reverse_Flye_1.jpg": "1be3323b92068441f8b31b402f5b1955a6e8f9f334d9cac8409bc0b723eb8d6c",
     "Smith_Machine_Pistol_Squat_0.jpg": "7455c5b2fc49d0df93e3f41fd9dda22e79592fabd87301b60bb0f4b6aa899afc",
     "Smith_Machine_Pistol_Squat_1.jpg": "a203819d003ebbc5c35ffc34b01d2c54826fbdf5fcda7bcf529095145db61943"
+   }
+  },
+  {
+   "id": "44",
+   "ruta": "lotes/lote_44.zip",
+   "sha256": "be7f5818bdfba8d0cc006a0f6d6a85f48dc99641cba71a5c8d5054d599163fcd",
+   "bytes": 3242558,
+   "archivos": {
+    "Bodyweight_Flyes_0.jpg": "bb1ce40bf754507c941ae15816b75ba88398a21171f1edb07da71a91ab3e99f9",
+    "Bodyweight_Flyes_1.jpg": "1c63c1211a0f473572470335c07039ac340ecebaa1181e0676d8c3d0637dccc2",
+    "Bradford_Rocky_Presses_0.jpg": "f3f9ad0a3417ae8fc97081bb88d1035721d862fc0a84ac18b2e9c131e336241c",
+    "Bradford_Rocky_Presses_1.jpg": "cdadadaedaac10691886807a504474433e8305cad51fda806d731737dad5f214",
+    "Cable_Iron_Cross_0.jpg": "a23b4cb13417a5d6e484dbc4925962e5b0ec587149b344bbaadd36c46f92fb62",
+    "Cable_Iron_Cross_1.jpg": "8eda0a038d2eda380dae4855128902c8669980342180b18ae328293c200f4c61",
+    "Cable_Judo_Flip_0.jpg": "9009ae0b512a5c9c98c7fe1bdabd2df1a6f3395583fb1bd2eb6d037b8797867f",
+    "Cable_Judo_Flip_1.jpg": "e4cb347ef575d61b2d82d5664e616c0ea19b9ac8673e07fdbb008f01ba5f1537",
+    "Calf-Machine_Shoulder_Shrug_0.jpg": "a93779ff87ba8b70a906095325a7453154263e0402625b862a30dd4e6af7be3c",
+    "Calf-Machine_Shoulder_Shrug_1.jpg": "8299ff5ccd0865eecc245b3c46c602f982c71de8abcd5015381bbea80005ee36",
+    "Chain_Handle_Extension_0.jpg": "a25d07fc8b4147ef8b2f55b50a133fc6c78a209fb5b365efe134cf01ee9ebe6f",
+    "Chain_Handle_Extension_1.jpg": "297269f0b1f407ac9446fc738704f1bd9daec01764f44e230dbb59dae89f78ff",
+    "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists_0.jpg": "a3c70593cc5fdc4d4528b53b57bbc1b73a2a72e3e7a0227a00ff2f1e0fdec204",
+    "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists_1.jpg": "602cbfca4a3ed95d92e6c9a1d76febbd8ee579a6702eaac3b5fc0211a718b79f",
+    "Lying_Close-Grip_Bar_Curl_On_High_Pulley_0.jpg": "13f55ff150c4d96c3ac4cbd7b137b9c7b3918f02e6407ef702d3ea8135a89aed",
+    "Lying_Close-Grip_Bar_Curl_On_High_Pulley_1.jpg": "09aff07013f872592558ca2317b4d9f9b60e15440eaeb493344349b645c5e215",
+    "Lying_Machine_Squat_0.jpg": "32b786a445744eab078b8339bc4c0a4d9f77029b6391d6c51e100115b0e58f12",
+    "Lying_Machine_Squat_1.jpg": "8e51c84d87d2a69ab5045a19a5dcd3ddc00949d9ae5a13e99b3804a144d39274",
+    "Power_Stairs_0.jpg": "c3cb6a579b3a60f193adcbffd7d4e80461562b3be379a1ae77efa928fecad3b2",
+    "Power_Stairs_1.jpg": "2d793b8b51651194db074860be84d3e37bfe66ebefb931061aa48034a995a3e3",
+    "Reverse_Band_Power_Squat_0.jpg": "c1f5e7b191e52bb4054ff6b917084d0efce3bf154192ea35a4669a820d975c6b",
+    "Reverse_Band_Power_Squat_1.jpg": "23740c0944b949da68fa1c9994a266fb960540046606e89dd21e4ab8bfdfd9f5",
+    "Rocky_Pull-Ups_Pulldowns_0.jpg": "a90c626ac364f0d12910e83e735a553bea4c3faa8507474f48dfcbd853e145af",
+    "Rocky_Pull-Ups_Pulldowns_1.jpg": "cdbb4eea3d26dd3caebd2df6697a2d5b830fd9fec3305c30eabb94eec0b129db",
+    "Seated_Band_Hamstring_Curl_0.jpg": "712c95dd415420f17ad3941058be4b620d031bb2a8bb86c940e859fccd9ae447",
+    "Seated_Band_Hamstring_Curl_1.jpg": "419bb3ed52c633db089545fb80f0e0ac16fc42700d14337b7c8e3dae0dfec421",
+    "Sled_Overhead_Backward_Walk_0.jpg": "feadbfb67860c411c279f859246271e44d30f309532ac5af53df0db61fac4edb",
+    "Sled_Overhead_Backward_Walk_1.jpg": "97ce3eab477b993e4c6654e766451cbb9f10ca5d3d08af53e02fdf609bd6de94",
+    "Sled_Overhead_Triceps_Extension_0.jpg": "4a49ad2c81b32a6deeb75e0bc9eb7113cf5dc12d6cca395e9c7e43b5d8ac0012",
+    "Sled_Overhead_Triceps_Extension_1.jpg": "e51a4f001b5dd8aa32b0a5c0ae54c361584fed503502fc0838065555deca343b",
+    "Smith_Incline_Shoulder_Raise_0.jpg": "e0db4db4d1973080a9c9c3d87fcdc422a623d1af92fdabf75c6c64fc8ce02e34",
+    "Smith_Incline_Shoulder_Raise_1.jpg": "74687e6059aab4f25275adea7a55e048e95144ef236e687fcd7c4e0e6e3b2e89",
+    "Smith_Machine_Behind_the_Back_Shrug_0.jpg": "355071566a79d7214bbafe2afe0743fe131e531754aa811b3ecf74e5cc25856e",
+    "Smith_Machine_Behind_the_Back_Shrug_1.jpg": "826b590ede8e593f3424ebf673513dc5ef3c08285acc9f0af3b64f5c1532c5e8",
+    "Smith_Machine_Hang_Power_Clean_0.jpg": "f0de35e1d8f2d017e0eb1f6cd106b4e799204e5d5d90b535c43c5c2f245dad64",
+    "Smith_Machine_Hang_Power_Clean_1.jpg": "de545d4739c11704e1030e64c0c7b203aa1ef90c117160e3ef5a8487c9bfe1e2",
+    "Squat_with_Plate_Movers_0.jpg": "cb26c6638c50b31fe9227fc8677cbb95b0809b6bb49fbf83e74ee5a39753341f",
+    "Squat_with_Plate_Movers_1.jpg": "07e7fbf41df9e160727946905e324c36b38b5cb2a83117fe14aca8a7694722c4",
+    "Weighted_Sit-Ups_-_With_Bands_0.jpg": "97b8bedd67666da680e3ce561064321f39ce23a8c8b3873f6872923ea6fb30d9",
+    "Weighted_Sit-Ups_-_With_Bands_1.jpg": "baf744e954dd651ec428a85d34524756112b2fa34a07faedb05056518e05dd2c"
    }
   }
  ]
