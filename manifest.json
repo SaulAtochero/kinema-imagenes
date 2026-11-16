@@ -1,5 +1,5 @@
 {
- "version": 27,
+ "version": 28,
  "lotes": [
   {
    "id": "01",
@@ -1851,6 +1851,52 @@
     "Wide-Grip_Pulldown_Behind_The_Neck_1.jpg": "48a65f265af583471c03bfa44591072312d387ef7fa957d7adcd5f9c420d5722",
     "Yoke_Walk_0.jpg": "83183fe589a68405c0d49e52a47938849dbbe96d71a227406465f429a0e7d9c9",
     "Yoke_Walk_1.jpg": "456151e22227be33a74a594f513c4af7caa79310dc20ba477dbb5682478a212d"
+   }
+  },
+  {
+   "id": "43",
+   "ruta": "lotes/lote_43.zip",
+   "sha256": "657e2cb291661ba942c53c64c87129197582c73ada0360fc7719671945a1a491",
+   "bytes": 2814878,
+   "archivos": {
+    "Atlas_Stone_Trainer_0.jpg": "05fde43879332bcc9c0d0e425b26bd611b32c42711856958e57c44fcce9fb777",
+    "Atlas_Stone_Trainer_1.jpg": "80a2a3d0c31d5461b774443c7a3ceccb29feecea110e500bcbd6cae4c01a01ee",
+    "Backward_Drag_0.jpg": "7831b0e10ae5a8796679dbea2d139cd13083d2c69ececbf6b4043aa5a87e4608",
+    "Backward_Drag_1.jpg": "1fbd52bbd0ae1d9c55c3f5a12b28701ab3069a6914737fc706c27c6560797506",
+    "Bear_Crawl_Sled_Drags_0.jpg": "d1d2def271909ae0933343beb2d3f5abe2d2684bbdd5dc9f3645ddb81b70031f",
+    "Bear_Crawl_Sled_Drags_1.jpg": "f5f0c9281a62079a3b19a4b3622c7a730f637c298bf5de10eed0da5133d7ec15",
+    "Cable_Incline_Pushdown_0.jpg": "dc81081d82ec4a5cf8f5b8395ab4973e6a67c126d9896d8e32d23d689ab6f21a",
+    "Cable_Incline_Pushdown_1.jpg": "9682381bd029d73b40c29a68f177d90ab96acdc185da88c50adff9c6c04c9b99",
+    "Cable_Incline_Triceps_Extension_0.jpg": "c14adcd0f417f797cfffd812627ebb2272e0dec0c47b4349ff56d48d1c686f5d",
+    "Cable_Incline_Triceps_Extension_1.jpg": "ee8428f1f9bd9ec4a3521aa070f0d6f658f4bf2d61f3113288604d05cbbd9208",
+    "Car_Deadlift_0.jpg": "144e8d59d32d8517eb5060a7eeccf44455c2315a83b8ffa5dc93dbf4bfe1941e",
+    "Car_Deadlift_1.jpg": "1fe9936aae39bd9e7152fe3d012cc3a35fcf650c3369f79298a2143338f75a38",
+    "Chain_Press_0.jpg": "5ff0362422e64d776157ed017160ea3fbed67d0db9a520f417a7e63e117985ab",
+    "Chain_Press_1.jpg": "a4b80ad7678b59b8110314f21e24382ed9a09728b5a7ae74420b9dd9d21cb291",
+    "Conans_Wheel_0.jpg": "6e30b524a7efe34dc13d1f8043ef059877f4c3584201a252b0e86282f19c01a2",
+    "Conans_Wheel_1.jpg": "cf0b2fc3927130d03a4c25d6eaf297332fe4df962eaf6e69cb5bbb9955841448",
+    "Crucifix_0.jpg": "0864603054912ffdb7c1b21338042673601bab941004e967070e4c11a46c7618",
+    "Crucifix_1.jpg": "0ef192c89c51c715ca79caf730f7c4e9b251e94c170860db04b90110b5fb8a75",
+    "Forward_Drag_with_Press_0.jpg": "ca31f87ddd409cbfe4087740897defe1869d1a0ef75b4c75100e9e13c0e1ca65",
+    "Forward_Drag_with_Press_1.jpg": "2ad98a820395e2e2ba8f2579dd99d1aed5a1e40c3fb3857156bd600755e8b39d",
+    "Kipping_Muscle_Up_0.jpg": "0cf95da25e0ecc7d2dc97eb1254d7ed72751a54b6b9636ae291e47c8338c7b51",
+    "Kipping_Muscle_Up_1.jpg": "4e1525651e8c53b7c0b314f2d4cb94bd6abcb490f12c3f17e7454f4418e873b5",
+    "Otis-Up_0.jpg": "fb775c6ec9d022a38347843cd2181f8cc7d3d1f606f6234dc62bec18d8f2c8c2",
+    "Otis-Up_1.jpg": "458ae4ca0c6efb5dc1fadce81eebe14b4b312617f823d317bc9c8c01585fc9c4",
+    "Prowler_Sprint_0.jpg": "a071dad36067963a05cd2fb6e8068c26580074ee3f1acdf85ffd04e215f609fa",
+    "Prowler_Sprint_1.jpg": "b9059ee2db565e1569ecfd7da7317690b8760b317f22473905f70107969fc25d",
+    "Rack_Delivery_0.jpg": "8b287a18c9335ecccf3c77cd6d4d1243a84e9c561898caf172410184ae160483",
+    "Rack_Delivery_1.jpg": "0671fb14147baecf064b1ca1b677644435088110440c110b7274633746ae93c6",
+    "Reverse_Band_Box_Squat_0.jpg": "c2d6ef3334983353132e0fd2cb84ab1f92ae9babd0d1f57347f283894a62d173",
+    "Reverse_Band_Box_Squat_1.jpg": "0f1e4e7911fe52d06dd156643d9e7e6d477d4594eecc559b48740bb5e22a5946",
+    "Reverse_Band_Sumo_Deadlift_0.jpg": "905e6ea6925b500868ca7758bda020b97e892f08482cd187a3ea479652b7f70f",
+    "Reverse_Band_Sumo_Deadlift_1.jpg": "bdc62dc110912031ced2c8eec5c657222ec7a9e0626729a2d97f4a17f5efe8ce",
+    "Rickshaw_Carry_0.jpg": "0dceb2f7e5bbf4710e3fec7e8957b273b68a38e7b2c85a4c51362577153a5c8f",
+    "Rickshaw_Carry_1.jpg": "0d76d047de9d2d54b25dc44a2f83cda8d7adcc23191abf6297cc24d12a282d2c",
+    "Sled_Reverse_Flye_0.jpg": "029082bb59a97aa8cb056a25fd75beceab7d5bc4e8bf4385572750d3d2e4f11b",
+    "Sled_Reverse_Flye_1.jpg": "1be3323b92068441f8b31b402f5b1955a6e8f9f334d9cac8409bc0b723eb8d6c",
+    "Smith_Machine_Pistol_Squat_0.jpg": "7455c5b2fc49d0df93e3f41fd9dda22e79592fabd87301b60bb0f4b6aa899afc",
+    "Smith_Machine_Pistol_Squat_1.jpg": "a203819d003ebbc5c35ffc34b01d2c54826fbdf5fcda7bcf529095145db61943"
    }
   }
  ]
