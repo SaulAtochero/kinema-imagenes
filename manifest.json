@@ -1,5 +1,5 @@
 {
- "version": 31,
+ "version": 32,
  "lotes": [
   {
    "id": "01",
@@ -2033,6 +2033,50 @@
     "Standing_Cable_Wood_Chop_1.jpg": "26725f3661dce59885030c2fb1ced0106cec314f06e5eee14ce515e5e6f62837",
     "Step-up_with_Knee_Raise_0.jpg": "f348125c0d092883b1d3fc83f9618d038003348bbf08d0fe1a1b39b3f88de2e9",
     "Step-up_with_Knee_Raise_1.jpg": "dd33348cc63c215e689d61263e6457628607f56c4943b423bc72693a875d28fc"
+   }
+  },
+  {
+   "id": "47",
+   "ruta": "lotes/lote_47.zip",
+   "sha256": "91a65b4a24c6d8570eefe005ffd90e3a6649adda18a620af9c1096261741ca7a",
+   "bytes": 2544844,
+   "archivos": {
+    "Alternating_Hang_Clean_0.jpg": "ba95162fae223e43e78918c31aff306f183107b02b0ee3036d798da5dfe5a475",
+    "Alternating_Hang_Clean_1.jpg": "b7d64956be85c335a4cc31100ad3fa13b34228088a86659670ae616229d51ac6",
+    "Around_The_Worlds_0.jpg": "cab598c2bdbcfdc2924465c68c4cb17236e896299e539c0c8a88741431aa57e1",
+    "Around_The_Worlds_1.jpg": "a90397baf93aea6f9ab2c1203c7bcb4d2f515bd782fc5d3283e043241ebbe662",
+    "Calf_Press_0.jpg": "beebdd729c661fb9c725cfe928b1f9650406e1899c7108d53c4b727bbc329acc",
+    "Calf_Press_1.jpg": "b2504f2edce26495c70326c8f7090b1ca8876ead448ee5160f8ececa8bc50cc4",
+    "Close-Grip_Push-Up_off_of_a_Dumbbell_0.jpg": "cff8c95f96fc84d26a38e2b58de47f9300889fc5ffbf041558f1b170702c3358",
+    "Close-Grip_Push-Up_off_of_a_Dumbbell_1.jpg": "bbeded3c1dcc6611e097d14b28bb824e52ab86046834c8d182e68d3b72cae546",
+    "Dumbbell_Incline_Shoulder_Raise_0.jpg": "8b65b2b04addd8c6f29af0ef76f5e27405b47ca739f5265ce6596421cabb8aaf",
+    "Dumbbell_Incline_Shoulder_Raise_1.jpg": "bc20d5ee2f004a3ad970ba4126f2fa78ee7deb014655debf11ab153f02d3922b",
+    "External_Rotation_with_Band_0.jpg": "c799f83d9e90c9d29935a77b0ec5a50e0848c4503ed8c287c18be5cc09600608",
+    "External_Rotation_with_Band_1.jpg": "ea57d0b9482795f40ca2dce747724d24d42470982c27ef76523414072ec0b7d1",
+    "Hip_Lift_with_Band_0.jpg": "56d0cde7f12201203ae814c64854a8c268deaeeda93e538786002140711418a8",
+    "Hip_Lift_with_Band_1.jpg": "83d18e0e7639fe4b9a688ce724eaf9952eb00fcaff317d0feefdc96c3bbf6ef8",
+    "Kneeling_Cable_Triceps_Extension_0.jpg": "dd4925461ecfd80bbd393501fc7a8022164fff7bc2958d180dde0ec42733c106",
+    "Kneeling_Cable_Triceps_Extension_1.jpg": "03c8a7a31ceea87195d9384fcb40d23594211f1ad803f242832d419e9c7ea8ca",
+    "Landmine_180s_0.jpg": "efef36e7d8f2ccdc1c6dac2d4f7706b20e998f5221d9d9b72bb3982b7f15c98d",
+    "Landmine_180s_1.jpg": "92e6df7236ef1f4f28724af607047b5aca3c6945828d4c37d112c182f3b980af",
+    "Middle_Back_Shrug_0.jpg": "c5e2a2863bda2ef3fb1fc76df07c16ec8545c99d529f60241eea03060d7a30ee",
+    "Middle_Back_Shrug_1.jpg": "2534adb13f3aba2e03035cbd190f9306254808b8a54cf30d7635ebe05685cfd9",
+    "Mixed_Grip_Chin_0.jpg": "a0de0cee2c3e7a4529b8b17157b7d320e82e37c397464bc37be03c4d7c161ce9",
+    "Mixed_Grip_Chin_1.jpg": "c5c30a613ec9a1cf6a985473d2446db8677f5357b4e6d5a6c3fcbf7126139111",
+    "One-Arm_Flat_Bench_Dumbbell_Flye_0.jpg": "9eaf7fe9570dd8c2b4329dbbe071b1853bebba6e9d4aa390a0d2bc92d52bb3fc",
+    "One-Arm_Flat_Bench_Dumbbell_Flye_1.jpg": "a0e539be7ad451b3e6c4ce98a3030975061180c886e22b0fda8a28b3f56b51dc",
+    "One-Arm_Kettlebell_Military_Press_To_The_Side_0.jpg": "7f589f95885da584d4cd8398995c2394f87204a5eb91f428613c7fe6f803251b",
+    "One-Arm_Kettlebell_Military_Press_To_The_Side_1.jpg": "4f0ab1d9f9873224a99b71d7ca49166134215351c37a9453298b835a501b9d88",
+    "Physioball_Hip_Bridge_0.jpg": "cce0fd04473ee71545c8e28465e3b7baa2cf7675120c1e8cddea99cd45635cb8",
+    "Physioball_Hip_Bridge_1.jpg": "0632e0464841d9bc2ffe4b66c5cf1c85ec1ce5b76479dade00c8fb11fb1bea42",
+    "Plyo_Kettlebell_Pushups_0.jpg": "9b02769588380f49e91cb9d66a62e8373eb5e1f88e7ecbf1ff4c9ba41349d9b5",
+    "Plyo_Kettlebell_Pushups_1.jpg": "b9bf003dd325517bd90d99dd9a5b54c6ef0e21b9657f2ea61e560fc7e22770b0",
+    "Side_Jackknife_0.jpg": "eda8c2afd0b400d3c3f168e16af17bc83499907a4fae7a3668c7b380039439df",
+    "Side_Jackknife_1.jpg": "4c6ccd4dc6ba1e75ff82ef4a274d87e4259da55caca9bc104c5a72f3d35d12bc",
+    "Smith_Machine_Decline_Press_0.jpg": "ef1bb0305726d8305945b865b309b2fc7b0c2b79f520989b97c421727a80bfd4",
+    "Smith_Machine_Decline_Press_1.jpg": "831bf51a4816089ba2da7c020bf43451c4febcbfe570bd8e4e062d57cee9e458",
+    "Weighted_Ball_Side_Bend_0.jpg": "e3fd5757515c1f5327e3ced7f2f6138691ac49eeb1776a67da1516b0158d6195",
+    "Weighted_Ball_Side_Bend_1.jpg": "beda2650dbd91a592e550eed0bc5e9f7c53bb4b84b85aff696998f266b2bf77f"
    }
   }
  ]
