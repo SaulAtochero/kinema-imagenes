@@ -1,5 +1,5 @@
 {
- "version": 30,
+ "version": 31,
  "lotes": [
   {
    "id": "01",
@@ -1993,6 +1993,46 @@
     "Windmills_1.jpg": "0e33c59b038f797605217587bb136b4e63fce7a0584e5e5c23b6fe39766b2f57",
     "Wrist_Rotations_with_Straight_Bar_0.jpg": "d579a9ba79384c503db461ccb31e5235762a2625bb8548b01e982c0d41546b7f",
     "Wrist_Rotations_with_Straight_Bar_1.jpg": "8b818b3e08def250c615ee11628ca399f2aec85fce525e6f5d11afdbc9fe44ea"
+   }
+  },
+  {
+   "id": "46",
+   "ruta": "lotes/lote_46.zip",
+   "sha256": "2952132545c048884689eb6d08d49727bfd4950f3f45a311048c55268f21a118",
+   "bytes": 2514788,
+   "archivos": {
+    "Calf_Press_On_The_Leg_Press_Machine_0.jpg": "389464acb3ecb78034b5fcb726298dee8fbf2d38a3af21a9f51e277941241c6b",
+    "Calf_Press_On_The_Leg_Press_Machine_1.jpg": "66962d4b4c68197c6b1e58c125f0365ac5058c9710f868cfe89bc802adc074a2",
+    "Calf_Raise_On_A_Dumbbell_0.jpg": "a74103bfe3e734f16d7859e4060a0154ffbba2d363f89c5a750337b966fd3738",
+    "Calf_Raise_On_A_Dumbbell_1.jpg": "5ddbdbecc2ea6696856029ae85524584ba44c1a7f2e0e2bfcc4b3baafe2dc757",
+    "Decline_Dumbbell_Flyes_0.jpg": "e75d52933fd93f68cee803b64427e2186178d305fff341a8e6ccb7d7770b7b05",
+    "Decline_Dumbbell_Flyes_1.jpg": "d4f116f5eebb8f655d1f98de7f411e158b5bc63d592ca28e54e752b30163c45d",
+    "Dumbbell_Seated_One-Leg_Calf_Raise_0.jpg": "e4aac4f4eee477513024323fbcd6169307ecabb7a1906d601840ba978c3733c1",
+    "Dumbbell_Seated_One-Leg_Calf_Raise_1.jpg": "6a71a16a4d5891910f78cb3f8b4f8ce68bcfe4a2d118b14a3b87e18065da5e50",
+    "Elbow_to_Knee_0.jpg": "e96e422a439263590eab3f89d00165dc2b98ae20ef57c5d8a644aa356ad84c3e",
+    "Elbow_to_Knee_1.jpg": "470fea90c2ec9891a306abddb1a5bafe80bb258033e8d078c439738f92023f4c",
+    "External_Rotation_with_Cable_0.jpg": "a19b3fc75eeca6a306f386e7a39fb6f46699896481253df00006ff4e02c723a0",
+    "External_Rotation_with_Cable_1.jpg": "13479ad87f2a8cefd813977164049023698161cd01f4189f091702a2e70a8c7b",
+    "Frog_Sit-Ups_0.jpg": "9245ca8e375ddd7766bae9d1162381fe0d17551873f1d7017a743763e9576f75",
+    "Frog_Sit-Ups_1.jpg": "86bf9789b3b60a396e9583bb53e43c4ac25da70ea28a050c6183939920d79034",
+    "Leverage_Shrug_0.jpg": "e0d50abd66ea5d56cc0cee8dfd0f15d3fe6c79e0bb0d1e70ee3cfbb42bf50747",
+    "Leverage_Shrug_1.jpg": "588b22c68eff38a0fda0235e0dfb45bd04c1f597890a46627fafce53dd2088e1",
+    "Low_Cable_Triceps_Extension_0.jpg": "fb41b4c6711fda566dfd8d5e9bd55e8cf7ff5020524de8f7f7ed239957f8e0fc",
+    "Low_Cable_Triceps_Extension_1.jpg": "3991a100c99b4fd18e9261775044d718a7107fd5b88abacd78a6ad6bc2aa51c9",
+    "Lying_Supine_Dumbbell_Curl_0.jpg": "3204430863e622c19b0d5acaea194cc6e4f351876154d4e599342ba7333a8192",
+    "Lying_Supine_Dumbbell_Curl_1.jpg": "b3214964ee854ef08d2c119444d87608d248d2323f406f86b94b4581b190ae97",
+    "Narrow_Stance_Leg_Press_0.jpg": "7153e0789d7307f4ff47ced2227998f7f0a6eaba84b0e456bc78d08571bfb394",
+    "Narrow_Stance_Leg_Press_1.jpg": "6b052654e104d1b16205a8a540d5dc5dd2c5666d0c73557d59d52d285bd3fe6b",
+    "Oblique_Crunches_-_On_The_Floor_0.jpg": "c7cfb17a5720517228f8f2547f81927921f700f22a1a028b940d5072dc6dbc87",
+    "Oblique_Crunches_-_On_The_Floor_1.jpg": "51ef8aa8adcd094cd30b5a05d668319637d864e54ec45a19221ed9af90ee17e5",
+    "Push_Up_to_Side_Plank_0.jpg": "1b4fb83d7181854b844fb7f32647ef0f8d832a49b650a1fef0cefb950a8630fa",
+    "Push_Up_to_Side_Plank_1.jpg": "5213208bb1eb65941f26098fd87388df4e0f906df83249603132500f38da2b1b",
+    "Single-Arm_Cable_Crossover_0.jpg": "7a2c01c565e154f050110f7d7b4cdd30ac57c33be1bb5166b10bcc587fd8adb0",
+    "Single-Arm_Cable_Crossover_1.jpg": "9acfd8060db6c9dac1b01d675cd3ba502d0d083028a52ea68c3d949e69d6cc71",
+    "Standing_Cable_Wood_Chop_0.jpg": "b4678d66ec82a0d7dc4ee9dba221c748cbe52e092d9baa2843a61105c8737e9e",
+    "Standing_Cable_Wood_Chop_1.jpg": "26725f3661dce59885030c2fb1ced0106cec314f06e5eee14ce515e5e6f62837",
+    "Step-up_with_Knee_Raise_0.jpg": "f348125c0d092883b1d3fc83f9618d038003348bbf08d0fe1a1b39b3f88de2e9",
+    "Step-up_with_Knee_Raise_1.jpg": "dd33348cc63c215e689d61263e6457628607f56c4943b423bc72693a875d28fc"
    }
   }
  ]
