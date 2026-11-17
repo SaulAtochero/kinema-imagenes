@@ -1,5 +1,5 @@
 {
- "version": 29,
+ "version": 30,
  "lotes": [
   {
    "id": "01",
@@ -1945,6 +1945,54 @@
     "Squat_with_Plate_Movers_1.jpg": "07e7fbf41df9e160727946905e324c36b38b5cb2a83117fe14aca8a7694722c4",
     "Weighted_Sit-Ups_-_With_Bands_0.jpg": "97b8bedd67666da680e3ce561064321f39ce23a8c8b3873f6872923ea6fb30d9",
     "Weighted_Sit-Ups_-_With_Bands_1.jpg": "baf744e954dd651ec428a85d34524756112b2fa34a07faedb05056518e05dd2c"
+   }
+  },
+  {
+   "id": "45",
+   "ruta": "lotes/lote_45.zip",
+   "sha256": "68725c7a7cfa3cda12190d2903c72652a09055fbb2a2c1a15bfa7db5bb43fa37",
+   "bytes": 2713429,
+   "archivos": {
+    "Bosu_Ball_Cable_Crunch_With_Side_Bends_0.jpg": "975c4073f5d57d51dda2d399dc4773f80ede47b6cac6da795d1682e1bdcf6899",
+    "Bosu_Ball_Cable_Crunch_With_Side_Bends_1.jpg": "2f69dcfc443c84a763bf8373b9bc1c8b65a073472fb56632b27a12fb2ab12a87",
+    "Cable_Wrist_Curl_0.jpg": "44c37a93f1fb7791984224f2622bc8583160a495aea5c78c0c6817cb8f3696f2",
+    "Cable_Wrist_Curl_1.jpg": "8098b97a5c6e12d7af2dd6fc4d93a2cdf43ebef30835d4afc3b71f62cadbc2ef",
+    "Dumbbell_Lying_Pronation_0.jpg": "5dac72c2476a098bd5aae648451bb14f73b1b9d8c32d18bb9d61ca4b142557ef",
+    "Dumbbell_Lying_Pronation_1.jpg": "225cc64f82f369e47ea5e83b138f766fcad412a87240bb330b3e4df3e4b595c8",
+    "Dumbbell_Lying_Supination_0.jpg": "a251bd25c961068726c540717d380b4457e83e681f3b5221c7cf6fef7e1c6f13",
+    "Dumbbell_Lying_Supination_1.jpg": "f7034fefeca5bbbf47200d3af4b18bdff423e05fb032c5a62b30ab1ead09c17d",
+    "Linear_3-Part_Start_Technique_0.jpg": "ac3ecbbb31a531b49846f85b4af74db9a4d3810a9727127c778ce00b57848dcb",
+    "Linear_3-Part_Start_Technique_1.jpg": "449b33c7546b2c9d4c108757d7ec2c7e98cdae8b3397eeba1e81d064351738ab",
+    "London_Bridges_0.jpg": "0a1880caac2e90bb81c27524fe0c99518f862fbb404c563fbfc7b69b2842f8dc",
+    "London_Bridges_1.jpg": "006adb0231cc0a6aff5d96b884fa2d8f04236ab6d009dbfb212973bfbbd6c992",
+    "Neck-SMR_0.jpg": "ef87c66810931f913c6cc432b1885a588f942d2b5912cc3a5a59f6e9d639dae3",
+    "Neck-SMR_1.jpg": "d90bf02758be71c3b247a63b57539ef70575c37c7365b8388bfcab7c1adfb0c0",
+    "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench_0.jpg": "b44ebc31fee114189979fa2323b3445c0c0027c070f53cd8b9b517d6c12dfa03",
+    "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench_1.jpg": "c35ee27aea3404604de71f955bacfe0345f741a9d4f35b6b366d010d4fefd58b",
+    "Platform_Hamstring_Slides_0.jpg": "87e54674df456d48888e840bf6a41e913c161119bf34d8713fcfb52ade720012",
+    "Platform_Hamstring_Slides_1.jpg": "b65c71c29a7e75ea27665b243bcdd7334c9f5e74b99517e4e3b7d6e024c4a30c",
+    "Seated_Dumbbell_Palms-Down_Wrist_Curl_0.jpg": "b4e87e68e69858b4ab66f56283c42349e87649845930db1b552f5793db35987a",
+    "Seated_Dumbbell_Palms-Down_Wrist_Curl_1.jpg": "f801e6fd93c462ce98f4e111eca02d3a36c36706fc642004eaacddffc586cdd4",
+    "Seated_Head_Harness_Neck_Resistance_0.jpg": "ff1d1a2322cac7c7849f2a126a2fba5a11b49b630268482b9ed1fde6065f49b2",
+    "Seated_Head_Harness_Neck_Resistance_1.jpg": "6528d4befa3d9acf011413f29ea66dfbac8a13310d175255cbc68c65aba2dc87",
+    "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl_0.jpg": "8ae226d08c9b87cd64b195f4de23f8eb1b0512112b87112797b4874f0a793c38",
+    "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl_1.jpg": "ff8e31736332fd8d71ba24aa7f46b5b4ddca5c52b0ea5aa274a6f7e502ed838f",
+    "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl_0.jpg": "2d52397b3e7e98d9ed7e92700277ffb3e6c1e10ed9af4cb604d42bd8d155b342",
+    "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl_1.jpg": "eeea6b3cd51a48569359b48848c74309e777df1ffb34aa5262fc01f8cfee3d68",
+    "Seated_Palm-Up_Barbell_Wrist_Curl_0.jpg": "736fa7a0ab68efe6273089d166223fe1fa8217782cfb8f2b08c7bca9908690e1",
+    "Seated_Palm-Up_Barbell_Wrist_Curl_1.jpg": "133700fd5a3e4dc9dae77e75a07a3e3db5d304bd08214bb2270149b0bfff5f41",
+    "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl_0.jpg": "592a198b796e9877f49631d3a91dc4a72466672d26e476ba8175477836859fc2",
+    "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl_1.jpg": "0c7fdeeea16cb22ab3f7097686b875393dde98f74a10be3b2a6d02773e239871",
+    "Side_Hop-Sprint_0.jpg": "fe6683229e51d58d730c22462d81ef39d1bb2775fd954f98a79b74662c7e2f73",
+    "Side_Hop-Sprint_1.jpg": "e8a7a1cef18ef71cd6b39656d5cf86e2daf1dc6b2a7c69350551c084697a89d6",
+    "Single-Leg_Hop_Progression_0.jpg": "2fdea41aaabbaeb80301078e947b9af4e07919dfc44e8acf140091b86da4c1f2",
+    "Single-Leg_Hop_Progression_1.jpg": "9a61110793c77b287a57d34c7718bf2202e0b41516e9c831b929cb54aa17b1fd",
+    "Standing_Olympic_Plate_Hand_Squeeze_0.jpg": "f315dec4ba3f5509c46869ce035e2105f871355a718981d18020f2e07a4e76d5",
+    "Standing_Olympic_Plate_Hand_Squeeze_1.jpg": "516030ac11b16a2f3e1d91f19b704db5663c24567582935a941730f4cf770011",
+    "Windmills_0.jpg": "31be4d1304d9862ef594c98bf3d83ac0ec5e9a01925d120eddc8db43e004ffd0",
+    "Windmills_1.jpg": "0e33c59b038f797605217587bb136b4e63fce7a0584e5e5c23b6fe39766b2f57",
+    "Wrist_Rotations_with_Straight_Bar_0.jpg": "d579a9ba79384c503db461ccb31e5235762a2625bb8548b01e982c0d41546b7f",
+    "Wrist_Rotations_with_Straight_Bar_1.jpg": "8b818b3e08def250c615ee11628ca399f2aec85fce525e6f5d11afdbc9fe44ea"
    }
   }
  ]
