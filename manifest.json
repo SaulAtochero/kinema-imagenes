@@ -1,5 +1,5 @@
 {
- "version": 32,
+ "version": 33,
  "lotes": [
   {
    "id": "01",
@@ -2077,6 +2077,34 @@
     "Smith_Machine_Decline_Press_1.jpg": "831bf51a4816089ba2da7c020bf43451c4febcbfe570bd8e4e062d57cee9e458",
     "Weighted_Ball_Side_Bend_0.jpg": "e3fd5757515c1f5327e3ced7f2f6138691ac49eeb1776a67da1516b0158d6195",
     "Weighted_Ball_Side_Bend_1.jpg": "beda2650dbd91a592e550eed0bc5e9f7c53bb4b84b85aff696998f266b2bf77f"
+   }
+  },
+  {
+   "id": "48",
+   "ruta": "lotes/lote_48.zip",
+   "sha256": "9ec37bb760f1833bbea24aa4f9497b6991ab58b0c1af8a7ef7217e83f0c8214d",
+   "bytes": 1381982,
+   "archivos": {
+    "Adductor_0.jpg": "6745cc875df1bb36716b498f6edd7d43377988e8dff5bb45c1b764efd94292f4",
+    "Adductor_1.jpg": "88e4e361760925c03bd55840a88e3458bd910ead2d3327cee9c878e2ca91154b",
+    "Barbell_Rollout_from_Bench_0.jpg": "bdb052520a5b6dddefb6aa947c13afa555ccf298d115f29fdfd566a2b93d21f5",
+    "Barbell_Rollout_from_Bench_1.jpg": "79cde3ccd16668450138f674d0f7dbc712fe5508f077b478488476ad76d84ab7",
+    "Bodyweight_Mid_Row_0.jpg": "aaef549858b1121b438612a9d335bfcc307d4ef982c87e4df036255924717c74",
+    "Bodyweight_Mid_Row_1.jpg": "b9bfdf0fd5dc104355e03aa9f1fba51c465873458613b551453a58067bd788ab",
+    "Decline_Oblique_Crunch_0.jpg": "cc1afbc7ac6dcb4c50f495101dbb07a319a1b2fee7a759a7d149b4296f57ccb2",
+    "Decline_Oblique_Crunch_1.jpg": "d52dbe97e3ffff402fbc1345c3351d82efcb9f85e1a58595c7f3e99f29fed611",
+    "Elbows_Back_0.jpg": "56850c1e3b3fc89fe1a87cca0aecf54b439a78b7fcd55b138b3db0a884333547",
+    "Elbows_Back_1.jpg": "4f2e96d8bd9c5c7eafa54d6bc7b71ce6573e38e833074ea502c29a1a3bc46102",
+    "Fast_Skipping_0.jpg": "0c71fcf1e755d6171301104dfcad19952628ce674458d85611d1fddde8631ea4",
+    "Fast_Skipping_1.jpg": "9ec5f33d279e5bb6b5896f841f76296613398a3e2003a37b19bd8cff95422f73",
+    "Floor_Glute-Ham_Raise_0.jpg": "f31aa41f5e567f2ccbd65c63abbbf6ce839f4822545de4cff34263a6ef8b3f25",
+    "Floor_Glute-Ham_Raise_1.jpg": "02d2a42b61a9b2d11dfb030b8696edef4a18f672b953ef93f71876a0046a233f",
+    "Kettlebell_Figure_8_0.jpg": "9d8fb874af690069b78d7edc39e852e0d6bc0f4486e73065c2f7dc5563d5b1b1",
+    "Kettlebell_Figure_8_1.jpg": "3ff75088e6bfeba73b659aac6f46768755cb06b1104e7fc5bdfb23cd40ee77b8",
+    "On-Your-Back_Quad_Stretch_0.jpg": "f302d6487074b4c9dddcdfa35f1782a3d6e9af243003cb215818f4726191f716",
+    "On-Your-Back_Quad_Stretch_1.jpg": "b13512cb5ab618bf67242c510c4be4545b7970a175a8a0af61de83c6f0ddb545",
+    "Palms-Down_Wrist_Curl_Over_A_Bench_0.jpg": "56fc49eb43561686b21c72d2abdb37153097340dc367778316b35ed3cc93fd36",
+    "Palms-Down_Wrist_Curl_Over_A_Bench_1.jpg": "8efcab654ecae242d99023da93d3b09fb019e87c83804934a8b9fa9380640a86"
    }
   }
  ]
