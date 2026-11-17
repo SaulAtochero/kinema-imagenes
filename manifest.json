@@ -1,5 +1,5 @@
 {
- "version": 33,
+ "version": 34,
  "lotes": [
   {
    "id": "01",
@@ -2105,6 +2105,28 @@
     "On-Your-Back_Quad_Stretch_1.jpg": "b13512cb5ab618bf67242c510c4be4545b7970a175a8a0af61de83c6f0ddb545",
     "Palms-Down_Wrist_Curl_Over_A_Bench_0.jpg": "56fc49eb43561686b21c72d2abdb37153097340dc367778316b35ed3cc93fd36",
     "Palms-Down_Wrist_Curl_Over_A_Bench_1.jpg": "8efcab654ecae242d99023da93d3b09fb019e87c83804934a8b9fa9380640a86"
+   }
+  },
+  {
+   "id": "49",
+   "ruta": "lotes/lote_49.zip",
+   "sha256": "51e013774c31de3016b2752b12261fb586fdcac6f3225718d282984a83040279",
+   "bytes": 981490,
+   "archivos": {
+    "Alternate_Heel_Touchers_0.jpg": "ecf18673c014ff2f4a67497c5272bceac4c264f668e277e1a88e8642481307b0",
+    "Alternate_Heel_Touchers_1.jpg": "ac84cfe665b470928a2dd952aae36da278f2743189f2cbc9ecaaa1fb12f91acf",
+    "IT_Band_and_Glute_Stretch_0.jpg": "f33fbdf9e05c20dde9e6e853510e434360f6c3dc509b15226692cf96cf0a9d6d",
+    "IT_Band_and_Glute_Stretch_1.jpg": "fa72e58f5ac2df6501720307a630a99adfb11815c03c92b2f25fcd74e5773974",
+    "Knee_Across_The_Body_0.jpg": "2aecf31064646883c5d00afb1ed55ff5fe84e6b39b902d04cf8f203530b37129",
+    "Knee_Across_The_Body_1.jpg": "30bad00e768d8827e679f1f01af6c8f6e26450af9279e5d701821509a9d07737",
+    "Kneeling_Forearm_Stretch_0.jpg": "be77c8559e6cddcac396f28b984c5ecade5c151a6471b0cedf5de8e2cea5f1b1",
+    "Kneeling_Forearm_Stretch_1.jpg": "e4b68998dcaa79ad18c3842493e2542da454ac6aef7f7524cfbd3f45010f2209",
+    "Middle_Back_Stretch_0.jpg": "2a7ca59290de57ee2305fc180bb48c4e1c27e98e92b11ab4b5731a77f192395e",
+    "Middle_Back_Stretch_1.jpg": "fcbc4e188eb4f22524ee8baba4b7de8ec28d7722e088f2ea1c2ce0fe820abc18",
+    "Seated_Dumbbell_Palms-Up_Wrist_Curl_0.jpg": "a6a6eb989b365e0a542e1ec37e6445a4c27389e6881fdc2a176d565f2ec1347f",
+    "Seated_Dumbbell_Palms-Up_Wrist_Curl_1.jpg": "972caccae58d200946c108a887e6dbf7eef13d608e5f0c5c9d48cfd7b985bdd4",
+    "Tate_Press_0.jpg": "10b6dfc0a0106e9ad4d5bbe63ff27c24d8d882bd0d6bdd632e8cc091160e8bf4",
+    "Tate_Press_1.jpg": "766a95df617af355328740bc2c6a9cc9efbaa7f6de448b41aca17406a9f85464"
    }
   }
  ]
