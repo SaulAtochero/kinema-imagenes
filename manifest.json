@@ -1,11 +1,11 @@
 {
- "version": 41,
+ "version": 42,
  "lotes": [
   {
    "id": "01",
    "ruta": "lotes/lote_01.zip",
-   "sha256": "1dcc3586d2e2d769369c72670b2a52c3cde9c14ad992f71c60c7bc32da588707",
-   "bytes": 2841956,
+   "sha256": "29fa500ca6bd55461fa77c226ee10455dbac25090c56a257276e345abe16b530",
+   "bytes": 2790055,
    "archivos": {
     "Barbell_Bench_Press_-_Medium_Grip_0.jpg": "a4bc0a8efad5663571fd798840974a32f4e7f5d4882ecabe857c410833fcb2f6",
     "Barbell_Bench_Press_-_Medium_Grip_1.jpg": "0bba513c2b8185c78b356775e4b561403a3516f559847e216345d3fe14e6b1e5",
@@ -45,8 +45,8 @@
     "Standing_Military_Press_1.jpg": "5ba02fbd72b390d79546fdc0a22f7a63bf686851d1f14720f33747be51119dba",
     "Triceps_Pushdown_0.jpg": "975799373e65c90bf10f377091d0a2cff991858cd28d77ffebba084632ab4c12",
     "Triceps_Pushdown_1.jpg": "b97eec781067e953423cbdb2bdb57b6de1273af2ac2b18ac1023910f747ab929",
-    "Wide-Grip_Lat_Pulldown_0.jpg": "64a2946d9ba48409cdecc51ff52819f34762c4be4a14e52654912fd1f0ed5b42",
-    "Wide-Grip_Lat_Pulldown_1.jpg": "d50dd4be57952fb20b591f1c11c808dfe9db11136566452bb945ab6fc13df94e"
+    "Wide-Grip_Lat_Pulldown_0.jpg": "3d707c04e1e163d627d9f1a1daf3d95e3189f64f00ef9788f192348745a0a455",
+    "Wide-Grip_Lat_Pulldown_1.jpg": "1cc848b13ee8081bc9c83893a82430ee7de2b242502bd7787a8d48a6e40f67b9"
    }
   },
   {
@@ -290,8 +290,8 @@
   {
    "id": "07",
    "ruta": "lotes/lote_07.zip",
-   "sha256": "d5c08462f92767202b23110e3dd1c4d3973622990fc4b02662dca3885797b17e",
-   "bytes": 2969785,
+   "sha256": "71295a1094a8c5d60d6cbda837a94a03ae26e944cfc77f496cc121ab72d13296",
+   "bytes": 2945795,
    "archivos": {
     "Barbell_Shoulder_Press_0.jpg": "8ddd48142711ea19c8234d3863cdbd484a89d12ab11f59ff15ddb1dca752688f",
     "Barbell_Shoulder_Press_1.jpg": "f0af91a06718ddee234031bfe4401523fdef8fd22efbf975edae823a3d4f0700",
@@ -329,8 +329,8 @@
     "Thigh_Abductor_1.jpg": "794c50063997891bec3834396bf480ae139a0df7db174e6f92227af98196594c",
     "Thigh_Adductor_0.jpg": "a34df5f24c488c5e686121f89f0df460f4d0ac903371c6fd506dd21cf8835313",
     "Thigh_Adductor_1.jpg": "63ee3890094b2b378305fb0a35cc6cbea655e68668e9a853abe3ebd672d885a0",
-    "Trap_Bar_Deadlift_0.jpg": "4fa076c9319303cc1f65ee6475860401c280422656b1d78f7f5fc3d44b0d8574",
-    "Trap_Bar_Deadlift_1.jpg": "ee575373e852603ecaf8297e91877990a5ed891618aecc5873bfb053634b87be",
+    "Trap_Bar_Deadlift_0.jpg": "dedc68d5b1dc7a8f61071eeb2b4f7bac5f0fac134335b6f96baf5075c5a2e87e",
+    "Trap_Bar_Deadlift_1.jpg": "f1ad1120829866e8478e31243e6d844fb0e2c9e177934aef8b645b30cac09844",
     "Triceps_Pushdown_-_V-Bar_Attachment_0.jpg": "911f55e3dd64dbd7300dfb2ca09c35dbcb6b0e03ef903392da3cab0f22310fd7",
     "Triceps_Pushdown_-_V-Bar_Attachment_1.jpg": "31cc3f38497f8adaad4c2680b15883f0ac4270d00685377b208f2b228e0d31ae"
    }
@@ -338,8 +338,8 @@
   {
    "id": "08",
    "ruta": "lotes/lote_08.zip",
-   "sha256": "84449c98ea0267db21a5cb92b51a6acd92e542dd4704772696164536838ec540",
-   "bytes": 3252802,
+   "sha256": "4a2d62cc49358fa8af7fa1d618e23b6149323fa0f1014ff5029e144696059556",
+   "bytes": 3221285,
    "archivos": {
     "Air_Bike_0.jpg": "4c6b20661bba56e2964a389fb3d122de1e8dcf5258e634e5ef651e6197f4744c",
     "Air_Bike_1.jpg": "102955d35649159cfdd567c17ade02b8a0e860994982fbdc2d444cb1eaf565ab",
@@ -375,8 +375,8 @@
     "Standing_Dumbbell_Press_1.jpg": "2d8eb133901127f7b1176edd1cf26e9923803114e440d35575f7e48dd68b56f1",
     "Standing_Leg_Curl_0.jpg": "5a3a1e7c1ff039d94bb2ed2814a666e875e6eaa6f5b33ee38cb5d7f786ddfa11",
     "Standing_Leg_Curl_1.jpg": "5589613d04787982859503f0afecc81cf6f770ca423f59bb43005d1fec666945",
-    "Underhand_Cable_Pulldowns_0.jpg": "ced6b2c27d0252068f81cd83f65dece8de6134ee7d0812c6c17597e4c83faa19",
-    "Underhand_Cable_Pulldowns_1.jpg": "ae62c2ec2165b9c42aab2ec8fa4ca6097adbbc303a9a38c85e1afea9fe55c40a",
+    "Underhand_Cable_Pulldowns_0.jpg": "89644992f4e2fa6f072f7bb044c7f778b97d7897663a7275e0ddda8bdc5ae576",
+    "Underhand_Cable_Pulldowns_1.jpg": "6d03368911f36fb59c6f7a2bf07e695681dddd0961bc240135e2997be0707838",
     "V-Bar_Pulldown_0.jpg": "30d99fef6ae040808cf788f684a32af480b77c5753b8ee91559f65e893cacf06",
     "V-Bar_Pulldown_1.jpg": "aca02f12a565a30046c456c049293435f32b8aa5f22c3495ca98aa3a541ea7ac",
     "Wide-Grip_Barbell_Bench_Press_0.jpg": "bba5b85ff27ff99950b0e795c706eae51d823f72ff655f5ddac8f66589b83544",
@@ -422,8 +422,8 @@
   {
    "id": "10",
    "ruta": "lotes/lote_10.zip",
-   "sha256": "42e5ddeaefba500854a790669c7933017d9a39abe6876daa19d1dc63fd6dd9e1",
-   "bytes": 2702741,
+   "sha256": "df34d322765d3a06db3186e98d20962f42c9b5dd025c47827b181821cb82a2e0",
+   "bytes": 2705031,
    "archivos": {
     "Cross_Body_Hammer_Curl_0.jpg": "f09ee1102aaf36ccfaa41ac7d3e7b6d7de52e5533b719bffc556ca21533eb2c8",
     "Cross_Body_Hammer_Curl_1.jpg": "5df02dd9ce2f6da054616e526550992ccdae71b66c9b7ec904ec9d266b78c6bf",
@@ -459,8 +459,8 @@
     "Walking_Treadmill_1.jpg": "d8edd6c2872ee2704087869650399da1956ae959223d8e1cb9056a8320571359",
     "Weighted_Pull_Ups_0.jpg": "d90f39c9d88a048ee85b094bc36afa74ae34c146e5172546bdb19bde2fefd851",
     "Weighted_Pull_Ups_1.jpg": "3a8a9b691c82284f558d501d083d0704aa642fdd6b03bcf81610c0590dec8565",
-    "Wide_Stance_Barbell_Squat_0.jpg": "8bfd884d1b790a2a7fb5c8ed05163816c85a3011c14d923638fe2fa3aadedf09",
-    "Wide_Stance_Barbell_Squat_1.jpg": "f6a7a2d5b2fd1b9a6fc51a66dfc933424aadf312f9aa213fa4d251bb12e7d623"
+    "Wide_Stance_Barbell_Squat_0.jpg": "f6748d1d174027eaaf29b14f6f512e844f58d2de2c28855848a0e51108d14ff6",
+    "Wide_Stance_Barbell_Squat_1.jpg": "8a970c10ea00ca8d7fa3c12fd8cb639ca9fa880e216ef6c18c2bbe7274d09aa6"
    }
   },
   {
@@ -590,8 +590,8 @@
   {
    "id": "14",
    "ruta": "lotes/lote_14.zip",
-   "sha256": "e1e90e9e5e99a427e050cbe131bab2dca21481d2682203eb893027214320c95b",
-   "bytes": 2603130,
+   "sha256": "6c814aace369ad94f59b6c4bbe3506a8dfcd854476e646615971149e4cb9830f",
+   "bytes": 2578302,
    "archivos": {
     "Barbell_Rear_Delt_Row_0.jpg": "032dc056ec9e2b4c1e8dfed7aeb7089d868b85130050bd767d148441305fea23",
     "Barbell_Rear_Delt_Row_1.jpg": "cb31cb67bddb57a6322ccbb76a3462e4aca2e69b8c01649f51f490408bea3dca",
@@ -629,8 +629,8 @@
     "Standing_Palms-In_Dumbbell_Press_1.jpg": "ab1488f36f5fd218196676aea5fce471505557ef8733e3434e95e21d279dc28e",
     "Two-Arm_Kettlebell_Military_Press_0.jpg": "3b43f58f66444d5c6c7f0265d09e0f8adf4d84dd8a58ab043f167261eff7bcf8",
     "Two-Arm_Kettlebell_Military_Press_1.jpg": "1f9319ce9b75f482d82a28c78241a4e908a719ad76804b4d257cba5f57a9131f",
-    "Weighted_Jump_Squat_0.jpg": "81aab493736a98e923e99da855a6cbc278c7658c053764b89a9dad8bcbda744e",
-    "Weighted_Jump_Squat_1.jpg": "b09de24cc31f5a7697d2c20e33d52e0d8cc51c85820bc10a6164cf95baaf6bd6",
+    "Weighted_Jump_Squat_0.jpg": "83d77e5fc182c0a94ec604377aaacfae65526af2c6eebba06d20b439b38a70fe",
+    "Weighted_Jump_Squat_1.jpg": "e48558fcea043bf2badc3264a912934bc11de9e284590ba39d3a9276d066b5fd",
     "Zottman_Curl_0.jpg": "3c47f38d7511480525b1a8f156fe5b28bb98b1aa8b82a2e844a4857171aa18a2",
     "Zottman_Curl_1.jpg": "d3791bdec1bea2d4ef64f2d522351f5f8ee9d205f83c907effadd3caf2135c35"
    }
@@ -638,8 +638,8 @@
   {
    "id": "15",
    "ruta": "lotes/lote_15.zip",
-   "sha256": "5e5ee9f52827433bc8ef2f51115cf3aee74df3f481a4c17be27e17e0cea7451c",
-   "bytes": 2378313,
+   "sha256": "f9107a25f18d3598b2ec1fcbf7af6e2e7c33008226688419cbe4343efc8e520c",
+   "bytes": 2354273,
    "archivos": {
     "Bent-Arm_Barbell_Pullover_0.jpg": "8f1f95e5cc1834e4793ecf85b9fe1af95c7e34f9979bbf14ffa1aa5a1bba4c8e",
     "Bent-Arm_Barbell_Pullover_1.jpg": "e6d1e73c257ceb7bff3028604f23706ebc0e3f33e6281b1a310d2b611c3b49f8",
@@ -673,15 +673,15 @@
     "Standing_Barbell_Press_Behind_Neck_1.jpg": "86a7f4d99065a0d864a7fe138d1d9e365551fd770c4d248ddcbc46785755ddeb",
     "Standing_Front_Barbell_Raise_Over_Head_0.jpg": "8a8269f936d87ae0779985ab61af336ca63ad1d54a6fd9ec946bc11179136789",
     "Standing_Front_Barbell_Raise_Over_Head_1.jpg": "52e6f37e470ba2b72624e6b23aa3965b9ea00881aa5597441c798ba2812579c4",
-    "Zercher_Squats_0.jpg": "e39a538bee8111b8d5100d7ed69fe288204e4a3bf74135930799769121e7eb31",
-    "Zercher_Squats_1.jpg": "c6d7f082f8282cab6f56474b5815ba025f936aa7309322b3b24a0dea15170d92"
+    "Zercher_Squats_0.jpg": "cd7d26beacbb12071cdbeb9991bc39d29a84dd1435425e503891d7ebd6e7665d",
+    "Zercher_Squats_1.jpg": "fad3aafee77e19468cc736c72c2b8e02c7b0d56b3319e907dbef848338333e14"
    }
   },
   {
    "id": "16",
    "ruta": "lotes/lote_16.zip",
-   "sha256": "b5888e722daa284a242d9e74854bfe8f4312b46d80d1897401c9795c375b36e1",
-   "bytes": 2531362,
+   "sha256": "250416df055e86755759f5a8493c2fec4620118f98a8526a2fe8229055f8affb",
+   "bytes": 2535492,
    "archivos": {
     "Alternating_Floor_Press_0.jpg": "24d074be93af5eb3264f35dfc5118f2fe8986125406994e052fb9bd3a61956b0",
     "Alternating_Floor_Press_1.jpg": "5f31356daf96a1a9534532a2d1d3db2b18c4312370f0bbb974c7901ce9d85c39",
@@ -713,8 +713,8 @@
     "Single_Leg_Butt_Kick_1.jpg": "868f3e4625b8c6034f63fb24aebdaee54667639d65f94c962cea3e0838381e40",
     "Standing_Palm-In_One-Arm_Dumbbell_Press_0.jpg": "dc92a25afa4a007601b68a5c9d5531ef32ecacb146ce8a97f7621e5fdd1ea5f5",
     "Standing_Palm-In_One-Arm_Dumbbell_Press_1.jpg": "b32306289a0c45d4b938f0ee85722fed787350d35368a415b7e28360e7d48815",
-    "Two-Arm_Kettlebell_Row_0.jpg": "27fae244e2468f3a7742cfdd65eca61aa2fe76937a6069edf78c62e07ce16366",
-    "Two-Arm_Kettlebell_Row_1.jpg": "5db0826ca52865b19393623cba97481ce6ffe45f1e79f5041dbacecfe6a4a8ba",
+    "Two-Arm_Kettlebell_Row_0.jpg": "ce09358e501dc96d99a9db18d858a31c31f176fa141e78ca13f8ea745ef94e02",
+    "Two-Arm_Kettlebell_Row_1.jpg": "97571dfc19457efd04a8050d31f80fb1b1e26101c24eb1d428f5a2c381152b94",
     "Wide-Grip_Decline_Barbell_Bench_Press_0.jpg": "7ca7988b8630c80121989fccd2c922c9b1fe56121012bfeb3a032f536d227f13",
     "Wide-Grip_Decline_Barbell_Bench_Press_1.jpg": "fdd31a436baf4defa4a3bba45f1f0779c7ba09299cf5ca174b5e47ae109b4c18",
     "Wide-Grip_Rear_Pull-Up_0.jpg": "a9fcc97824ff676a13f7fab38c8e3ebcf9278d96526b7824e66f695d9278ed6d",
@@ -812,8 +812,8 @@
   {
    "id": "19",
    "ruta": "lotes/lote_19.zip",
-   "sha256": "716b38eb51649e5857950d889dcbc13cabac9014c8a3b81dc70325a8a68af4fe",
-   "bytes": 2619512,
+   "sha256": "cb340f37b976ea41aaea0f67ecd26abb933e136b0aecfe9b67a8af5b710f7997",
+   "bytes": 2608631,
    "archivos": {
     "Ball_Leg_Curl_0.jpg": "f7b69e0d3788e2125e5701a27c1da248a95c024feb82bc2e312967ee93aceaec",
     "Ball_Leg_Curl_1.jpg": "efc4bae49619b164179d4c79a895c125674cd32c27bffb0757266b4fa331ed64",
@@ -853,8 +853,8 @@
     "See-Saw_Press_Alternating_Side_Press_1.jpg": "3644b1aa66ed0cdc7907669b634948456840b853b64dcc4f052436cfa357922c",
     "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench_0.jpg": "1e260f84d2fd114c2c104c11637c8fab4295bfaa2eee79f5a0675879d52d9a97",
     "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench_1.jpg": "9319363e61efe860512e23ff088bbba067975873c767e2e3eceb3955c0ece3e9",
-    "Two-Arm_Kettlebell_Clean_0.jpg": "f07c5b3735ea3a815530c7ba983e076c3d3456889c29403e4d6603f1c6b00f3b",
-    "Two-Arm_Kettlebell_Clean_1.jpg": "1f26237ec11a96d132db2d9bff52c912e9f4fdc190b00b422dea5993fe2548d1"
+    "Two-Arm_Kettlebell_Clean_0.jpg": "ed1082c05a91b462347dfc02c86039a9f58fa3de8ad49cf2f3f082ae989ea41b",
+    "Two-Arm_Kettlebell_Clean_1.jpg": "b7c3feabe06797d11448916ba54c4fc62942de70200482e4473be5759f6cdf34"
    }
   },
   {
@@ -894,8 +894,8 @@
   {
    "id": "21",
    "ruta": "lotes/lote_21.zip",
-   "sha256": "6f14f51a3e6434a4dc1e05228e6b98ab7dc2da253960c9f473e5dbf8bbcb1c33",
-   "bytes": 2370330,
+   "sha256": "aa0a7c6b3ee15220b90d154585412f2eed0215c8bacfc8c821963d2c6881069e",
+   "bytes": 2328512,
    "archivos": {
     "Band_Pull_Apart_0.jpg": "04bc96c72c4209cd49b9c84d5d0243775bdc4096b822b4368135358df71d3512",
     "Band_Pull_Apart_1.jpg": "fdbe3b21bc9e2aa3f20864836e60cd206381fa8d9ccef736af705f0c753a4769",
@@ -923,8 +923,8 @@
     "Standing_One-Arm_Cable_Curl_1.jpg": "b3668458243b40617d8594ea8eaec4ddf3f20b97bcd9e227fb1c15e5f21cc96e",
     "Standing_Rope_Crunch_0.jpg": "0c8472ceff69e4bbc1d324260eb3e006cc0e309069f4b48e22d358cedfcf9651",
     "Standing_Rope_Crunch_1.jpg": "a32e87b399ab7ee2a71bec3da383219d4379112d27ef3a95250fb1698459f390",
-    "Upright_Cable_Row_0.jpg": "bfbe8053e9f7ddb7d9f4455efa9d9087d0a508dd857ba8accef479350ada5c52",
-    "Upright_Cable_Row_1.jpg": "41697b951d9041c6d304dce359474c91f9a9e400d57e9c7c4827a7a8cb8bc3bd",
+    "Upright_Cable_Row_0.jpg": "e91179a79bc973e60d7a29c2b56d457125335d8558998e7bfc6d55d1562bf91a",
+    "Upright_Cable_Row_1.jpg": "8be4a087340115fd852c81688ecbcc43d9e986eb616328f12e4afc09f799861a",
     "Upright_Row_-_With_Bands_0.jpg": "a8c923a96c79add03408734943f4d907752ebc646c7a18c5f8cc4ec9b44ede25",
     "Upright_Row_-_With_Bands_1.jpg": "298163db2a17931b44b20e812132f3c1f22c2e8730f0aedcd981de8658c18d8c",
     "Weighted_Crunches_0.jpg": "d56ad7a60ceb00fe9103b031372c14377f5d18eb1308da5396de74087d4ece14",
@@ -1182,8 +1182,8 @@
   {
    "id": "28",
    "ruta": "lotes/lote_28.zip",
-   "sha256": "4859e86c6f131d590ca9806512d83b1761e9fc66fa9f8995db5a27f50e58c877",
-   "bytes": 2456457,
+   "sha256": "33e0fd5d70124ba1c3b0a3143efb7a29ca279d3effb107cc0d43de7887e750f5",
+   "bytes": 2429503,
    "archivos": {
     "Atlas_Stones_0.jpg": "d1b63fed87ec59e8930fb7482b5e5cf5e4c4a620109acb6be93207b22c090078",
     "Atlas_Stones_1.jpg": "a88de241c6e40c3f65f5a670fcc906f652bfa95540521267fba829904594ba76",
@@ -1221,8 +1221,8 @@
     "Split_Snatch_1.jpg": "af5b31fca490d451faea5960b24a380c01467b19caaf3b6eacd64c3e6a244bfb",
     "Svend_Press_0.jpg": "3d34fb1e5bf4cbde1315817020928c77192bab3d4df94e29a6e72157da01be02",
     "Svend_Press_1.jpg": "048505a0dc38fe1ecc149ae2107da1a2e4cb7d1c9b5c70ca5da8016773eeeffb",
-    "Tire_Flip_0.jpg": "decffecf5d3242b9a1817b9fd6d252b8a74797a0ea1ab806f42676978ffbf96f",
-    "Tire_Flip_1.jpg": "620c9f0999884cac59de28b872fa5dc23b57f5b16d3b30a4ff93b115f6d6592e",
+    "Tire_Flip_0.jpg": "8509f9ae56ecb5c74164e691e712d5216548157a1a378aa3b6cbed5e0b240ff5",
+    "Tire_Flip_1.jpg": "e9b65a4f61c6babcfd1c985c2b3faa6a15107989de1a97874bfc9295b25e1471",
     "Weighted_Ball_Hyperextension_0.jpg": "618ba1fca53f6a8db2986e8f4238b30af548173dbcf6146d934d2e40f427bca8",
     "Weighted_Ball_Hyperextension_1.jpg": "08eb90377f3725f9257264123685897270d89ec0bacad5647258dffea778241a"
    }
@@ -1230,8 +1230,8 @@
   {
    "id": "29",
    "ruta": "lotes/lote_29.zip",
-   "sha256": "e7658e5cf2e32a7c10721c724ea58f07666fcece94276ed2bfe9f30884c26623",
-   "bytes": 3017064,
+   "sha256": "11f3bfb63fe0f46747cfa22b2118daaae26970a4e7a3ee0b20291497b20a1644",
+   "bytes": 3020395,
    "archivos": {
     "Bench_Press_with_Chains_0.jpg": "ef164f000541bcb7cba67cef09851bea85ac2d8d4250e5bd128f20405200587d",
     "Bench_Press_with_Chains_1.jpg": "25eacc5063472f85c89628b5f55b97230092b4f27334d1c23c5ffc618bdf21d2",
@@ -1269,8 +1269,8 @@
     "Squat_with_Chains_1.jpg": "7f83099d962343fed1595941c59e03a48f214d887daaa990361d53c458c26ed8",
     "Sumo_Deadlift_with_Chains_0.jpg": "37debcb23c4621d3988bef7e1e971341a4c3f3d19242ab977455c626c5e0965a",
     "Sumo_Deadlift_with_Chains_1.jpg": "2532b32616fe9a72ad70fde349e59f1fb5c219ee0931a16fd3a0f6ea08dea3f7",
-    "Weighted_Sissy_Squat_0.jpg": "04ed86e1110e8df5d643947f7bb9d94cd911c99e80099d482429e35ac7d6b6aa",
-    "Weighted_Sissy_Squat_1.jpg": "da3817e8362b0f120cb1b4a78c9eac726f6d18cf3cfcd4902f1a1043a02ec86b",
+    "Weighted_Sissy_Squat_0.jpg": "c9d04e2a7db23678086eb1186023191a6ba4f942edd8375d43c24c1c2a68cfd4",
+    "Weighted_Sissy_Squat_1.jpg": "767ec5359d9b60cb272cb544ce36035a4bfd08e854b9910319e24a25957801bc",
     "Wrist_Roller_0.jpg": "75dca314166796a790d7fcd2e5ce24b94592cc707fda43e2d52df8c54ca0ba7b",
     "Wrist_Roller_1.jpg": "1add8751be76fdc533e43b629f50e972fe86c2b087514b091c358733c1bf227e"
    }
@@ -1326,8 +1326,8 @@
   {
    "id": "31",
    "ruta": "lotes/lote_31.zip",
-   "sha256": "5d51e240bc52b826f95c49d6cef8cfdc11ddba986fd5ad08b729fdb53668a39e",
-   "bytes": 2710465,
+   "sha256": "2aedd43062664fe139f873be25ac7813e4f401043f713fb44f888388fb868580",
+   "bytes": 2702512,
    "archivos": {
     "Axle_Deadlift_0.jpg": "ff98de39d1eff66c5bd2d1795c061eecd708b55485c7ff388c3feebfed4fcc0d",
     "Axle_Deadlift_1.jpg": "587b76183182cc01aaaa873d00ee8219722cd5fee251fcc109ebcc9796293212",
@@ -1367,8 +1367,8 @@
     "Straight_Bar_Bench_Mid_Rows_1.jpg": "ee7a3311dbc2b96bb39ef7b5254d3cbc9c55c05a9c429c3f683774304e0db899",
     "Suspended_Reverse_Crunch_0.jpg": "67a1f87ec45c69f5582f78d5c85b1f67ce694e968fc3aee092a5c4b83f69ea38",
     "Suspended_Reverse_Crunch_1.jpg": "7820aff22a7abb12760785449fea1cd02f5b2e559f2607d57a510e2e5c3cd9be",
-    "Weighted_Squat_0.jpg": "a2d9615167fd831ac80cb191c6d50bb1a111e7de4050faa4b0fc3a2c8d103653",
-    "Weighted_Squat_1.jpg": "93eedca8caf5db30fea9614720be6c31c29c1316945baa6a2883f3c9539b0346"
+    "Weighted_Squat_0.jpg": "0d4afdff024c786b25dc89863f6a6275da204a72f8a8ddc09f848c0fb9a0924d",
+    "Weighted_Squat_1.jpg": "c1afdcf733aced933fa6df5cf290d9b8e5d32edb59ade8da97d185a654a0223c"
    }
   },
   {
@@ -1454,8 +1454,8 @@
   {
    "id": "34",
    "ruta": "lotes/lote_34.zip",
-   "sha256": "532f4ac48fa2e796b9caf65c7a6c56de227935c630c205767ae4fec2afd25b0b",
-   "bytes": 2040811,
+   "sha256": "ee18517040486d9de35ba80bdcaa21daf08f024d468a4987d9a94d311f17f671",
+   "bytes": 2040026,
    "archivos": {
     "90_90_Hamstring_0.jpg": "161fc8b0d68598d787eefc3e5d29d9d3368a5aeb971a1431c5b7ec0d55f36ae9",
     "90_90_Hamstring_1.jpg": "d5218b2990471289a666c9f292ff04db3d4fc725c778f62b2ceae4a321db2ad4",
@@ -1485,8 +1485,8 @@
     "Standing_Hamstring_and_Calf_Stretch_1.jpg": "1354293abea59c3b5b60628ccc868283fbf8a6eedb85b05541e594102744f31e",
     "Toe_Touchers_0.jpg": "33ab6c84548c7f2a2fe6004f058023fa59e722725b559685bed805e7f377eb8d",
     "Toe_Touchers_1.jpg": "aa3f8cff8cf74260dfedf81c1244eb3918688a26b297b068e62bf0e47e3c64a5",
-    "Upper_Back_Stretch_0.jpg": "118e1bbdc781c175242a2c9e23d1d0c637c23b7f922fc7ece179627d99b51461",
-    "Upper_Back_Stretch_1.jpg": "05329d8c6af498499e293d9de9ee1cf070ddfe96a8d90968c986dd491ffb5a41",
+    "Upper_Back_Stretch_0.jpg": "ff224ad53ee4b7f91a7a29f870659d3a901673d3b109295f4c81b20cc1af53cc",
+    "Upper_Back_Stretch_1.jpg": "14d631bbeed90301809e929762986ae497f2a3382cbc0aa51cbf64b59f5bb565",
     "Upward_Stretch_0.jpg": "4bcdba12f88d05ed658b875d545d8aed213e4de02fbd200ad4096173e9ca0f46",
     "Upward_Stretch_1.jpg": "7796dd7e62c7826b17839be145e7f3e1fbd35b37d42b57a0f224f5e2f8358a70"
    }
@@ -1494,8 +1494,8 @@
   {
    "id": "35",
    "ruta": "lotes/lote_35.zip",
-   "sha256": "03101de10a8a0c6708db511a8561e350960ba2a84d774f4266b1c94697697c94",
-   "bytes": 1926770,
+   "sha256": "da734fcf0f0b993b7b9f2a8ca026c4c11828d20ed6dfc2311b29f946da281a8b",
+   "bytes": 1929481,
    "archivos": {
     "Calf_Stretch_Elbows_Against_Wall_0.jpg": "01419661869709bb400bff2ca15b5a56183f5c2e21ba36015295510dadc84fe1",
     "Calf_Stretch_Elbows_Against_Wall_1.jpg": "70264e44912b9901f113a23f14ce05947af00a2eea49bffa5dccd94d57a3a251",
@@ -1527,8 +1527,8 @@
     "Standing_Soleus_And_Achilles_Stretch_1.jpg": "ae5a3425261d7ad43c49cb011feab136871715db33bc33c20a9aa0ef50a24b90",
     "Torso_Rotation_0.jpg": "8a26b9ba73a019b7d71b4c49016476200c7c7815c9910f7f615e1abd76283922",
     "Torso_Rotation_1.jpg": "e748a427dc17d2c596ff46e9108bd89bfc7cc8c76e4256443d8a41b6ea38324e",
-    "Tricep_Side_Stretch_0.jpg": "c1d1659762443d3c0a73e9b2cb558fbe4448fdecb03b84927c560d04f5b2b059",
-    "Tricep_Side_Stretch_1.jpg": "ff57b649462c2db97a36da80650bcb8a8ef32ce190eee9bd78e544fb32949b51"
+    "Tricep_Side_Stretch_0.jpg": "bba5fb8653238b4f066f940c9093abac0d0fbc685400e46c9181baae05d2b401",
+    "Tricep_Side_Stretch_1.jpg": "e46efb65aa81aa0dd55eb99c147abae24620ed5b4a20e7278e3d0d16789b4c51"
    }
   },
   {
@@ -1576,8 +1576,8 @@
   {
    "id": "37",
    "ruta": "lotes/lote_37.zip",
-   "sha256": "7a891e37622522949d4596fcc2cfaff754063e6b34b7d7a54292b639b3cb1862",
-   "bytes": 2111676,
+   "sha256": "768583998c5353104b7dbc8ac49c4cbf7fbbb45e008e4220f016c5a857f29119",
+   "bytes": 2092615,
    "archivos": {
     "Carioca_Quick_Step_0.jpg": "b7c33d9bc72cb943f6683bf5336789ce9d198c43f7e5eb2294228f39ebf5f622",
     "Carioca_Quick_Step_1.jpg": "4c95aff41d9d6d76adca0f0adc9e706ea285438cde171cf7d5c66d045430254f",
@@ -1611,8 +1611,8 @@
     "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl_1.jpg": "9bcc81ab4a040fe5dc701679796fd7bd7327c9d151efbe18d8bf9126eebb8a11",
     "Standing_Towel_Triceps_Extension_0.jpg": "be60acdf41379d7e76d486236bf2edc9adfd1af1f5f6bfac294d8192730fd17c",
     "Standing_Towel_Triceps_Extension_1.jpg": "19eac71e4890eb919dfd6ab306d52da4478a081e9e5f4412ae6f510e6fb1a804",
-    "Wind_Sprints_0.jpg": "c007ceb06e2c2aae1dee992b5f9f0e702be2760532ea30e11b77256f1e9bcb3a",
-    "Wind_Sprints_1.jpg": "aaec39a94b66bd17c0bc13c4cc2c50cb77f6afe288d678b0339e263ed604337e"
+    "Wind_Sprints_0.jpg": "89b10758c4f9b3122a5d9da84a1e8022863656d79239213230c69b0a3e0eba41",
+    "Wind_Sprints_1.jpg": "51b383acef858f64f6028697e8c08488392235ef52b2df100445a7ceb45b4954"
    }
   },
   {
