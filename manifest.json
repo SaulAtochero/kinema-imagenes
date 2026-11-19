@@ -1,5 +1,5 @@
 {
- "version": 45,
+ "version": 46,
  "lotes": [
   {
    "id": "01",
@@ -2127,6 +2127,22 @@
     "Seated_Dumbbell_Palms-Up_Wrist_Curl_1.jpg": "972caccae58d200946c108a887e6dbf7eef13d608e5f0c5c9d48cfd7b985bdd4",
     "Tate_Press_0.jpg": "10b6dfc0a0106e9ad4d5bbe63ff27c24d8d882bd0d6bdd632e8cc091160e8bf4",
     "Tate_Press_1.jpg": "766a95df617af355328740bc2c6a9cc9efbaa7f6de448b41aca17406a9f85464"
+   }
+  },
+  {
+   "id": "50",
+   "ruta": "lotes/lote_50.zip",
+   "sha256": "6f4d96038ffd2f86602bdd675ef6d1bae0061848f6a7773b2e33b39a1f6db8cc",
+   "bytes": 650139,
+   "archivos": {
+    "Finger_Curls_0.jpg": "263aed6e7b1acf80bea58de3d645e42ec2a2f66cea4dea682b594cf827ba967d",
+    "Finger_Curls_1.jpg": "a65ae64953e74da3102594823d99c1ef42d35d41204fc50df6487f0e0d368763",
+    "Kneeling_Squat_0.jpg": "330c2255ccfcf1ecf3e94ebfe632a0f64839003ee3182069e3f48115fe7ba0f1",
+    "Kneeling_Squat_1.jpg": "db0b34f5d935f8000c1c9d81728f24a7dd4a6d48a1d5e5a587999a441277544a",
+    "Return_Push_from_Stance_0.jpg": "f11030f716cadb8343df26dcfcdf32d2405a9761ee3a6446fae3c13ea7d1fdbe",
+    "Return_Push_from_Stance_1.jpg": "4ad4110ae19a89d38f62628c25769b2a1f245763083b0c9529cd06890d903049",
+    "Standing_Bradford_Press_0.jpg": "7188deb655bd5d0e961af18f56eb74bc1cb527b3c91607d23cbfe634db4f6aee",
+    "Standing_Bradford_Press_1.jpg": "e05e26e7016df3b1ede40206d298eb958a8af7af57e2fb9baf35367af0226280"
    }
   }
  ]
