@@ -1,5 +1,5 @@
 {
- "version": 44,
+ "version": 45,
  "lotes": [
   {
    "id": "01",
@@ -768,8 +768,8 @@
   {
    "id": "18",
    "ruta": "lotes/lote_18.zip",
-   "sha256": "15bc96401e05ebc4f7219f1ae49411340f706457c2a2c02adbe8813b450147ea",
-   "bytes": 2594884,
+   "sha256": "e51322325744dde35f7244f5f4bd1f5b1796d4b930b55b484214f43efb1079f3",
+   "bytes": 2625909,
    "archivos": {
     "Alternating_Kettlebell_Row_0.jpg": "2c3602f5b74e38646dfbf22771b424d1d5199d394da4abd452ebc69868c5dc9f",
     "Alternating_Kettlebell_Row_1.jpg": "32442f1307c28ae08ffb2b887edcab2b97d60d836715292490803a961429ee92",
@@ -801,8 +801,8 @@
     "Seated_Flat_Bench_Leg_Pull-In_1.jpg": "9f0a008eae194b20c5e0fbd933e18f92fd8d800acc03b8552e59d59ef9fd867c",
     "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head_0.jpg": "78d6a48da42bea594dddacb5508da29a8988638499e8010c3ac44448c0c8cc33",
     "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head_1.jpg": "67bbcc3bc938e23399ea492e439f35ba5e64f36107742cce364ea8def79db48e",
-    "V-Bar_Pullup_0.jpg": "54a88401d1fb7dd8fcda7844e7ba291fed19bb781d6ce6f20803c3b9b93a4b8b",
-    "V-Bar_Pullup_1.jpg": "23126025353d8c870cb3db8a502945a013d540a235e41b530bfd540b7c261e86",
+    "V-Bar_Pullup_0.jpg": "2e13d8dc1a26561e446bae28944c78088910986991ae40d0703fde4a07425e46",
+    "V-Bar_Pullup_1.jpg": "278009f166c9994acad485d2c0d1c11e5438e6e009a79b3d7f8422b4483069ec",
     "Wide-Grip_Decline_Barbell_Pullover_0.jpg": "1fbff798afdc153b6dd5cce53430241b84c1536ee56f306465a8d5f968c8c8ea",
     "Wide-Grip_Decline_Barbell_Pullover_1.jpg": "c84f7558ffacad35729ce71ebd4320252ad74b082fb14f02d269e803d4f78794",
     "Zottman_Preacher_Curl_0.jpg": "2047d3635edd833cf50da5d45e669d1b5939486ed7b8ec8aac3ddf72a2e0ac58",
@@ -934,8 +934,8 @@
   {
    "id": "22",
    "ruta": "lotes/lote_22.zip",
-   "sha256": "458e3330a406d7cd7ef0511dc659d272204da6c2af6842854f54ddaac28f251a",
-   "bytes": 2428043,
+   "sha256": "3d15dd006700a6aa8097ed49d4eb39f9ab2c28d19ce89c36851397d2c0def25b",
+   "bytes": 2452953,
    "archivos": {
     "Alternating_Deltoid_Raise_0.jpg": "11a212a2c8ee6933c236c7dd685aa9161a3b83104837c12d582b1702e36195ed",
     "Alternating_Deltoid_Raise_1.jpg": "dbd022cfa332f953053924482ed09670e8ab319b93651e532da2c9ac9f503399",
@@ -961,8 +961,8 @@
     "One-Arm_Long_Bar_Row_1.jpg": "16e162e57ded1b0efb55e5e61425664f8f94c0e091943ccddbb0d62a05f13853",
     "Power_Clean_0.jpg": "2607daaebf151defe8fbc889815b37aeb0ccc80c1780e98a4b60b89bd65a03ca",
     "Power_Clean_1.jpg": "03b66adb9dd474c03c4f43207f2b021a56b031ca64c3bb8b55d8921f76545870",
-    "Push_Press_0.jpg": "8aa55c45abec2fcc37f4cebc7af97f4149567a75d96dc7015d4a13c1ad949063",
-    "Push_Press_1.jpg": "8259f500ac5445bd6a357c5fedeb94c4e553d4f032fb8248d8bd83f0ef50951f",
+    "Push_Press_0.jpg": "0dbf717ae1220490623e3c93814ea2cf02baa401b6ff4de67ac11d4c3479c76b",
+    "Push_Press_1.jpg": "465d72710395682b47a47375330b81daf7d75d751bc015887c2ddcef0479970a",
     "Pushups_Close_and_Wide_Hand_Positions_0.jpg": "663194fd2fbaae85efab0a7c5c4371d328c4aeafd7d5a2268fdcb7b92196c8d4",
     "Pushups_Close_and_Wide_Hand_Positions_1.jpg": "adde66b0a078c4225a98520f3e63ac39add3448858de8455089b983fe7400b54",
     "Rack_Pulls_0.jpg": "6a64139e3f48bc7a1efd6f267600cb1ca3365551ff6a807ca704a82364813fcf",
