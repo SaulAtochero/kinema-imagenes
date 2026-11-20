@@ -1,5 +1,5 @@
 {
- "version": 46,
+ "version": 47,
  "lotes": [
   {
    "id": "01",
@@ -2143,6 +2143,22 @@
     "Return_Push_from_Stance_1.jpg": "4ad4110ae19a89d38f62628c25769b2a1f245763083b0c9529cd06890d903049",
     "Standing_Bradford_Press_0.jpg": "7188deb655bd5d0e961af18f56eb74bc1cb527b3c91607d23cbfe634db4f6aee",
     "Standing_Bradford_Press_1.jpg": "e05e26e7016df3b1ede40206d298eb958a8af7af57e2fb9baf35367af0226280"
+   }
+  },
+  {
+   "id": "51",
+   "ruta": "lotes/lote_51.zip",
+   "sha256": "dea90f854990b7770c904cf3ee6bbd7e5ca64958bc9d3e50746e753d8c3b5c6a",
+   "bytes": 495703,
+   "archivos": {
+    "Iron_Cross_0.jpg": "306b0a2767f0ba2a819507ffeee8d4a7c971df6908b0b77b8c4cd26914c13055",
+    "Iron_Cross_1.jpg": "3889bc3ed6d435134be6f8a8ed6dee2b83451e5bcaefe1387cecbc70d4c8cf40",
+    "Moving_Claw_Series_0.jpg": "fe3fda8e61a19a5bfa3e1060847cad0bb11c400b88298728ceede2d161d1c392",
+    "Moving_Claw_Series_1.jpg": "a224fa2cd5457c476fad7ce33c77602e8dd98f6313bfa7c28f796f95929977e6",
+    "Prone_Manual_Hamstring_0.jpg": "0235596f45e513240531a6b13a85a7114bd955e382d3e0cf80293d669b1c88f1",
+    "Prone_Manual_Hamstring_1.jpg": "8597d621947ca7321aa90667a89797fbfaa6bf8446ae4a6476fe5ff223d9807c",
+    "Single-Arm_Push-Up_0.jpg": "2610a196e546f8c97a586938afba6d13e99c4374c7abe1b96448a068bb5dd1a3",
+    "Single-Arm_Push-Up_1.jpg": "7f3e3fa93d26bf95451b2185cc04acdb5546695163499c7fbd72b2449b1f8d44"
    }
   }
  ]
